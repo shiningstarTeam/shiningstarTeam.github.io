@@ -1,0 +1,22 @@
+---
+layout: post
+title:  basic construction(1)
+ktitle: 빗장부맞춤
+date:   2017-05-12 04:00:42 +0900
+categories: structure
+link: bc
+tag: 3Ddrawing
+---
+
+<div style="width:900px; margin:0px auto">
+
+<h3>
+	{{page.ktitle}}
+</h3>
+
+<p style="line-height: 160%">장부 한 쪽을 경사면으로 하여 끼워 넣는 결구방식이다.
+주로 우물반자의 장다란과 동다란의 맞춤 등에서 보이며 장부의 경사면을 이용하여 끼워 맞춘다..</p>	
+</div>	
+
+<div style="text-align:center; margin:20px 0px 30px 0px; display: block;">
+<iframe width="640" height="360" src="https://www.youtube.com/embed/rxdGlvvrmHg?autoplay=1&rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></div>

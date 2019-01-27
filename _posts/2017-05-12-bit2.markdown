@@ -1,0 +1,28 @@
+---
+layout: post
+title:  basic construction(1)
+ktitle: 엇빗이음
+date:   2017-05-12 04:00:42 +0900
+categories: structure
+link: bc
+tag: 3Ddrawing
+---
+
+<div style="width:900px; margin:0px auto">
+
+<h3>
+	{{page.ktitle}}
+</h3>
+
+<p style="line-height: 160%">부재의 두 갈래는 서로 상하로 엇갈리게 물리는 이음방식으로 두 부재의 형태가 같다. 뒤틀리기
+쉽기 때문에 아래에 받치는 부재가 필요하다. 주로 서까래, 부연 등의 위에 평고대에서 보이며,
+경사지게 물리는 이음부가 윗면에서 보이거나, 정면에서 보인다. 경사지게 물리는 이음부가 윗면
+에서 보이는 경우는 순천 정혜사 대웅전, 김제 귀신사 대적광전의 평고대에서 확인되며, 경사지게
+물리는 이음부가 정면에서 보이는 경우는 하동 쌍계사 대웅전, 익산 숭림사 대웅전 평고대에서
+확인된다.
+이음방식이다.</p>	
+</div>	
+
+<div style="text-align:center; margin:20px 0px 30px 0px; display: block;">
+<iframe width="640" height="360" src="https://www.youtube.com/embed/XFlpOOVjJYU&autoplay=1&rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+</div>

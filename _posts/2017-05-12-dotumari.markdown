@@ -1,0 +1,29 @@
+---
+layout: post
+title:  basic construction(1)
+ktitle: 도투마리은장이음
+date:   2017-05-12 04:00:42 +0900
+categories: structure
+link: bc
+tag: 3Ddrawing
+---
+
+<div style="width:900px; margin:0px auto">
+
+<h3>
+	{{page.ktitle}}
+</h3>
+
+<p style="line-height: 160%">두 부재의 이음자리에 방형 은장을 끼워서 잇는 이음방식으로 은장의 형태가 도투마리와
+비슷하다.
+영주 부석사 조사당의 외목도리를 제외한 도리 간 이음은 하부의 경우 맞댄이음으로 하고,
+상면의 경우 은장을 이용하고 있다. 은장의 형태가 일반적인 나비은장의 모양과 약간 다른 형태를
+하고 있는데, 일명 도투마리의 형태를 닮았다.
+도투마리 은장이음은 석탑의 부재 간 이음에서 보이는데, 경주 감은사지 동·서탑, 경주 나원리
+오층석탑에서 확인된다. 서산 보원사지 오층석탑은 원두은장이 보이며, 원주 거돈사지 삼층석탑
+에서는 방두은장과 원두은장을 같이 사용하였다.</p>	
+</div>	
+
+<div style="text-align:center; margin:20px 0px 30px 0px; display: block;">
+<iframe width="640" height="360" src="https://www.youtube.com/embed/zQtkWNN5qAM?autoplay=1&rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+</div>

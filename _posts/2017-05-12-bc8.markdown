@@ -1,0 +1,35 @@
+---
+layout: post
+title:  basic construction(1)
+ktitle: 나비장맞춤
+date:   2017-05-12 04:00:42 +0900
+categories: structure
+link: bc8
+tag: 3Ddrawing
+---
+
+<div style="width:900px; margin:0px auto">
+
+<h3>
+	{{page.ktitle}}
+</h3>
+
+
+
+<p style="line-height: 160%">나비장이음은 수직재 간 이음, 수평재 간 이음에서 많이 사용된다.
+수직재 간 이음의 경우 동바리를 잇거나 고주를 잇는 경우에 사용된다. 이때 두 군데 이상에 나비
+장이음만으로 연결하거나 촉이음과 함께 사용하고 나비장으로 보강하기도 한다. 그러나 이 이음은
+횡력으로 충격을 받거나 목재가 건조 수축할 경우, 나비장과 부재 간 결속력이 떨어지는 단점이
+있다. 이에 대해 서울 숭례문의 고주의 경우 1961~63년 수리시 나비장을 길이방향으로 보완하기도
+하였다. 반면 수평재 간 이음의 경우 도리, 창방, 평방 등에 주로 사용되며 심이음을 하기 때문에
+나비장이음으로만 연결하는 경우가 많다.
+나비장의 두께는 비교적 얇은 편이다. 그러나 경복궁 근정전의 평방 간 이음에 사용된 나비장은
+평방 높이만큼 만들어 평방 간에 먼저 설치하고 안초공이 결구된 높이만큼 따낸 것이 특징이다.</p>	
+</div>	
+
+<div style="text-align:center; margin:20px 0px 30px 0px; display: block;">
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/amz6ZA38eVg?autoplay=1&rel=0" frameborder="0" allowfullscreen></iframe>
+
+
+</div>

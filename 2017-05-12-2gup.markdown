@@ -1,0 +1,23 @@
+---
+layout: post
+title:  basic construction(1)
+ktitle: 두겹주먹장부이음
+date:   2017-05-12 04:00:42 +0900
+categories: structure
+link: bc
+tag: 3Ddrawing
+---
+
+<div style="width:900px; margin:0px auto">
+
+<h3>
+	{{page.ktitle}}
+</h3>
+
+<p style="line-height: 160%">주로 수평부재 간 이음에 사용되며 위에서 아래로 내려 끼워 결구한다. 외부에서는 반턱이음
+처럼 보인다.</p>	
+</div>	
+
+<div style="text-align:center; margin:20px 0px 30px 0px; display: block;">
+<iframe width="640" height="360" src="https://www.youtube.com/embed/5T3RbYmJH5w?autoplay=1&rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+</div>

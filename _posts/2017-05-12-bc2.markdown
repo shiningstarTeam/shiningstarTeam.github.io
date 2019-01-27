@@ -1,0 +1,29 @@
+---
+layout: post
+title:  basic construction(2)
+ktitle: 반턱쪽매
+date:   2017-05-12 04:00:42 +0900
+categories: structure
+link: bc2
+tag: 3Ddrawing
+---
+
+<div style="width:900px; margin:0px auto">
+
+<h3>
+	{{page.ktitle}}
+</h3>
+
+
+
+<p style="line-height: 160%">	
+널의 옆을 두께의 반 만큼 턱지게 깎고 서로 반턱이 겹치게 물려 널깔기하는 쪽매방식
+으로 턱쪽매, 변탕쪽매, 변탕붙임이라고도 한다.
+</p>	
+</div>	
+
+<div style="text-align:center; margin:20px 0px 30px 0px; display: block;">
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/CcrAHZ1eVFk?autoplay=1&rel=0" frameborder="0" allowfullscreen></iframe>
+
+</div>

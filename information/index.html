@@ -1,0 +1,119 @@
+---
+
+---
+{% include head.html %}
+{% include circle.html %}
+
+<link rel="stylesheet" href="{{site.baseurl}}/post.css">
+
+<div id="mainFrame_container">
+        <div class="mainFrame">
+{% include header.html %}
+
+<div class="sub_menu_image">
+
+
+<br>
+
+    <div style="margin-left:30px;">
+        <h3>Materials</h3>
+                      <h5 style="font-size:15px; color:#591A60"  >-Raw Materials for 3D Printing</h5>
+    </div>
+
+<br>
+
+<div class="woodSt">
+  
+  <h2 style="text-align: center; font-size:20px;"> &#9642 3D 프린팅 원료 소재</h2>
+
+<div  style="display:flex; margin:0px auto !important; width:800px;"   >
+
+<ul class="menu">
+  <li class="ui-widget-header" style="margin:0px;"><div>  무기재료 &nbsp </div></li>
+  <li><div>황토</div>
+<ul>
+  <a href="{{site.baseurl}}{% post_url 2017-05-12-Loess(L3) %} "><li style="padding:5px">황토(유형 |)</li></a>
+</ul>
+  </li>
+
+<li><div data-toggle="modal" data-target="#myModal">현무암</div>
+
+<ul>
+<a href="{{site.baseurl}}{% post_url 2017-05-12-Basalt(B2) %}"><li style="padding:5px">현무암(유형 I)</li></a>
+<a href=""><li style="padding:5px" class="grey">현무암(유형 ||)</li></a>
+<a href=""><li style="padding:5px" class="grey" >현무암(유형 III)</li></a>
+<a href=""><li style="padding:5px" class="grey">현무암(유형 IV)</li></a>
+<a href=""><li style="padding:5px" class="grey">현무암(유형 V)</li></a>
+</ul>
+
+  </li>
+
+  <a href="{{site.baseurl}}{% post_url 2017-05-12-Diatomite(D1) %} "><li><div>규조토</div></li></a>
+  <li><div class="grey">백토</div></li>
+  <li class="ui-widget-header" style="margin:0px;"><div>  무기질결합재  &nbsp </div></li>
+  <a href="{{site.baseurl}}{% post_url 2017-05-12-Slag(SL1A) %}"><li><div>(Slag)</div></li></a>
+  <a href="{{site.baseurl}}{% post_url 2017-05-12-TCP(TCP1) %} "><li><div>TCP</div></li></a>
+  <a href="{{site.baseurl}}{% post_url 2017-05-12-Bassanite(G1) %}"><li><div>수지 혼합 모형 석고</div></li></a>
+  <a href="{{site.baseurl}}{% post_url 2017-05-12-AnhydrousGypsum(AG1) %} "><li><div>무수 석고</div></li></a>
+  <a href="{{site.baseurl}}{% post_url 2017-05-12-Anhydrite(AG2) %} "><li><div>천연 무수 석고</div></li></a>
+<a href="{{site.baseurl}}{% post_url 2017-05-12-Cement(C1) %} "><li><div>시멘트</div></li></a>
+  <a href=""><li><div class="grey">탄산칼슘</div></li></a>
+  <a href=""><li><div class="grey">반수석고(알파&베타)</div></li></a>
+  <a href=""><li><div class="grey">알루미나계</div></li></a>
+  <a href="#"><li><div class="grey">MCPM</div></li></a>
+  <a href="" ><li><div class="grey">인산계 시멘트</div></li></a>
+</ul>
+<ul class="menu">
+  <li class="ui-widget-header" style="margin:0px;"><div> Activator  &nbsp </div></li>
+  <a href="{{site.baseurl}}{% post_url 2017-05-12-Quicklime %} "><li><div>생석회</div></li></a>
+  <a href="#"><li><div class="grey">KOH</div></li></a>
+  <a href=""><li><div class="grey">NaOH</div></li></a>
+  <a href=""><li><div class="grey">CaCl2</div></li></a>
+  <a href=""><li><div class="grey">Ca(OH)2</div></li></a>
+
+  <li class="ui-widget-header" style="margin:0px;"><div> 혼합재 &nbsp </div></li>
+<a href="{{site.baseurl}}{% post_url 2017-05-12-SilicaFume(SF1A) %} "><li><div>Silica Fume</div></li></a>
+  <a href="{{site.baseurl}}{% post_url 2017-05-12-Fly Ash(FA1A) %} "><li><div> Fly Ash</div></li></a>
+
+  <a href="#l"><li><div class="grey" >마섬유</div></li></a>
+  <a href=""><li><div class="grey" >CNT</div></li></a>
+
+  <li class="ui-widget-header" style="margin:0px;"><div>  접착제류 &nbsp</div></li>
+  <a href="#"><li><div class="grey">전분</div></li></a>
+  <a href=""><li><div class="grey">해초</div></li></a>
+  <a href=""><li><div class="grey">물유리(Na계열, K계열)</div></li></a>
+  <a href=""><li><div class="grey">천연접착제(석교, 아교)</div></li></a>
+
+</ul>
+
+
+
+
+<ul class="menu">
+  <li class="ui-widget-header" style="margin:0px;"><div>혼화제 &nbsp</div></li>
+  <!-- <li><div>나비장이음</div></li> -->
+  <a href=""><li><div class="grey">급결제류</div></li></a>
+  <a href=""><li><div class="grey"> 소포제</div></li></a>
+  <a href=""><li><div class="grey">초고성능 감수제/유동화제</div></li></a>
+  
+  <li class="ui-widget-header" style="margin:0px;"><div> 안료 &nbsp</div></li>
+  <a href=""><li><div class="grey"> 흑색 무기안료</div></li></a>
+  <a href=""><li><div class="grey"> 녹색 무기 안료</div></li></a>
+  <a href=""><li><div class="grey"> 적색 무기안료</div></li></a>
+  <a href=""><li><div class="grey"> 황색 무기 안료</div></li></a>
+</ul>
+
+
+</div>
+
+
+<br>
+<br>
+<br>
+
+<!-- Modal -->
+    
+
+{% include footer.html %}
+    </div>
+</div>

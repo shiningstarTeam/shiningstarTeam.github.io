@@ -1,0 +1,41 @@
+---
+
+---
+
+
+{% include head.html %}
+{% include circle.html %}
+
+<link rel="stylesheet" href="{{site.baseurl}}/post.css">
+
+<div id="mainFrame_container">
+        <div class="mainFrame">
+{% include header.html %}
+<!-- {% include mhead.html %} -->
+<div class="sub_menu_image">
+		<div style="margin-left:35px; margin-top:20px; display:block">
+
+					<div class="title" style="font-size:25px">{{page.ktitle}}</div>
+					<!-- <div class="title" style="font-size:20px; margin-top:-10px">{{page.title}}</div> -->
+					 
+		</div>
+<br>
+
+<!-- <div style="width:1200px; height:100px; margin-bottom:30px; "> -->
+
+	<!-- img style="width:200px; height:auto; margin:0px auto" src="{{site.baseurl}}/post_images/{{page.link}}.jpg" alt="{{page.link}}"> -->
+
+<!-- </div> -->
+
+</div>
+
+
+{{content}}
+
+
+
+</div>
+
+{% include footer.html %}
+    </div>
+</div>

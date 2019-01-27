@@ -1,0 +1,27 @@
+---
+layout: post
+title:  basic construction(1)
+ktitle: 십자쌍장부이음
+date:   2017-05-12 04:00:42 +0900
+categories: structure
+link: bc
+tag: 3Ddrawing
+---
+
+<div style="width:900px; margin:0px auto">
+
+<h3>
+	{{page.ktitle}}
+</h3>
+
+<p style="line-height: 160%">부재의 단면을 사등분하여 서로 대칭이 되도록 따내어 물린다. 단면이 작은 부재 간 이음에서
+사용된다. 다른 이음에 비하여 접합부의 면적이 큰 장점이 있기 때문에 보은 법주사 팔상전의 경우
+풍압을 심하게 받는 심주와 찰주의 이음에서 사용된다.</p>	
+
+</div>	
+
+<div style="text-align:center; margin:20px 0px 30px 0px; display: block;">
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/Gv1pwDzHcUE?autoplay=1&rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+</div>

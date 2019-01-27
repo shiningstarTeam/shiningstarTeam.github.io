@@ -1,0 +1,34 @@
+---
+layout: post
+title:  basic construction(1)
+ktitle: 촉이음
+date:   2017-05-12 04:00:42 +0900
+categories: structure
+link: bc6
+tag: 3Ddrawing
+---
+
+<div style="width:900px; margin:0px auto">
+
+<h3>
+	{{page.ktitle}}
+
+</h3>
+
+
+
+<p style="line-height: 160%">주로 기둥과 동바리의 이음에 사용된다. 중앙에 촉을 내거나 주변에 작은 촉을 여러 개 내기도
+하는데, 촉의 개수에 따라 크기를 조절한다. 중앙에 촉을 하나 내어 동바리 이음한 경우는 김제
+금산사 미륵전의 고주, 경주 기림사 대적광전, 안동 봉정사 대웅전, 순천 선암사 대웅전의 동바리
+이음에서 확인되며 기림사 대적광전은 나비장으로 보완하였다. 작은 촉 여러 개를 내어 동바리
+이음한 경우는 덕수궁 대한문 평주와 고주에서 확인된다.
+또한 판형 대공의 경우 여러 개의 부재를 이어 사용하는데 상·하 판재에 촉이음을 한다. 대부분
+2개 이상의 촉을 내며 방형이다. 청도 대적사 극락전의 종대공, 수리 전 강릉 임영관 삼문의 판대공
+에서 확인되며 봉정사 극락전의 복화반 대공에서도 볼 수 있다.</p>	
+</div>	
+
+<div style="text-align:center; margin:20px 0px 30px 0px; display: block;">
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/vCplXwMfj3Q?autoplay=1&rel=0" frameborder="0" allowfullscreen></iframe>
+
+</div>

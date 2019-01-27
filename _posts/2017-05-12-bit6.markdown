@@ -1,0 +1,25 @@
+---
+layout: post
+title:  basic construction(1)
+ktitle: 반턱빗이음
+date:   2017-05-12 04:00:42 +0900
+categories: structure
+link: bc
+tag: 3Ddrawing
+---
+
+<div style="width:900px; margin:0px auto">
+
+<h3>
+	{{page.ktitle}}
+</h3>
+
+<p style="line-height: 160%">부재의 마구리를 절반으로 나누어 윗단을 45。, 아랫단을 135。로 걷어내고, 다른 부재는
+반대로 절반을 걷어내어 서로 잇는 이음방식이다. 반턱엇빗이음이라고도 한다.
+주로 평고대 등에서 사용된다. 현대에는 인장력에 저항하기 위한 방식으로 반턱빗이음한 부재
+중앙에 못 등을 박아 보강하기도 한다..</p>	
+</div>	
+
+<div style="text-align:center; margin:20px 0px 30px 0px; display: block;">
+<iframe width="640" height="360" src="https://www.youtube.com/embed/0pZE5xfpme4?autoplay=1&rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+</div>

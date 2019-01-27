@@ -1,0 +1,114 @@
+// @import url(http://fonts.googleapis.com/earlyaccess/nanumgothiccoding.css);
+
+
+body{
+
+
+
+	h1,h2,h3,h4{
+	// font-family: 'Nanum Gothic Coding', monospace !important;
+	// font-weight:600;
+	
+
+}
+
+	p,a{
+
+		// font-family: 'Nanum Gothic Coding', monospace !important;
+
+
+	}
+li{
+
+	a:hover, a:active{
+
+
+
+	}
+
+
+
+}
+
+	.menu_sub_title{
+
+
+		display:flex;
+	}
+
+.sub_menu_image{
+	ul{
+		margin:13px 0px 13px 0px !important;
+		// display:flex;
+		font-size:13px;
+		list-style-type:none;
+
+		a{
+
+			text-decoration: none;
+			color:black;
+		}
+
+		li{
+
+			margin-right:15px;
+
+		}
+
+		.current{
+			font-weight:bold;		}
+	}
+}
+	.main_image{
+		width:920px;
+		
+		margin:0px auto;
+		padding:0px 0px 0px 0px;
+		font-size:11px;
+		font-weight:300;
+		// display:inline-block;;
+
+		h3{
+			
+			width:200px;
+			overflow:hidden;
+		}
+	}
+
+
+	.image{
+
+		
+		margin-right:20px;
+		overflow:hidden;
+		display: inline-block;
+		width:200px;
+		height:270px;
+		
+
+		img{
+				width:200px;
+				height:200px;
+				overflow:hidden;
+
+	}
+
+	}
+
+.menu {
+
+	display:block;
+}
+
+.ui-menu .ui-menu-item{
+	padding:0px;
+}
+
+.ui-widget-header{
+
+	border:0px;
+}
+
+
+
+}

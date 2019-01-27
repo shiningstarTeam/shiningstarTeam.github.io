@@ -1,0 +1,25 @@
+---
+layout: post
+title:  basic construction(1)
+ktitle: 빗걸이이음
+date:   2017-05-12 04:00:42 +0900
+categories: structure
+link: bc
+tag: 3Ddrawing
+---
+
+<div style="width:900px; margin:0px auto">
+
+<h3>
+	{{page.ktitle}}
+</h3>
+
+<p style="line-height: 160%">양쪽 부재를 대칭되는 2단의 빗턱으로 따내어 맞추는 것으로 주로 수평재 간 이음에서 사용된다.
+일본에서는 가마쿠라(鎌倉)시대 중기 이후 나타나며, 초기에는 방형 메뚜기장부의 반쪽모습으로 나타
+나고, 점차 사다리형 메뚜기장부의 반쪽모습으로 보인다. 산지를 측면에 삽입하거나 촉을 두어
+보강하기도 한다.</p>	
+</div>	
+
+<div style="text-align:center; margin:20px 0px 30px 0px; display: block;">
+<iframe width="640" height="360" src="https://www.youtube.com/embed/B8XOI4Q6sE4?autoplay=1&rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+</div>

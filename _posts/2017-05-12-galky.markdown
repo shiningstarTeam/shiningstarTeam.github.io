@@ -1,0 +1,27 @@
+---
+layout: post
+title:  basic construction(1)
+ktitle: 갈퀴이음
+date:   2017-05-12 04:00:42 +0900
+categories: structure
+link: bc
+tag: 3Ddrawing
+---
+
+<div style="width:900px; margin:0px auto">
+
+<h3>
+	{{page.ktitle}}
+</h3>
+
+<p style="line-height: 160%">이음부에 작용하는 직압력으로 결속하는 방식으로, 따낸 면을 경사지게 하여 이음재의 축방향
+으로 인장력이 작용할 경우 결속이 취약한 반턱이음보다 보완되었다. 창방과 같이 주로 수평부재를
+이을 때, 기둥 등의 지지재 중심에서 사용되기 때문에 이음길이는 기둥 지름 등 지지재 크기보다
+짧게 한다. 또한 이음면의 경사는 1/5~2/5 정도이다.
+안동 봉정사 대웅전과 서울 숭례문은 기둥머리에서 창방 간 갈퀴이음을 하였으며, 서울 숭례문은
+띠쇠로 보강하였다.</p>	
+</div>	
+
+<div style="text-align:center; margin:20px 0px 30px 0px; display: block;">
+<iframe width="640" height="360" src="https://www.youtube.com/embed/RwRZ-o_2k1w?autoplay=1&rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+</div>

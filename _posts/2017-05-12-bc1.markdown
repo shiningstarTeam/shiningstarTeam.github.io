@@ -1,0 +1,27 @@
+---
+layout: post
+title:  basic construction(1)
+ktitle: 제혀쪽매
+date:   2017-05-12 04:00:42 +0900
+categories: structure
+link: bc1
+tag: 3Ddrawing
+---
+
+<div style="width:900px; margin:0px auto">
+
+<h3>
+	{{page.ktitle}}
+</h3>
+
+
+
+<p style="line-height: 160%">널의 한 측면은 높이의 1/3 정도로 혀를 내고, 다른 한 측면은 홈을 내어 서로 끼이게 하는
+쪽매방식이다.</p>	
+</div>	
+
+<div style="text-align:center; margin:20px 0px 30px 0px; display: block;">
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/1EinRjSBq5w?autoplay=1&rel=0" frameborder="0" allowfullscreen></iframe>
+
+</div>

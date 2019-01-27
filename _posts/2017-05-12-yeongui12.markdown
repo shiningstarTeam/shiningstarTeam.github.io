@@ -1,0 +1,26 @@
+---
+layout: post
+title:  basic construction(1)
+ktitle: 숨은사개연귀맞춤
+date:   2017-05-12 04:00:42 +0900
+categories: structure
+link: bc
+tag: 3Ddrawing
+---
+
+<div style="width:900px; margin:0px auto">
+
+<h3>
+	{{page.ktitle}}
+</h3>
+
+<p style="line-height: 160%">안쪽은 여러 갈래의 주먹장을 내어 물리고 바깥쪽은 연귀로 맞댄 결구방식이다.
+사개연귀맞춤은 외부에서 짜임이 확인되지만, 숨은사개연귀맞춤은 바깥쪽을 연귀로 맞대어
+맞춤이 보이지 않는다. 주로 고급함, 상자 등에 사용된다.</p>	
+</div>	
+
+<div style="text-align:center; margin:20px 0px 30px 0px; display: block;">
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/4eotnpiAL94" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+</div>

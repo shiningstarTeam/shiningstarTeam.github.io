@@ -1,0 +1,31 @@
+---
+layout: post
+title:  basic construction(1)
+ktitle: 반턱주먹장부이음
+date:   2017-05-12 04:00:42 +0900
+categories: structure
+link: bc
+tag: 3Ddrawing
+---
+
+<div style="width:900px; margin:0px auto">
+
+<h3>
+	{{page.ktitle}}
+</h3>
+
+<p style="line-height: 160%">주로 수평재 간 이음에 사용된다. 주먹장부의 시작 너비는 부재 너비의 1/4 정도이고 끝 너비는
+3/8 정도이다. 주먹장부의 길이는 부재 너비의 1/2 정도로 내고 높이는 부재 높이의 반 정도이다.
+반턱주먹장부이음은 주먹장부 홈의 상단이나 하단을 따내는 경우와 그대로 두는 경우로 나눌
+수 있다.
+주먹장부 홈의 상단이나 하단을 그대로 두는 반턱주먹장부이음은 길이방향으로만 부재를 이을
+때 사용된다. 주로 창방, 도리에서 확인된다. 안동 봉정사 극락전의 창방 간 이음은 주먹장부가
+물리는 부위를 하단에 두고 반턱을 상단에 두어 주두와 맞춤 촉을 두었다.
+주먹장부 홈의 상단이나 하단을 따낸 반턱주먹장부이음은 주먹장부가 물리는 부위를 하단에
+두고 상단은 다른 부재와 반턱맞춤을 한다. 주로 장여나 창방 간 이음 등에서 사용된다.</p>	
+</div>	
+
+<div style="text-align:center; margin:20px 0px 30px 0px; display: block;">
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/-NZ36ahbeRk?autoplay=1&rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+</div>

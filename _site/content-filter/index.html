@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<!-- <meta name="viewport" content="width=device-width, initial-scale=1"> -->
+
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css'>
+
+	<link rel="stylesheet" href="css/reset.css"> <!-- CSS reset -->
+	<link rel="stylesheet" href="css/style.css"> <!-- Resource style -->
+	<script src="js/modernizr.js"></script> <!-- Modernizr -->
+  	
+	<title>PTCAT-Gallery</title>
+</head>
+<body>
+	<header class="cd-header">
+		<h1>결구법 </h1>
+		<!-- <p>Joinery</p> -->
+	</header>
+
+	<main class="cd-main-content">
+		<div class="cd-tab-filter-wrapper">
+			<div class="cd-tab-filter">
+				<ul class="cd-filters">
+					<li class="placeholder"> 
+						<a data-type="all" href="#0">전체보기</a> <!-- selected option on mobile -->
+					</li> 
+					<li class="filter"><a class="selected" href="#0" data-type="all">전체보기</a></li>
+					<li class="filter" data-filter=".color-1"><a href="#0" data-type="color-1">이음</a></li>
+					<li class="filter" data-filter=".color-2"><a href="#0" data-type="color-2">맞춤</a></li>
+					<li class="filter" data-filter=".color-3"><a href="#0" data-type="color-3">쪽매</a></li>
+				</ul> <!-- cd-filters -->
+			</div> <!-- cd-tab-filter -->
+		</div> <!-- cd-tab-filter-wrapper -->
+
+		<section class="cd-gallery">
+			<ul>
+				<li class="mix color-1 check1 radio2 option3"><img src="img/img-01.jpg" alt="Image 1"></li>
+				<li class="mix color-2 check2 radio2 option2"><img src="img/img-02.jpg" alt="Image 2"></li>
+				<li class="mix color-1 check3 radio3 option1"><img src="img/img-03.jpg" alt="Image 3"></li>
+				<li class="mix color-1 check3 radio2 option4"><img src="img/img-04.jpg" alt="Image 4"></li>
+				<li class="mix color-1 check1 radio3 option2"><img src="img/img-05.jpg" alt="Image 5"></li>
+				<li class="mix color-2 check2 radio3 option3"><img src="img/img-06.jpg" alt="Image 6"></li>
+				<li class="mix color-2 check2 radio2 option1"><img src="img/img-07.jpg" alt="Image 7"></li>
+				<li class="mix color-1 check1 radio3 option4"><img src="img/img-08.jpg" alt="Image 8"></li>
+				<li class="mix color-2 check1 radio2 option3"><img src="img/img-09.jpg" alt="Image 9"></li>
+				<li class="mix color-1 check3 radio2 option4"><img src="img/img-10.jpg" alt="Image 10"></li>
+				<li class="mix color-1 check3 radio3 option2"><img src="img/img-11.jpg" alt="Image 11"></li>
+				<li class="mix color-2 check1 radio3 option1"><img src="img/img-12.jpg" alt="Image 12"></li>
+				<li class="mix color-2 check1 radio3 option1"><img src="img/img-13.jpg" alt="Image 12"></li>
+				<li class="mix color-2 check1 radio3 option1"><img src="img/img-14.jpg" alt="Image 12"></li>
+				<li class="mix color-2 check1 radio3 option1"><img src="img/img-15.jpg" alt="Image 12"></li>
+				<li class="mix color-2 check1 radio3 option1"><img src="img/img-16.jpg" alt="Image 12"></li>
+				<li class="mix color-2 check1 radio3 option1"><img src="img/img-17.jpg" alt="Image 12"></li>
+				<li class="mix color-2 check1 radio3 option1"><img src="img/img-18.jpg" alt="Image 12"></li>
+				<li class="mix color-2 check1 radio3 option1"><img src="img/img-19.jpg" alt="Image 12"></li>
+				<li class="mix color-2 check1 radio3 option1"><img src="img/img-20.jpg" alt="Image 12"></li>
+
+				<li class="gap"></li>
+				<li class="gap"></li>
+				<li class="gap"></li>
+			</ul>
+			<div class="cd-fail-message">결과값이 없습니다.</div>
+		</section> <!-- cd-gallery -->
+
+		<div class="cd-filter">
+			<form>
+				<div class="cd-filter-block">
+					<h4>검색하기</h4>
+					
+					<div class="cd-filter-content">
+						<input type="search" placeholder="쪽매, 이음, 맞춤으로 검색">
+					</div> <!-- cd-filter-content -->
+				</div> <!-- cd-filter-block -->
+
+				<div class="cd-filter-block">
+					<h4>다중 선택</h4>
+
+					<ul class="cd-filter-content cd-filters list">
+						<li>
+							<input class="filter" data-filter=".check1" type="checkbox" id="checkbox1">
+			    			<label class="checkbox-label" for="checkbox1">이음</label>
+						</li>
+
+						<li>
+							<input class="filter" data-filter=".check2" type="checkbox" id="checkbox2">
+							<label class="checkbox-label" for="checkbox2">맞춤</label>
+						</li>
+
+						<li>
+							<input class="filter" data-filter=".check3" type="checkbox" id="checkbox3">
+							<label class="checkbox-label" for="checkbox3">쪽매</label>
+						</li>
+					</ul> <!-- cd-filter-content -->
+				</div> <!-- cd-filter-block -->
+
+				<div class="cd-filter-block">
+					<h4>카테고리 선택</h4>
+					
+					<div class="cd-filter-content">
+						<div class="cd-select cd-filters">
+							<select class="filter" name="selectThis" id="selectThis">
+								<option value="">세부 카테고리 지정</option>
+								<option value=".option1">장부이음</option>
+								<option value=".option2">턱이음</option>
+								<option value=".option3">엇걸이이음</option>
+								<option value=".option4">빗이음</option>
+								<option value=".option5">은장이음</option>
+								<option value=".option6">촉이음</option>
+								<option value=".option7">장부맞춤</option>
+								<option value=".option8">턱맞춤</option>
+								<option value=".option9">숭어턱맞춤</option>
+
+							</select>
+						</div> <!-- cd-select -->
+					</div> <!-- cd-filter-content -->
+				</div> <!-- cd-filter-block -->
+
+				<div class="">
+					<select name="" id="" class="">
+						<option value="">다른 데이터베이스</option>
+						<option value="">전통문양 데이터베이스</option>
+						<option value="">한옥구조 데이터베이스</option>
+					</select>
+
+				</div>
+
+				
+			</form>
+
+			<a href="#0" class="cd-close">Close</a>
+		</div> <!-- cd-filter -->
+
+		<a href="#0" class="cd-filter-trigger">필터 설정</a>
+
+		<!-- <a href=""></a> -->
+	</main> <!-- cd-main-content -->
+<script src="js/jquery-2.1.1.js"></script>
+<script src="js/jquery.mixitup.min.js"></script>
+<script src="js/main.js"></script> <!-- Resource jQuery -->
+<script>
+	$(document).ready(function(){
+
+
+	$('.cd-filter-trigger').click();
+
+	// $('.cd-gallery').children().hover{}
+
+	})
+</script>
+</body>
+</html>

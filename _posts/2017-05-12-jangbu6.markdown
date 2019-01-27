@@ -1,0 +1,23 @@
+---
+layout: post
+title:  basic construction(1)
+ktitle: 주먹장부맞춤
+date:   2017-05-12 04:00:42 +0900
+categories: structure
+link: bc
+tag: 3Ddrawing
+---
+
+<div style="width:900px; margin:0px auto">
+
+<h3>
+	{{page.ktitle}}
+</h3>
+
+<p style="line-height: 160%">주먹장부는 마치 주먹 모양과 비슷하게 장부의 폭에 차이를 두는 것으로 장부 끝부분이 시작부분
+보다 넓으며 위에서 내려 끼워 맞추면 빠지지 않게 되는 맞춤이다. 주먹장부맞춤은 횡하중에 의하여
+인장력이 발생할 경우 통장부맞춤, 장부맞춤, 쌍장부맞춤보다 부재 간 결속력이 강하다.</p>	
+</div>	
+
+<div style="text-align:center; margin:20px 0px 30px 0px; display: block;">
+<iframe width="640" height="360" src="https://www.youtube.com/embed/5J87sbNdg3E?autoplay=1&rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></div>

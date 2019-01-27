@@ -1,0 +1,1918 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-01-27T17:33:26+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">PTCAT</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</subtitle><entry><title type="html">Concrete copy</title><link href="http://localhost:4000/2017/06/13/concrete-copy.html" rel="alternate" type="text/html" title="Concrete copy" /><published>2017-06-13T00:00:00+09:00</published><updated>2017-06-13T00:00:00+09:00</updated><id>http://localhost:4000/2017/06/13/concrete%20copy</id><content type="html" xml:base="http://localhost:4000/2017/06/13/concrete-copy.html">&lt;p&gt;매—
+layout: post
+title:  structure
+date:   2017-06-10 18:00:01 -0600
+link: structure
+tag: structure
+categories: house
+ktitle: 한옥구조
+—&lt;/p&gt;
+
+&lt;style&gt;
+
+h4{
+	
+text-align: left;
+margin-left:0px;
+margin-bottom:5px;
+margin-top:18px;
+color:#333;
+}
+
+p{
+
+	line-height: 160%;
+	text-align: left;
+}
+
+&lt;/style&gt;
+
+&lt;div style=&quot;width:900px; margin:0px  auto&quot;&gt;
+
+
+&lt;!-- &lt;h4 style=&quot;margin-bottom:8px&quot;&gt;- 정의(Definition)&lt;/h4&gt;&lt;br&gt;
+
+
+&lt;p style=&quot;line-height: 180%&quot;&gt;황토는 대개 균질하고 층리가 발달되어 있지 않으며, 공극률이 크다. 퇴적층을 수직방향으로 갈라지게 하는 수직한 열극들이 발달해 있는 것이 특징.
+
+황토 입자의 크기는 0.02~0.05mm이며, 조립질과 중립질의 먼지를 포함한다. 이러한 크기의 비율은 무게비로 50% 정도이다. 
+
+전 세계적으로, 그 중에서도 중위도의 온대 지역이나 반건조 지역에 분포하여 지구 육지의 10%는 황토로 뒤덮여 있을 정도이다. 국가 중에서 가장 황토가 많이 있는 나라는 중국이며 63만 km^2km
+​2
+​​ 에 달하는 국토에 황토가 분포하고 있는데, 황하 문명 역시 황토 지역을 중심으로 발전하였다고 한다. 물론 대한민국도 전 국토의 35%가 황토로 덮여 있는데, 상당수가 몇 만 년 전부터 중국으로부터 황사로 들어온 것이라고 한다.
+
+단, 지역에 따라 황토의 구성 비율에 몇 가지 변이가 일어나는데, 진짜 황토뿐 아니라, 반건조 지역의 황토질 모래, 갯벌의 점토질 황토 등 다양한 계열이 있다. 이들을 구성하는 각각의 성분이 서로 구분하기 어렵기 때문에 황토를 구성하는 퇴적물의 유형은 지역마다 다르다.
+
+&lt;/p&gt;	
+&lt;/div&gt;	
+
+&lt;br&gt;
+
+&lt;div style=&quot;text-align:center; margin:20px 0px 30px 40px; display: block;&quot;&gt;
+
+&lt;h4 style=&quot;margin-bottom:10px&quot;&gt;- 조성(Composition)&lt;/h4&gt;&lt;br&gt;
+&lt;table&gt;
+&lt;tr&gt;
+	&lt;th&gt;No&lt;/th&gt;
+	&lt;th&gt;Component&lt;/th&gt;
+	&lt;th&gt;Result&lt;/th&gt;
+	&lt;th&gt;Unit&lt;/th&gt;
+	&lt;th&gt;Det.limit&lt;/th&gt;
+	&lt;th&gt;El.line&lt;/th&gt;
+	&lt;th&gt;Intensity&lt;/th&gt;
+	&lt;th&gt;w/o normal&lt;/th&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+	&lt;td&gt;1&lt;/td&gt;
+	&lt;td&gt;Na20&lt;/td&gt;
+	&lt;td&gt;0.104&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.01409&lt;/td&gt;
+	&lt;td&gt;Na-KA&lt;/td&gt;
+	&lt;td&gt;0.3872&lt;/td&gt;
+	&lt;td&gt;0.0924&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+	&lt;td&gt;2&lt;/td&gt;
+	&lt;td&gt;MgO&lt;/td&gt;
+	&lt;td&gt;0.747&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.01516&lt;/td&gt;
+	&lt;td&gt;Mg-KA&lt;/td&gt;
+	&lt;td&gt;7.3186&lt;/td&gt;
+	&lt;td&gt;0.6651&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+	&lt;td&gt;3&lt;/td&gt;
+	&lt;td&gt;Al2O3&lt;/td&gt;
+	&lt;td&gt;31.7&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.01637&lt;/td&gt;
+	&lt;td&gt;Al-KA&lt;/td&gt;
+	&lt;td&gt;764.5741&lt;/td&gt;
+	&lt;td&gt;28.2188&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr class=&quot;table_highlight&quot; &gt;
+	&lt;td&gt;4&lt;/td&gt;
+	&lt;td&gt;SiO2&lt;/td&gt;
+	&lt;td&gt;54.0&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.01219&lt;/td&gt;
+	&lt;td&gt;Si-KA&lt;/td&gt;
+	&lt;td&gt;851.5258&lt;/td&gt;
+	&lt;td&gt;48.1139&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+	&lt;td&gt;5&lt;/td&gt;
+	&lt;td&gt;SO3&lt;/td&gt;
+	&lt;td&gt;0.114&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00251&lt;/td&gt;
+	&lt;td&gt;S-KA&lt;/td&gt;
+	&lt;td&gt;2.8283&lt;/td&gt;
+	&lt;td&gt;0.1013&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+	&lt;td&gt;6&lt;/td&gt;
+	&lt;td&gt;K2O&lt;/td&gt;
+	&lt;td&gt;2.06&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00234&lt;/td&gt;
+	&lt;td&gt;K-KA&lt;/td&gt;
+	&lt;td&gt;122.8162&lt;/td&gt;
+	&lt;td&gt;1.8368&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+	&lt;td&gt;7&lt;/td&gt;
+	&lt;td&gt;CaO&lt;/td&gt;
+	&lt;td&gt;0.196&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00210&lt;/td&gt;
+	&lt;td&gt;Ca-KA&lt;/td&gt;
+	&lt;td&gt;9.7897&lt;/td&gt;
+	&lt;td&gt;0.1744&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;8&lt;/td&gt;
+	&lt;td&gt;TiO2&lt;/td&gt;
+	&lt;td&gt;1.15&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00622&lt;/td&gt;
+	&lt;td&gt;Ti-KA&lt;/td&gt;
+	&lt;td&gt;14.7502&lt;/td&gt;
+	&lt;td&gt;1.0202&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+	&lt;td&gt;8&lt;/td&gt;
+	&lt;td&gt;Na20&lt;/td&gt;
+	&lt;td&gt;0.104&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.01409&lt;/td&gt;
+	&lt;td&gt;Na-KA&lt;/td&gt;
+	&lt;td&gt;0.3872&lt;/td&gt;
+	&lt;td&gt;0.0924&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr class=&quot;table_second&quot;&gt;
+	&lt;td&gt;9&lt;/td&gt;
+	&lt;td&gt;Cr2O3&lt;/td&gt;
+	&lt;td&gt;0.0266&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00388&lt;/td&gt;
+	&lt;td&gt;Cr-KA&lt;/td&gt;
+	&lt;td&gt;1.0869&lt;/td&gt;
+	&lt;td&gt;0.0237&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+	&lt;td&gt;10&lt;/td&gt;
+	&lt;td&gt;Fe203&lt;/td&gt;
+	&lt;td&gt;9.93&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00402&lt;/td&gt;
+	&lt;td&gt;Fe-KA&lt;/td&gt;
+	&lt;td&gt;912.9433&lt;/td&gt;
+	&lt;td&gt;8.8503&lt;/td&gt;
+&lt;/tr&gt; 
+
+&lt;/table&gt;
+
+&lt;br&gt;
+
+&lt;h4 style=&quot;margin-bottom:15px; margin-top:20px&quot;&gt;- 상분석(Phase Analysis)&lt;/h4&gt;
+&lt;img src=&quot;/post_images/7.jpg&quot; style=&quot;width:80%&quot; alt=&quot;7&quot;&gt;
+
+&lt;table style=&quot;width:841px; margin:30px 30px 20px 20px; margin-top:25px&quot;&gt;
+	&lt;tr&gt;
+		&lt;th style=&quot;width:70%px&quot;&gt;Mateiral&lt;/th&gt;
+		&lt;th style=&quot;width:30%&quot;&gt;Data&lt;/th&gt;
+	&lt;/tr&gt;
+
+	&lt;tr&gt;
+		&lt;td&gt;Quartz low&lt;/td&gt;
+		&lt;td&gt;59.9%&lt;/td&gt;
+	&lt;/tr&gt;
+
+		&lt;tr&gt;
+		&lt;td&gt;Pyrophylite(Subcell)&lt;/td&gt;
+		&lt;td&gt;36.4&lt;/td&gt;
+	&lt;/tr&gt;
+
+		&lt;tr class=&quot;table_highlight&quot;&gt;
+		&lt;td&gt;Chirstobalite&lt;/td&gt;
+		&lt;td&gt;0.5%&lt;/td&gt;
+	&lt;/tr&gt;
+
+		&lt;tr&gt;
+		&lt;td&gt;Aluminum Phosphate(v)&lt;/td&gt;
+		&lt;td&gt;Ht 3.2%&lt;/td&gt;
+	&lt;/tr&gt;
+
+&lt;/table&gt;
+
+
+&lt;br&gt;
+
+&lt;h4 style=&quot;margin-top:28px&quot; &gt;- 형상(Morphlogy)&lt;/h4&gt;
+&lt;br&gt;
+&lt;div class=&quot;morphlogy&quot;&gt;
+
+&lt;div style=&quot;display: flex; width: 500px; margin:0px auto&quot;  &gt;
+	&lt;img src=&quot;/post_images/3.jpg&quot; alt=&quot;3.jpg&quot;&gt;
+	&lt;img src=&quot;/post_images/4.jpg&quot; alt=&quot;4.jpg&quot;&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;display: flex; width: 500px; margin:0px auto&quot;&gt;
+	&lt;img src=&quot;/post_images/5.jpg&quot; alt=&quot;5.jpg&quot;&gt;
+	&lt;img src=&quot;/post_images/6.jpg&quot; alt=&quot;6.jpg&quot;&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h4 style=&quot;margin-top:54px&quot;&gt;- 크기(Size Distribution)&lt;/h4&gt;
+	
+&lt;img src=&quot;/post_images/2.jpg&quot; style=&quot;width:80%&quot; alt=&quot;2&quot;&gt;
+
+&lt;table style=&quot;width:841px; margin:10px 30px 50px 20px;&quot;&gt;
+	&lt;tr&gt;
+		&lt;th style=&quot;width:70%px&quot;&gt;Volume&lt;/th&gt;
+		&lt;th style=&quot;width:30%&quot;&gt;Data&lt;/th&gt;
+	&lt;/tr&gt;
+
+	&lt;tr&gt;
+		&lt;td&gt;Maximum Volume&lt;/td&gt;
+		&lt;td&gt;59.9%&lt;/td&gt;
+	&lt;/tr&gt;
+
+		&lt;tr&gt;
+		&lt;td&gt;Minum Volume&lt;/td&gt;
+		&lt;td&gt;36.4&lt;/td&gt;
+	&lt;/tr&gt;
+
+		&lt;tr class=&quot;table_highlight&quot;&gt;
+		&lt;td&gt;Average Volume&lt;/td&gt;
+		&lt;td&gt;0.5%&lt;/td&gt;
+	&lt;/tr&gt;
+
+		&lt;tr&gt;
+		&lt;td&gt;Medium Volume&lt;/td&gt;
+		&lt;td&gt;Ht 3.2%&lt;/td&gt;
+	&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/div&gt; --&gt;
+
+
+&lt;script&gt;
+	
+$(document).ready(
+	function(){
+$('#information').find('a').css(&quot;color&quot;,&quot;purple&quot;);
+})
+
+&lt;/script&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">매— layout: post title: structure date: 2017-06-10 18:00:01 -0600 link: structure tag: structure categories: house ktitle: 한옥구조 —</summary></entry><entry><title type="html">Quicklime(CO1)</title><link href="http://localhost:4000/material/2017/06/10/sang.html" rel="alternate" type="text/html" title="Quicklime(CO1)" /><published>2017-06-11T09:00:01+09:00</published><updated>2017-06-11T09:00:01+09:00</updated><id>http://localhost:4000/material/2017/06/10/sang</id><content type="html" xml:base="http://localhost:4000/material/2017/06/10/sang.html">&lt;style&gt;
+h4{
+	text-align: left;
+margin-left:0px;
+margin-bottom:5px;
+margin-top:18px;
+color:#333;
+}p{
+	line-height: 160%;
+	text-align: left;
+}&lt;/style&gt;
+
+&lt;div style=&quot;width:800px; margin:0px  auto&quot;&gt;
+&lt;div style=&quot;margin:0px auto; width:200px; height:150px;&quot;&gt;
+&lt;img src=&quot;/post_images/ocher.jpg&quot; alt=&quot;&quot; style=&quot;width:100%;&quot; /&gt;
+&lt;/div&gt;
+&lt;h4 style=&quot;margin-bottom:8px&quot;&gt;&amp;#8226; 정의(Definition)&lt;/h4&gt;&lt;br /&gt;
+&lt;p style=&quot;line-height: 180%&quot;&gt;산화칼슘(CaO)의 관용명. 공업적으로는 석회석을 열분해(1000~1200℃)하여 만든다. 백색 무정형 고체이며, 비중은 소성(燒成)온도의 고저로 2.3~3.4까지이다. 생석회의 CaO %는 화학용으로 80~90% 이상, 토건용으로 60~70% 이상, 농업용은 60% 이하이다. 용도는 석탄비료, 수분보집제, 혼합시멘트, 카바이드, 소독용 등이다.
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align:center; margin:0px auto; display: block; width:800px&quot;&gt;
+&lt;h4 style=&quot;margin-bottom:10px&quot;&gt;&amp;#8226; 조성(Composition)&lt;/h4&gt;&lt;br /&gt;
+&lt;table&gt;
+&lt;tr&gt;
+	&lt;th&gt;No&lt;/th&gt;
+	&lt;th&gt;Component&lt;/th&gt;
+	&lt;th&gt;Result&lt;/th&gt;
+	&lt;th&gt;Unit&lt;/th&gt;
+	&lt;th&gt;Det.limit&lt;/th&gt;
+	&lt;th&gt;El.line&lt;/th&gt;
+	&lt;th&gt;Intensity&lt;/th&gt;
+	&lt;th&gt;w/o normal&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;1&lt;/td&gt;
+	&lt;td&gt;MgO&lt;/td&gt;
+	&lt;td&gt;0.812&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00753&lt;/td&gt;
+	&lt;td&gt;Mg-KA&lt;/td&gt;
+	&lt;td&gt;7.0404&lt;/td&gt;
+	&lt;td&gt;0.7662&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;2&lt;/td&gt;
+	&lt;td&gt;Al2O3&lt;/td&gt;
+	&lt;td&gt;0.0796&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00158&lt;/td&gt;
+	&lt;td&gt;Al-KA&lt;/td&gt;
+	&lt;td&gt;1.8350&lt;/td&gt;
+	&lt;td&gt;0.0751&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;3&lt;/td&gt;
+	&lt;td&gt;SiO2&lt;/td&gt;
+	&lt;td&gt;0.257&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00163&lt;/td&gt;
+	&lt;td&gt;Si-KA&lt;/td&gt;
+	&lt;td&gt;5.8009&lt;/td&gt;
+	&lt;td&gt;0.2428&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&quot;&quot;&gt;
+	&lt;td&gt;4&lt;/td&gt;
+	&lt;td&gt;P2O5&lt;/td&gt;
+	&lt;td&gt;0.0205&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00073&lt;/td&gt;
+	&lt;td&gt;P-KA&lt;/td&gt;
+	&lt;td&gt;1.2513&lt;/td&gt;
+	&lt;td&gt;0.0193&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;5&lt;/td&gt;
+	&lt;td&gt;SO3&lt;/td&gt;
+	&lt;td&gt;0.131&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00086&lt;/td&gt;
+	&lt;td&gt;S-KA&lt;/td&gt;
+	&lt;td&gt;7.0768&lt;/td&gt;
+	&lt;td&gt;0.1233&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;6&lt;/td&gt;
+	&lt;td&gt;CaO&lt;/td&gt;
+	&lt;td&gt;93.4&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.01062&lt;/td&gt;
+	&lt;td&gt;Ca-KA&lt;/td&gt;
+	&lt;td&gt;5782.3941&lt;/td&gt;
+	&lt;td&gt;92.8333&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;7&lt;/td&gt;
+	&lt;td&gt;Fe2O3&lt;/td&gt;
+	&lt;td&gt;0.311&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00456&lt;/td&gt;
+	&lt;td&gt;Fed-KA&lt;/td&gt;
+	&lt;td&gt;10.1570&lt;/td&gt;
+	&lt;td&gt;0.2930&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;h5 style=&quot;margin-top:15px&quot;&gt;[Table 43-1. Chemical Composition of 생석회(백광소재, CO1)]&lt;/h5&gt;
+&lt;br /&gt;
+&lt;h4 style=&quot;margin-bottom:40px; margin-top:20px&quot;&gt;&amp;#8226; 상분석(Phase Analysis)&lt;/h4&gt;
+&lt;img src=&quot;/post_images/Quicklime(CO1)7.jpg&quot; style=&quot;width:100%; margin-bottom:10px;&quot; alt=&quot;Quicklime(CO1)7&quot; /&gt;
+&lt;h5&gt;[Figure 43-1. X-Ray Diffraction of 생석회(백광소재, CO1) Materials &amp;amp; Phase Analysis]&lt;/h5&gt;
+&lt;h5 style=&quot;margin-top:40px; margin-bottom:10px&quot;&gt;[Table 43-2. Phase analysis based on X-ray Diffraction]&lt;/h5&gt;
+&lt;table style=&quot;margin:30px 30px 10px 20px; margin-top:0px&quot;&gt;
+	&lt;tr&gt;
+		&lt;th style=&quot;width:33.3%&quot;&gt;Material&lt;/th&gt;
+		&lt;th style=&quot;width:33.3%&quot;&gt;Data&lt;/th&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Lime&lt;/td&gt;
+		&lt;td&gt;74.6%&lt;/td&gt;
+	&lt;/tr&gt;
+		&lt;tr&gt;
+		&lt;td&gt;Portlandite&lt;/td&gt;
+		&lt;td&gt;21.8%&lt;/td&gt;
+	&lt;/tr&gt;
+		&lt;tr class=&quot;&quot;&gt;
+		&lt;td&gt;Calcite&lt;/td&gt;
+		&lt;td&gt;3.6%&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br /&gt;
+&lt;h4 style=&quot;margin-top:28px&quot;&gt;&amp;#8226; 형상(Morphlogy)&lt;/h4&gt;
+&lt;br /&gt;
+&lt;div class=&quot;morphlogy&quot;&gt;
+&lt;div style=&quot;display: flex; width: 500px; margin:0px auto&quot;&gt;
+	&lt;img src=&quot;/post_images/Quicklime(CO1)3.jpg&quot; alt=&quot;Quicklime(CO1)3.jpg&quot; /&gt;
+	&lt;img src=&quot;/post_images/Quicklime(CO1)4.jpg&quot; alt=&quot;Quicklime(CO1)4.jpg&quot; /&gt;
+&lt;/div&gt;
+&lt;div style=&quot;display: flex; width: 500px; margin:0px auto&quot;&gt;
+	&lt;img src=&quot;/post_images/Quicklime(CO1)5.jpg&quot; alt=&quot;Quicklime(CO1)5.jpg&quot; /&gt;
+	&lt;img src=&quot;/post_images/Quicklime(CO1)6.jpg&quot; alt=&quot;Quicklime(CO1)6.jpg&quot; /&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;h5&gt;[Figure 1-2. Electron microscopy image]&lt;/h5&gt;
+&lt;h4 style=&quot;margin-top:54px&quot;&gt;&amp;#8226; 크기(Size Distribution)&lt;/h4&gt;
+	&lt;img src=&quot;/post_images/Quicklime(CO1)2.jpg&quot; style=&quot;width:60%&quot; alt=&quot;Quicklime(CO1)2&quot; /&gt;
+&lt;h5 style=&quot;margin-top:-10px; margin-bottom:30px;&quot;&gt;[Figure 43-3. Particle size analysis]&lt;/h5&gt;
+&lt;/div&gt;
+&lt;script&gt;
+	$(document).ready(
+	function(){
+$('#information').find('a').css(&quot;color&quot;,&quot;purple&quot;);
+})
+&lt;/script&gt;</content><author><name></name></author><category term="Material" /><summary type="html">&amp;#8226; 정의(Definition) 산화칼슘(CaO)의 관용명. 공업적으로는 석회석을 열분해(1000~1200℃)하여 만든다. 백색 무정형 고체이며, 비중은 소성(燒成)온도의 고저로 2.3~3.4까지이다. 생석회의 CaO %는 화학용으로 80~90% 이상, 토건용으로 60~70% 이상, 농업용은 60% 이하이다. 용도는 석탄비료, 수분보집제, 혼합시멘트, 카바이드, 소독용 등이다. &amp;#8226; 조성(Composition) No Component Result Unit Det.limit El.line Intensity w/o normal 1 MgO 0.812 mass% 0.00753 Mg-KA 7.0404 0.7662 2 Al2O3 0.0796 mass% 0.00158 Al-KA 1.8350 0.0751 3 SiO2 0.257 mass% 0.00163 Si-KA 5.8009 0.2428 4 P2O5 0.0205 mass% 0.00073 P-KA 1.2513 0.0193 5 SO3 0.131 mass% 0.00086 S-KA 7.0768 0.1233 6 CaO 93.4 mass% 0.01062 Ca-KA 5782.3941 92.8333 7 Fe2O3 0.311 mass% 0.00456 Fed-KA 10.1570 0.2930 [Table 43-1. Chemical Composition of 생석회(백광소재, CO1)] &amp;#8226; 상분석(Phase Analysis) [Figure 43-1. X-Ray Diffraction of 생석회(백광소재, CO1) Materials &amp;amp; Phase Analysis] [Table 43-2. Phase analysis based on X-ray Diffraction] Material Data Lime 74.6% Portlandite 21.8% Calcite 3.6% &amp;#8226; 형상(Morphlogy) [Figure 1-2. Electron microscopy image] &amp;#8226; 크기(Size Distribution) [Figure 43-3. Particle size analysis]</summary></entry><entry><title type="html">Quicklime(CO1)</title><link href="http://localhost:4000/material/2017/06/10/pp6.html" rel="alternate" type="text/html" title="Quicklime(CO1)" /><published>2017-06-11T09:00:01+09:00</published><updated>2017-06-11T09:00:01+09:00</updated><id>http://localhost:4000/material/2017/06/10/pp6</id><content type="html" xml:base="http://localhost:4000/material/2017/06/10/pp6.html">&lt;style&gt;
+h4{
+	text-align: left;
+margin-left:0px;
+margin-bottom:5px;
+margin-top:18px;
+color:#333;
+}p{
+	line-height: 160%;
+	text-align: left;
+}&lt;/style&gt;
+
+&lt;div style=&quot;width:800px; margin:0px  auto&quot;&gt;&lt;!-- 
+&lt;div style=&quot;margin:0px auto; width:200px; height:150px;&quot; &gt;
+&lt;img src=&quot;/post_images/ocher.jpg&quot; alt=&quot;&quot; style=&quot;width:100%;&quot;&gt;
+&lt;/div&gt; --&gt;
+&lt;h4 style=&quot;margin-bottom:0px&quot;&gt;&amp;#8226; 원리(Principle)&lt;/h4&gt;&lt;br /&gt;
+&lt;p style=&quot;line-height: 180%&quot;&gt;- 얇은 필름 형태의 재료를 열, 접착제 등으로 붙여가며 적층시킴
+
+&lt;/p&gt;
+
+&lt;div style=&quot;margin:0px auto; width : 600px&quot;&gt;
+&lt;br /&gt;	
+&lt;img style=&quot;width:100%; display: inline-block;&quot; src=&quot;http://www.3dprinting.lighting/wp-content/uploads/2015/12/3DPrinting.Lighting_Sheet-Lamition_3DPrinting-Industry.jpg&quot; alt=&quot;Quicklime(CO1)3.jpg&quot; /&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;div style=&quot;margin:0px auto; width:560px&quot;&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/GVzRyKxD6Zc&quot; frameborder=&quot;0&quot; gesture=&quot;media&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align:center; margin:0px auto; display: block; width:800px&quot;&gt;
+&lt;!-- &lt;h4 style=&quot;margin-bottom:0px&quot;&gt;&amp;#8226; 세부 유형&lt;/h4&gt;&lt;br&gt; --&gt;
+&lt;!-- &lt;p&gt;-SLA: Stereolithography Apparatus&lt;/p&gt;
+&lt;p&gt;-DLP: Digital Light Processing&lt;/p&gt; --&gt;
+
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+
+
+&lt;!-- &lt;table&gt;
+&lt;tr&gt;
+	&lt;th&gt;No&lt;/th&gt;
+	&lt;th&gt;Component&lt;/th&gt;
+	&lt;th&gt;Result&lt;/th&gt;
+	&lt;th&gt;Unit&lt;/th&gt;
+	&lt;th&gt;Det.limit&lt;/th&gt;
+	&lt;th&gt;El.line&lt;/th&gt;
+	&lt;th&gt;Intensity&lt;/th&gt;
+	&lt;th&gt;w/o normal&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;1&lt;/td&gt;
+	&lt;td&gt;MgO&lt;/td&gt;
+	&lt;td&gt;0.812&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00753&lt;/td&gt;
+	&lt;td&gt;Mg-KA&lt;/td&gt;
+	&lt;td&gt;7.0404&lt;/td&gt;
+	&lt;td&gt;0.7662&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;2&lt;/td&gt;
+	&lt;td&gt;Al2O3&lt;/td&gt;
+	&lt;td&gt;0.0796&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00158&lt;/td&gt;
+	&lt;td&gt;Al-KA&lt;/td&gt;
+	&lt;td&gt;1.8350&lt;/td&gt;
+	&lt;td&gt;0.0751&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;3&lt;/td&gt;
+	&lt;td&gt;SiO2&lt;/td&gt;
+	&lt;td&gt;0.257&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00163&lt;/td&gt;
+	&lt;td&gt;Si-KA&lt;/td&gt;
+	&lt;td&gt;5.8009&lt;/td&gt;
+	&lt;td&gt;0.2428&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&quot;&quot; &gt;
+	&lt;td&gt;4&lt;/td&gt;
+	&lt;td&gt;P2O5&lt;/td&gt;
+	&lt;td&gt;0.0205&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00073&lt;/td&gt;
+	&lt;td&gt;P-KA&lt;/td&gt;
+	&lt;td&gt;1.2513&lt;/td&gt;
+	&lt;td&gt;0.0193&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;5&lt;/td&gt;
+	&lt;td&gt;SO3&lt;/td&gt;
+	&lt;td&gt;0.131&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00086&lt;/td&gt;
+	&lt;td&gt;S-KA&lt;/td&gt;
+	&lt;td&gt;7.0768&lt;/td&gt;
+	&lt;td&gt;0.1233&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;6&lt;/td&gt;
+	&lt;td&gt;CaO&lt;/td&gt;
+	&lt;td&gt;93.4&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.01062&lt;/td&gt;
+	&lt;td&gt;Ca-KA&lt;/td&gt;
+	&lt;td&gt;5782.3941&lt;/td&gt;
+	&lt;td&gt;92.8333&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;7&lt;/td&gt;
+	&lt;td&gt;Fe2O3&lt;/td&gt;
+	&lt;td&gt;0.311&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00456&lt;/td&gt;
+	&lt;td&gt;Fed-KA&lt;/td&gt;
+	&lt;td&gt;10.1570&lt;/td&gt;
+	&lt;td&gt;0.2930&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt; --&gt;
+&lt;!-- &lt;h5 style=&quot;margin-top:15px&quot;&gt;[Table 43-1. Chemical Composition of 생석회(백광소재, CO1)]&lt;/h5&gt;
+&lt;br&gt;
+&lt;h4 style=&quot;margin-bottom:40px; margin-top:20px&quot;&gt;&amp;#8226; 상분석(Phase Analysis)&lt;/h4&gt;
+&lt;img src=&quot;/post_images/Quicklime(CO1)7.jpg&quot; style=&quot;width:100%; margin-bottom:10px;&quot; alt=&quot;Quicklime(CO1)7&quot;&gt;
+&lt;h5&gt;[Figure 43-1. X-Ray Diffraction of 생석회(백광소재, CO1) Materials &amp; Phase Analysis]&lt;/h5&gt;
+&lt;h5 style=&quot;margin-top:40px; margin-bottom:10px&quot;&gt;[Table 43-2. Phase analysis based on X-ray Diffraction]&lt;/h5&gt;
+&lt;table style=&quot;margin:30px 30px 10px 20px; margin-top:0px&quot;&gt;
+	&lt;tr&gt;
+		&lt;th style=&quot;width:33.3%&quot;&gt;Material&lt;/th&gt;
+		&lt;th style=&quot;width:33.3%&quot;&gt;Data&lt;/th&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Lime&lt;/td&gt;
+		&lt;td&gt;74.6%&lt;/td&gt;
+	&lt;/tr&gt;
+		&lt;tr&gt;
+		&lt;td&gt;Portlandite&lt;/td&gt;
+		&lt;td&gt;21.8%&lt;/td&gt;
+	&lt;/tr&gt;
+		&lt;tr class=&quot;&quot;&gt;
+		&lt;td&gt;Calcite&lt;/td&gt;
+		&lt;td&gt;3.6%&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br&gt;
+&lt;h4 style=&quot;margin-top:28px&quot; &gt;&amp;#8226; 형상(Morphlogy)&lt;/h4&gt;
+&lt;br&gt;
+&lt;div class=&quot;morphlogy&quot;&gt;
+&lt;div style=&quot;display: flex; width: 500px; margin:0px auto&quot;  &gt;
+	&lt;img src=&quot;/post_images/Quicklime(CO1)3.jpg&quot; alt=&quot;Quicklime(CO1)3.jpg&quot;&gt;
+	&lt;img src=&quot;/post_images/Quicklime(CO1)4.jpg&quot; alt=&quot;Quicklime(CO1)4.jpg&quot;&gt;
+&lt;/div&gt;
+&lt;div style=&quot;display: flex; width: 500px; margin:0px auto&quot;&gt;
+	&lt;img src=&quot;/post_images/Quicklime(CO1)5.jpg&quot; alt=&quot;Quicklime(CO1)5.jpg&quot;&gt;
+	&lt;img src=&quot;/post_images/Quicklime(CO1)6.jpg&quot; alt=&quot;Quicklime(CO1)6.jpg&quot;&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;h5&gt;[Figure 1-2. Electron microscopy image]&lt;/h5&gt;
+&lt;h4 style=&quot;margin-top:54px&quot;&gt;&amp;#8226; 크기(Size Distribution)&lt;/h4&gt;
+	&lt;img src=&quot;/post_images/Quicklime(CO1)2.jpg&quot; style=&quot;width:60%&quot; alt=&quot;Quicklime(CO1)2&quot;&gt;
+&lt;h5 style=&quot;margin-top:-10px; margin-bottom:30px;&quot;&gt;[Figure 43-3. Particle size analysis]&lt;/h5&gt;
+&lt;/div&gt;
+&lt;script&gt;
+	$(document).ready(
+	function(){
+$('#information').find('a').css(&quot;color&quot;,&quot;purple&quot;);
+})
+&lt;/script&gt; --&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="Material" /><summary type="html">&amp;#8226; 원리(Principle) - 얇은 필름 형태의 재료를 열, 접착제 등으로 붙여가며 적층시킴</summary></entry><entry><title type="html">Quicklime(CO1)</title><link href="http://localhost:4000/material/2017/06/10/pp5.html" rel="alternate" type="text/html" title="Quicklime(CO1)" /><published>2017-06-11T09:00:01+09:00</published><updated>2017-06-11T09:00:01+09:00</updated><id>http://localhost:4000/material/2017/06/10/pp5</id><content type="html" xml:base="http://localhost:4000/material/2017/06/10/pp5.html">&lt;style&gt;
+h4{
+	text-align: left;
+margin-left:0px;
+margin-bottom:5px;
+margin-top:18px;
+color:#333;
+}p{
+	line-height: 160%;
+	text-align: left;
+}&lt;/style&gt;
+
+&lt;div style=&quot;width:800px; margin:0px  auto&quot;&gt;&lt;!-- 
+&lt;div style=&quot;margin:0px auto; width:200px; height:150px;&quot; &gt;
+&lt;img src=&quot;/post_images/ocher.jpg&quot; alt=&quot;&quot; style=&quot;width:100%;&quot;&gt;
+&lt;/div&gt; --&gt;
+&lt;h4 style=&quot;margin-bottom:0px&quot;&gt;&amp;#8226; 원리(Principle)&lt;/h4&gt;&lt;br /&gt;
+&lt;p style=&quot;line-height: 180%&quot;&gt;-레이저, 전자빔과 같은 고에너지를 이용 분말 재료를 녹여 적층하여 형상을 만드는 방식
+
+&lt;/p&gt;
+
+&lt;div style=&quot;margin:0px auto; width : 600px&quot;&gt;
+&lt;br /&gt;	
+&lt;img style=&quot;width:100%; display: inline-block;&quot; src=&quot;http://www.sciaky.com/images/Wire-vs-Powder/EBDM_Illustration-web.jpg&quot; alt=&quot;Quicklime(CO1)3.jpg&quot; /&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;div style=&quot;margin:0px auto; width:560px&quot;&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/NxwrJNWIT3E?autoplay=1&amp;amp;rel=0&quot; frameborder=&quot;0&quot; gesture=&quot;media&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align:center; margin:0px auto; display: block; width:800px&quot;&gt;
+&lt;h4 style=&quot;margin-bottom:0px&quot;&gt;&amp;#8226; 세부 유형&lt;/h4&gt;&lt;br /&gt;
+&lt;p&gt;-EBM: Electron Beam Melting&lt;/p&gt;
+&lt;p&gt;-LMD: Laser Metal Deposition &lt;/p&gt;
+
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+
+
+&lt;!-- &lt;table&gt;
+&lt;tr&gt;
+	&lt;th&gt;No&lt;/th&gt;
+	&lt;th&gt;Component&lt;/th&gt;
+	&lt;th&gt;Result&lt;/th&gt;
+	&lt;th&gt;Unit&lt;/th&gt;
+	&lt;th&gt;Det.limit&lt;/th&gt;
+	&lt;th&gt;El.line&lt;/th&gt;
+	&lt;th&gt;Intensity&lt;/th&gt;
+	&lt;th&gt;w/o normal&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;1&lt;/td&gt;
+	&lt;td&gt;MgO&lt;/td&gt;
+	&lt;td&gt;0.812&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00753&lt;/td&gt;
+	&lt;td&gt;Mg-KA&lt;/td&gt;
+	&lt;td&gt;7.0404&lt;/td&gt;
+	&lt;td&gt;0.7662&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;2&lt;/td&gt;
+	&lt;td&gt;Al2O3&lt;/td&gt;
+	&lt;td&gt;0.0796&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00158&lt;/td&gt;
+	&lt;td&gt;Al-KA&lt;/td&gt;
+	&lt;td&gt;1.8350&lt;/td&gt;
+	&lt;td&gt;0.0751&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;3&lt;/td&gt;
+	&lt;td&gt;SiO2&lt;/td&gt;
+	&lt;td&gt;0.257&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00163&lt;/td&gt;
+	&lt;td&gt;Si-KA&lt;/td&gt;
+	&lt;td&gt;5.8009&lt;/td&gt;
+	&lt;td&gt;0.2428&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&quot;&quot; &gt;
+	&lt;td&gt;4&lt;/td&gt;
+	&lt;td&gt;P2O5&lt;/td&gt;
+	&lt;td&gt;0.0205&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00073&lt;/td&gt;
+	&lt;td&gt;P-KA&lt;/td&gt;
+	&lt;td&gt;1.2513&lt;/td&gt;
+	&lt;td&gt;0.0193&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;5&lt;/td&gt;
+	&lt;td&gt;SO3&lt;/td&gt;
+	&lt;td&gt;0.131&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00086&lt;/td&gt;
+	&lt;td&gt;S-KA&lt;/td&gt;
+	&lt;td&gt;7.0768&lt;/td&gt;
+	&lt;td&gt;0.1233&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;6&lt;/td&gt;
+	&lt;td&gt;CaO&lt;/td&gt;
+	&lt;td&gt;93.4&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.01062&lt;/td&gt;
+	&lt;td&gt;Ca-KA&lt;/td&gt;
+	&lt;td&gt;5782.3941&lt;/td&gt;
+	&lt;td&gt;92.8333&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;7&lt;/td&gt;
+	&lt;td&gt;Fe2O3&lt;/td&gt;
+	&lt;td&gt;0.311&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00456&lt;/td&gt;
+	&lt;td&gt;Fed-KA&lt;/td&gt;
+	&lt;td&gt;10.1570&lt;/td&gt;
+	&lt;td&gt;0.2930&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt; --&gt;
+&lt;!-- &lt;h5 style=&quot;margin-top:15px&quot;&gt;[Table 43-1. Chemical Composition of 생석회(백광소재, CO1)]&lt;/h5&gt;
+&lt;br&gt;
+&lt;h4 style=&quot;margin-bottom:40px; margin-top:20px&quot;&gt;&amp;#8226; 상분석(Phase Analysis)&lt;/h4&gt;
+&lt;img src=&quot;/post_images/Quicklime(CO1)7.jpg&quot; style=&quot;width:100%; margin-bottom:10px;&quot; alt=&quot;Quicklime(CO1)7&quot;&gt;
+&lt;h5&gt;[Figure 43-1. X-Ray Diffraction of 생석회(백광소재, CO1) Materials &amp; Phase Analysis]&lt;/h5&gt;
+&lt;h5 style=&quot;margin-top:40px; margin-bottom:10px&quot;&gt;[Table 43-2. Phase analysis based on X-ray Diffraction]&lt;/h5&gt;
+&lt;table style=&quot;margin:30px 30px 10px 20px; margin-top:0px&quot;&gt;
+	&lt;tr&gt;
+		&lt;th style=&quot;width:33.3%&quot;&gt;Material&lt;/th&gt;
+		&lt;th style=&quot;width:33.3%&quot;&gt;Data&lt;/th&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Lime&lt;/td&gt;
+		&lt;td&gt;74.6%&lt;/td&gt;
+	&lt;/tr&gt;
+		&lt;tr&gt;
+		&lt;td&gt;Portlandite&lt;/td&gt;
+		&lt;td&gt;21.8%&lt;/td&gt;
+	&lt;/tr&gt;
+		&lt;tr class=&quot;&quot;&gt;
+		&lt;td&gt;Calcite&lt;/td&gt;
+		&lt;td&gt;3.6%&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br&gt;
+&lt;h4 style=&quot;margin-top:28px&quot; &gt;&amp;#8226; 형상(Morphlogy)&lt;/h4&gt;
+&lt;br&gt;
+&lt;div class=&quot;morphlogy&quot;&gt;
+&lt;div style=&quot;display: flex; width: 500px; margin:0px auto&quot;  &gt;
+	&lt;img src=&quot;/post_images/Quicklime(CO1)3.jpg&quot; alt=&quot;Quicklime(CO1)3.jpg&quot;&gt;
+	&lt;img src=&quot;/post_images/Quicklime(CO1)4.jpg&quot; alt=&quot;Quicklime(CO1)4.jpg&quot;&gt;
+&lt;/div&gt;
+&lt;div style=&quot;display: flex; width: 500px; margin:0px auto&quot;&gt;
+	&lt;img src=&quot;/post_images/Quicklime(CO1)5.jpg&quot; alt=&quot;Quicklime(CO1)5.jpg&quot;&gt;
+	&lt;img src=&quot;/post_images/Quicklime(CO1)6.jpg&quot; alt=&quot;Quicklime(CO1)6.jpg&quot;&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;h5&gt;[Figure 1-2. Electron microscopy image]&lt;/h5&gt;
+&lt;h4 style=&quot;margin-top:54px&quot;&gt;&amp;#8226; 크기(Size Distribution)&lt;/h4&gt;
+	&lt;img src=&quot;/post_images/Quicklime(CO1)2.jpg&quot; style=&quot;width:60%&quot; alt=&quot;Quicklime(CO1)2&quot;&gt;
+&lt;h5 style=&quot;margin-top:-10px; margin-bottom:30px;&quot;&gt;[Figure 43-3. Particle size analysis]&lt;/h5&gt;
+&lt;/div&gt;
+&lt;script&gt;
+	$(document).ready(
+	function(){
+$('#information').find('a').css(&quot;color&quot;,&quot;purple&quot;);
+})
+&lt;/script&gt; --&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="Material" /><summary type="html">&amp;#8226; 원리(Principle) -레이저, 전자빔과 같은 고에너지를 이용 분말 재료를 녹여 적층하여 형상을 만드는 방식</summary></entry><entry><title type="html">Quicklime(CO1)</title><link href="http://localhost:4000/material/2017/06/10/pp4.html" rel="alternate" type="text/html" title="Quicklime(CO1)" /><published>2017-06-11T09:00:01+09:00</published><updated>2017-06-11T09:00:01+09:00</updated><id>http://localhost:4000/material/2017/06/10/pp4</id><content type="html" xml:base="http://localhost:4000/material/2017/06/10/pp4.html">&lt;style&gt;
+h4{
+	text-align: left;
+margin-left:0px;
+margin-bottom:5px;
+margin-top:18px;
+color:#333;
+}p{
+	line-height: 160%;
+	text-align: left;
+}&lt;/style&gt;
+
+&lt;div style=&quot;width:800px; margin:0px  auto&quot;&gt;&lt;!-- 
+&lt;div style=&quot;margin:0px auto; width:200px; height:150px;&quot; &gt;
+&lt;img src=&quot;/post_images/ocher.jpg&quot; alt=&quot;&quot; style=&quot;width:100%;&quot;&gt;
+&lt;/div&gt; --&gt;
+&lt;h4 style=&quot;margin-bottom:0px&quot;&gt;&amp;#8226; 원리(Principle)&lt;/h4&gt;&lt;br /&gt;
+&lt;p style=&quot;line-height: 180%&quot;&gt;-분말 형태의 재료 위에 레이저와 같은 고에너지를 선택적으로 조사하여 소결을 통해 형상을 만드는 방식&lt;/p&gt;
+
+&lt;div style=&quot;margin:0px auto; width : 600px&quot;&gt;
+&lt;br /&gt;	
+&lt;img style=&quot;width:100%; display: inline-block;&quot; src=&quot;https://mblogthumb-phinf.pstatic.net/20160302_159/zestybox_1456900186152Q5tGD_JPEG/sls.jpg?type=w800&quot; alt=&quot;Quicklime(CO1)3.jpg&quot; /&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;div style=&quot;margin:0px auto; width:560px&quot;&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/9E5MfBAV_tA?autoplay=1&amp;amp;rel=0&quot; frameborder=&quot;0&quot; gesture=&quot;media&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align:center; margin:0px auto; display: block; width:800px&quot;&gt;
+&lt;h4 style=&quot;margin-bottom:0px&quot;&gt;&amp;#8226; 세부 유형&lt;/h4&gt;&lt;br /&gt;
+&lt;p&gt;SLS (Selective Laser Sintering) DMLS (Direct Metal Laser Sintering)&lt;/p&gt;
+&lt;!-- &lt;p&gt;-DLP: Digital Light Processing&lt;/p&gt; --&gt;
+
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+
+
+&lt;!-- &lt;table&gt;
+&lt;tr&gt;
+	&lt;th&gt;No&lt;/th&gt;
+	&lt;th&gt;Component&lt;/th&gt;
+	&lt;th&gt;Result&lt;/th&gt;
+	&lt;th&gt;Unit&lt;/th&gt;
+	&lt;th&gt;Det.limit&lt;/th&gt;
+	&lt;th&gt;El.line&lt;/th&gt;
+	&lt;th&gt;Intensity&lt;/th&gt;
+	&lt;th&gt;w/o normal&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;1&lt;/td&gt;
+	&lt;td&gt;MgO&lt;/td&gt;
+	&lt;td&gt;0.812&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00753&lt;/td&gt;
+	&lt;td&gt;Mg-KA&lt;/td&gt;
+	&lt;td&gt;7.0404&lt;/td&gt;
+	&lt;td&gt;0.7662&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;2&lt;/td&gt;
+	&lt;td&gt;Al2O3&lt;/td&gt;
+	&lt;td&gt;0.0796&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00158&lt;/td&gt;
+	&lt;td&gt;Al-KA&lt;/td&gt;
+	&lt;td&gt;1.8350&lt;/td&gt;
+	&lt;td&gt;0.0751&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;3&lt;/td&gt;
+	&lt;td&gt;SiO2&lt;/td&gt;
+	&lt;td&gt;0.257&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00163&lt;/td&gt;
+	&lt;td&gt;Si-KA&lt;/td&gt;
+	&lt;td&gt;5.8009&lt;/td&gt;
+	&lt;td&gt;0.2428&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&quot;&quot; &gt;
+	&lt;td&gt;4&lt;/td&gt;
+	&lt;td&gt;P2O5&lt;/td&gt;
+	&lt;td&gt;0.0205&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00073&lt;/td&gt;
+	&lt;td&gt;P-KA&lt;/td&gt;
+	&lt;td&gt;1.2513&lt;/td&gt;
+	&lt;td&gt;0.0193&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;5&lt;/td&gt;
+	&lt;td&gt;SO3&lt;/td&gt;
+	&lt;td&gt;0.131&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00086&lt;/td&gt;
+	&lt;td&gt;S-KA&lt;/td&gt;
+	&lt;td&gt;7.0768&lt;/td&gt;
+	&lt;td&gt;0.1233&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;6&lt;/td&gt;
+	&lt;td&gt;CaO&lt;/td&gt;
+	&lt;td&gt;93.4&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.01062&lt;/td&gt;
+	&lt;td&gt;Ca-KA&lt;/td&gt;
+	&lt;td&gt;5782.3941&lt;/td&gt;
+	&lt;td&gt;92.8333&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;7&lt;/td&gt;
+	&lt;td&gt;Fe2O3&lt;/td&gt;
+	&lt;td&gt;0.311&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00456&lt;/td&gt;
+	&lt;td&gt;Fed-KA&lt;/td&gt;
+	&lt;td&gt;10.1570&lt;/td&gt;
+	&lt;td&gt;0.2930&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt; --&gt;
+&lt;!-- &lt;h5 style=&quot;margin-top:15px&quot;&gt;[Table 43-1. Chemical Composition of 생석회(백광소재, CO1)]&lt;/h5&gt;
+&lt;br&gt;
+&lt;h4 style=&quot;margin-bottom:40px; margin-top:20px&quot;&gt;&amp;#8226; 상분석(Phase Analysis)&lt;/h4&gt;
+&lt;img src=&quot;/post_images/Quicklime(CO1)7.jpg&quot; style=&quot;width:100%; margin-bottom:10px;&quot; alt=&quot;Quicklime(CO1)7&quot;&gt;
+&lt;h5&gt;[Figure 43-1. X-Ray Diffraction of 생석회(백광소재, CO1) Materials &amp; Phase Analysis]&lt;/h5&gt;
+&lt;h5 style=&quot;margin-top:40px; margin-bottom:10px&quot;&gt;[Table 43-2. Phase analysis based on X-ray Diffraction]&lt;/h5&gt;
+&lt;table style=&quot;margin:30px 30px 10px 20px; margin-top:0px&quot;&gt;
+	&lt;tr&gt;
+		&lt;th style=&quot;width:33.3%&quot;&gt;Material&lt;/th&gt;
+		&lt;th style=&quot;width:33.3%&quot;&gt;Data&lt;/th&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Lime&lt;/td&gt;
+		&lt;td&gt;74.6%&lt;/td&gt;
+	&lt;/tr&gt;
+		&lt;tr&gt;
+		&lt;td&gt;Portlandite&lt;/td&gt;
+		&lt;td&gt;21.8%&lt;/td&gt;
+	&lt;/tr&gt;
+		&lt;tr class=&quot;&quot;&gt;
+		&lt;td&gt;Calcite&lt;/td&gt;
+		&lt;td&gt;3.6%&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br&gt;
+&lt;h4 style=&quot;margin-top:28px&quot; &gt;&amp;#8226; 형상(Morphlogy)&lt;/h4&gt;
+&lt;br&gt;
+&lt;div class=&quot;morphlogy&quot;&gt;
+&lt;div style=&quot;display: flex; width: 500px; margin:0px auto&quot;  &gt;
+	&lt;img src=&quot;/post_images/Quicklime(CO1)3.jpg&quot; alt=&quot;Quicklime(CO1)3.jpg&quot;&gt;
+	&lt;img src=&quot;/post_images/Quicklime(CO1)4.jpg&quot; alt=&quot;Quicklime(CO1)4.jpg&quot;&gt;
+&lt;/div&gt;
+&lt;div style=&quot;display: flex; width: 500px; margin:0px auto&quot;&gt;
+	&lt;img src=&quot;/post_images/Quicklime(CO1)5.jpg&quot; alt=&quot;Quicklime(CO1)5.jpg&quot;&gt;
+	&lt;img src=&quot;/post_images/Quicklime(CO1)6.jpg&quot; alt=&quot;Quicklime(CO1)6.jpg&quot;&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;h5&gt;[Figure 1-2. Electron microscopy image]&lt;/h5&gt;
+&lt;h4 style=&quot;margin-top:54px&quot;&gt;&amp;#8226; 크기(Size Distribution)&lt;/h4&gt;
+	&lt;img src=&quot;/post_images/Quicklime(CO1)2.jpg&quot; style=&quot;width:60%&quot; alt=&quot;Quicklime(CO1)2&quot;&gt;
+&lt;h5 style=&quot;margin-top:-10px; margin-bottom:30px;&quot;&gt;[Figure 43-3. Particle size analysis]&lt;/h5&gt;
+&lt;/div&gt;
+&lt;script&gt;
+	$(document).ready(
+	function(){
+$('#information').find('a').css(&quot;color&quot;,&quot;purple&quot;);
+})
+&lt;/script&gt; --&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="Material" /><summary type="html">&amp;#8226; 원리(Principle) -분말 형태의 재료 위에 레이저와 같은 고에너지를 선택적으로 조사하여 소결을 통해 형상을 만드는 방식</summary></entry><entry><title type="html">Quicklime(CO1)</title><link href="http://localhost:4000/material/2017/06/10/pp3.html" rel="alternate" type="text/html" title="Quicklime(CO1)" /><published>2017-06-11T09:00:01+09:00</published><updated>2017-06-11T09:00:01+09:00</updated><id>http://localhost:4000/material/2017/06/10/pp3</id><content type="html" xml:base="http://localhost:4000/material/2017/06/10/pp3.html">&lt;style&gt;
+h4{
+	text-align: left;
+margin-left:0px;
+margin-bottom:5px;
+margin-top:18px;
+color:#333;
+}p{
+	line-height: 160%;
+	text-align: left;
+}&lt;/style&gt;
+
+&lt;div style=&quot;width:800px; margin:0px  auto&quot;&gt;&lt;!-- 
+&lt;div style=&quot;margin:0px auto; width:200px; height:150px;&quot; &gt;
+&lt;img src=&quot;/post_images/ocher.jpg&quot; alt=&quot;&quot; style=&quot;width:100%;&quot;&gt;
+&lt;/div&gt; --&gt;
+&lt;h4 style=&quot;margin-bottom:0px&quot;&gt;&amp;#8226; 원리(Principle)&lt;/h4&gt;&lt;br /&gt;
+&lt;p style=&quot;line-height: 180%&quot;&gt;-액체 형태의 소재를 프린팅 헤드의 노즐을 통해 분사한 후 자외선 동시 경화시켜 형상을 조형하는 방식
+
+&lt;/p&gt;
+
+&lt;div style=&quot;margin:0px auto; width : 600px&quot;&gt;
+&lt;br /&gt;	
+&lt;img style=&quot;width:100%; display: inline-block;&quot; src=&quot;https://mblogthumb-phinf.pstatic.net/20160304_36/zestybox_145705661042870U56_JPEG/%C0%D7%C5%A9%C1%AC2.jpg?type=w800&quot; alt=&quot;Quicklime(CO1)3.jpg&quot; /&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;div style=&quot;margin:0px auto; width:560px&quot;&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/li-1UTqV5_k?autoplay=1&amp;amp;rel=0&quot; frameborder=&quot;0&quot; gesture=&quot;media&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align:center; margin:0px auto; display: block; width:800px&quot;&gt;
+&lt;h4 style=&quot;margin-bottom:0px&quot;&gt;&amp;#8226; 세부 유형&lt;/h4&gt;&lt;br /&gt;
+&lt;p&gt;-PolyJet (Polyjet/Mu Matrix)&lt;/p&gt;
+&lt;p&gt;-MJM: MultiJet Modeling&lt;/p&gt;
+
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+
+
+&lt;!-- &lt;table&gt;
+&lt;tr&gt;
+	&lt;th&gt;No&lt;/th&gt;
+	&lt;th&gt;Component&lt;/th&gt;
+	&lt;th&gt;Result&lt;/th&gt;
+	&lt;th&gt;Unit&lt;/th&gt;
+	&lt;th&gt;Det.limit&lt;/th&gt;
+	&lt;th&gt;El.line&lt;/th&gt;
+	&lt;th&gt;Intensity&lt;/th&gt;
+	&lt;th&gt;w/o normal&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;1&lt;/td&gt;
+	&lt;td&gt;MgO&lt;/td&gt;
+	&lt;td&gt;0.812&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00753&lt;/td&gt;
+	&lt;td&gt;Mg-KA&lt;/td&gt;
+	&lt;td&gt;7.0404&lt;/td&gt;
+	&lt;td&gt;0.7662&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;2&lt;/td&gt;
+	&lt;td&gt;Al2O3&lt;/td&gt;
+	&lt;td&gt;0.0796&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00158&lt;/td&gt;
+	&lt;td&gt;Al-KA&lt;/td&gt;
+	&lt;td&gt;1.8350&lt;/td&gt;
+	&lt;td&gt;0.0751&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;3&lt;/td&gt;
+	&lt;td&gt;SiO2&lt;/td&gt;
+	&lt;td&gt;0.257&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00163&lt;/td&gt;
+	&lt;td&gt;Si-KA&lt;/td&gt;
+	&lt;td&gt;5.8009&lt;/td&gt;
+	&lt;td&gt;0.2428&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&quot;&quot; &gt;
+	&lt;td&gt;4&lt;/td&gt;
+	&lt;td&gt;P2O5&lt;/td&gt;
+	&lt;td&gt;0.0205&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00073&lt;/td&gt;
+	&lt;td&gt;P-KA&lt;/td&gt;
+	&lt;td&gt;1.2513&lt;/td&gt;
+	&lt;td&gt;0.0193&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;5&lt;/td&gt;
+	&lt;td&gt;SO3&lt;/td&gt;
+	&lt;td&gt;0.131&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00086&lt;/td&gt;
+	&lt;td&gt;S-KA&lt;/td&gt;
+	&lt;td&gt;7.0768&lt;/td&gt;
+	&lt;td&gt;0.1233&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;6&lt;/td&gt;
+	&lt;td&gt;CaO&lt;/td&gt;
+	&lt;td&gt;93.4&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.01062&lt;/td&gt;
+	&lt;td&gt;Ca-KA&lt;/td&gt;
+	&lt;td&gt;5782.3941&lt;/td&gt;
+	&lt;td&gt;92.8333&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;7&lt;/td&gt;
+	&lt;td&gt;Fe2O3&lt;/td&gt;
+	&lt;td&gt;0.311&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00456&lt;/td&gt;
+	&lt;td&gt;Fed-KA&lt;/td&gt;
+	&lt;td&gt;10.1570&lt;/td&gt;
+	&lt;td&gt;0.2930&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt; --&gt;
+&lt;!-- &lt;h5 style=&quot;margin-top:15px&quot;&gt;[Table 43-1. Chemical Composition of 생석회(백광소재, CO1)]&lt;/h5&gt;
+&lt;br&gt;
+&lt;h4 style=&quot;margin-bottom:40px; margin-top:20px&quot;&gt;&amp;#8226; 상분석(Phase Analysis)&lt;/h4&gt;
+&lt;img src=&quot;/post_images/Quicklime(CO1)7.jpg&quot; style=&quot;width:100%; margin-bottom:10px;&quot; alt=&quot;Quicklime(CO1)7&quot;&gt;
+&lt;h5&gt;[Figure 43-1. X-Ray Diffraction of 생석회(백광소재, CO1) Materials &amp; Phase Analysis]&lt;/h5&gt;
+&lt;h5 style=&quot;margin-top:40px; margin-bottom:10px&quot;&gt;[Table 43-2. Phase analysis based on X-ray Diffraction]&lt;/h5&gt;
+&lt;table style=&quot;margin:30px 30px 10px 20px; margin-top:0px&quot;&gt;
+	&lt;tr&gt;
+		&lt;th style=&quot;width:33.3%&quot;&gt;Material&lt;/th&gt;
+		&lt;th style=&quot;width:33.3%&quot;&gt;Data&lt;/th&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Lime&lt;/td&gt;
+		&lt;td&gt;74.6%&lt;/td&gt;
+	&lt;/tr&gt;
+		&lt;tr&gt;
+		&lt;td&gt;Portlandite&lt;/td&gt;
+		&lt;td&gt;21.8%&lt;/td&gt;
+	&lt;/tr&gt;
+		&lt;tr class=&quot;&quot;&gt;
+		&lt;td&gt;Calcite&lt;/td&gt;
+		&lt;td&gt;3.6%&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br&gt;
+&lt;h4 style=&quot;margin-top:28px&quot; &gt;&amp;#8226; 형상(Morphlogy)&lt;/h4&gt;
+&lt;br&gt;
+&lt;div class=&quot;morphlogy&quot;&gt;
+&lt;div style=&quot;display: flex; width: 500px; margin:0px auto&quot;  &gt;
+	&lt;img src=&quot;/post_images/Quicklime(CO1)3.jpg&quot; alt=&quot;Quicklime(CO1)3.jpg&quot;&gt;
+	&lt;img src=&quot;/post_images/Quicklime(CO1)4.jpg&quot; alt=&quot;Quicklime(CO1)4.jpg&quot;&gt;
+&lt;/div&gt;
+&lt;div style=&quot;display: flex; width: 500px; margin:0px auto&quot;&gt;
+	&lt;img src=&quot;/post_images/Quicklime(CO1)5.jpg&quot; alt=&quot;Quicklime(CO1)5.jpg&quot;&gt;
+	&lt;img src=&quot;/post_images/Quicklime(CO1)6.jpg&quot; alt=&quot;Quicklime(CO1)6.jpg&quot;&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;h5&gt;[Figure 1-2. Electron microscopy image]&lt;/h5&gt;
+&lt;h4 style=&quot;margin-top:54px&quot;&gt;&amp;#8226; 크기(Size Distribution)&lt;/h4&gt;
+	&lt;img src=&quot;/post_images/Quicklime(CO1)2.jpg&quot; style=&quot;width:60%&quot; alt=&quot;Quicklime(CO1)2&quot;&gt;
+&lt;h5 style=&quot;margin-top:-10px; margin-bottom:30px;&quot;&gt;[Figure 43-3. Particle size analysis]&lt;/h5&gt;
+&lt;/div&gt;
+&lt;script&gt;
+	$(document).ready(
+	function(){
+$('#information').find('a').css(&quot;color&quot;,&quot;purple&quot;);
+})
+&lt;/script&gt; --&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="Material" /><summary type="html">&amp;#8226; 원리(Principle) -액체 형태의 소재를 프린팅 헤드의 노즐을 통해 분사한 후 자외선 동시 경화시켜 형상을 조형하는 방식</summary></entry><entry><title type="html">Quicklime(CO1)</title><link href="http://localhost:4000/material/2017/06/10/pp2.html" rel="alternate" type="text/html" title="Quicklime(CO1)" /><published>2017-06-11T09:00:01+09:00</published><updated>2017-06-11T09:00:01+09:00</updated><id>http://localhost:4000/material/2017/06/10/pp2</id><content type="html" xml:base="http://localhost:4000/material/2017/06/10/pp2.html">&lt;style&gt;
+h4{
+	text-align: left;
+margin-left:0px;
+margin-bottom:5px;
+margin-top:18px;
+color:#333;
+}p{
+	line-height: 160%;
+	text-align: left;
+}&lt;/style&gt;
+
+&lt;div style=&quot;width:800px; margin:0px  auto&quot;&gt;&lt;!-- 
+&lt;div style=&quot;margin:0px auto; width:200px; height:150px;&quot; &gt;
+&lt;img src=&quot;/post_images/ocher.jpg&quot; alt=&quot;&quot; style=&quot;width:100%;&quot;&gt;
+&lt;/div&gt; --&gt;
+&lt;h4 style=&quot;margin-bottom:0px&quot;&gt;&amp;#8226; 원리(Principle)&lt;/h4&gt;&lt;br /&gt;
+&lt;p style=&quot;line-height: 180%&quot;&gt;-분말 형태의 재료 위에 액체 형태의 접착제와 잉크를 분사 하여 형상을 적층해 가는 방법
+
+&lt;/p&gt;
+
+&lt;div style=&quot;margin:0px auto; width : 600px&quot;&gt;
+&lt;br /&gt;	
+&lt;img style=&quot;width:100%; display: inline-block;&quot; src=&quot;https://mblogthumb-phinf.pstatic.net/20160304_223/zestybox_1457055889196gO7bT_JPEG/%C0%D7%C5%A9%C1%AC1.jpg?type=w800&quot; alt=&quot;Quicklime(CO1)3.jpg&quot; /&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;div style=&quot;margin:0px auto; width:560px&quot;&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/TQgbMMw1GHo?autoplay=1&amp;amp;re1=0&quot; frameborder=&quot;0&quot; gesture=&quot;media&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align:center; margin:0px auto; display: block; width:800px&quot;&gt;
+&lt;h4 style=&quot;margin-bottom:0px&quot;&gt;&amp;#8226; 세부 유형&lt;/h4&gt;&lt;br /&gt;
+&lt;p&gt;-3DP: 3-Dimensional Printing&lt;/p&gt;
+&lt;!-- &lt;p&gt;-DLP: Digital Light Processing&lt;/p&gt; --&gt;
+
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+
+
+&lt;!-- &lt;table&gt;
+&lt;tr&gt;
+	&lt;th&gt;No&lt;/th&gt;
+	&lt;th&gt;Component&lt;/th&gt;
+	&lt;th&gt;Result&lt;/th&gt;
+	&lt;th&gt;Unit&lt;/th&gt;
+	&lt;th&gt;Det.limit&lt;/th&gt;
+	&lt;th&gt;El.line&lt;/th&gt;
+	&lt;th&gt;Intensity&lt;/th&gt;
+	&lt;th&gt;w/o normal&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;1&lt;/td&gt;
+	&lt;td&gt;MgO&lt;/td&gt;
+	&lt;td&gt;0.812&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00753&lt;/td&gt;
+	&lt;td&gt;Mg-KA&lt;/td&gt;
+	&lt;td&gt;7.0404&lt;/td&gt;
+	&lt;td&gt;0.7662&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;2&lt;/td&gt;
+	&lt;td&gt;Al2O3&lt;/td&gt;
+	&lt;td&gt;0.0796&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00158&lt;/td&gt;
+	&lt;td&gt;Al-KA&lt;/td&gt;
+	&lt;td&gt;1.8350&lt;/td&gt;
+	&lt;td&gt;0.0751&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;3&lt;/td&gt;
+	&lt;td&gt;SiO2&lt;/td&gt;
+	&lt;td&gt;0.257&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00163&lt;/td&gt;
+	&lt;td&gt;Si-KA&lt;/td&gt;
+	&lt;td&gt;5.8009&lt;/td&gt;
+	&lt;td&gt;0.2428&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&quot;&quot; &gt;
+	&lt;td&gt;4&lt;/td&gt;
+	&lt;td&gt;P2O5&lt;/td&gt;
+	&lt;td&gt;0.0205&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00073&lt;/td&gt;
+	&lt;td&gt;P-KA&lt;/td&gt;
+	&lt;td&gt;1.2513&lt;/td&gt;
+	&lt;td&gt;0.0193&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;5&lt;/td&gt;
+	&lt;td&gt;SO3&lt;/td&gt;
+	&lt;td&gt;0.131&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00086&lt;/td&gt;
+	&lt;td&gt;S-KA&lt;/td&gt;
+	&lt;td&gt;7.0768&lt;/td&gt;
+	&lt;td&gt;0.1233&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;6&lt;/td&gt;
+	&lt;td&gt;CaO&lt;/td&gt;
+	&lt;td&gt;93.4&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.01062&lt;/td&gt;
+	&lt;td&gt;Ca-KA&lt;/td&gt;
+	&lt;td&gt;5782.3941&lt;/td&gt;
+	&lt;td&gt;92.8333&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;7&lt;/td&gt;
+	&lt;td&gt;Fe2O3&lt;/td&gt;
+	&lt;td&gt;0.311&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00456&lt;/td&gt;
+	&lt;td&gt;Fed-KA&lt;/td&gt;
+	&lt;td&gt;10.1570&lt;/td&gt;
+	&lt;td&gt;0.2930&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt; --&gt;
+&lt;!-- &lt;h5 style=&quot;margin-top:15px&quot;&gt;[Table 43-1. Chemical Composition of 생석회(백광소재, CO1)]&lt;/h5&gt;
+&lt;br&gt;
+&lt;h4 style=&quot;margin-bottom:40px; margin-top:20px&quot;&gt;&amp;#8226; 상분석(Phase Analysis)&lt;/h4&gt;
+&lt;img src=&quot;/post_images/Quicklime(CO1)7.jpg&quot; style=&quot;width:100%; margin-bottom:10px;&quot; alt=&quot;Quicklime(CO1)7&quot;&gt;
+&lt;h5&gt;[Figure 43-1. X-Ray Diffraction of 생석회(백광소재, CO1) Materials &amp; Phase Analysis]&lt;/h5&gt;
+&lt;h5 style=&quot;margin-top:40px; margin-bottom:10px&quot;&gt;[Table 43-2. Phase analysis based on X-ray Diffraction]&lt;/h5&gt;
+&lt;table style=&quot;margin:30px 30px 10px 20px; margin-top:0px&quot;&gt;
+	&lt;tr&gt;
+		&lt;th style=&quot;width:33.3%&quot;&gt;Material&lt;/th&gt;
+		&lt;th style=&quot;width:33.3%&quot;&gt;Data&lt;/th&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Lime&lt;/td&gt;
+		&lt;td&gt;74.6%&lt;/td&gt;
+	&lt;/tr&gt;
+		&lt;tr&gt;
+		&lt;td&gt;Portlandite&lt;/td&gt;
+		&lt;td&gt;21.8%&lt;/td&gt;
+	&lt;/tr&gt;
+		&lt;tr class=&quot;&quot;&gt;
+		&lt;td&gt;Calcite&lt;/td&gt;
+		&lt;td&gt;3.6%&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br&gt;
+&lt;h4 style=&quot;margin-top:28px&quot; &gt;&amp;#8226; 형상(Morphlogy)&lt;/h4&gt;
+&lt;br&gt;
+&lt;div class=&quot;morphlogy&quot;&gt;
+&lt;div style=&quot;display: flex; width: 500px; margin:0px auto&quot;  &gt;
+	&lt;img src=&quot;/post_images/Quicklime(CO1)3.jpg&quot; alt=&quot;Quicklime(CO1)3.jpg&quot;&gt;
+	&lt;img src=&quot;/post_images/Quicklime(CO1)4.jpg&quot; alt=&quot;Quicklime(CO1)4.jpg&quot;&gt;
+&lt;/div&gt;
+&lt;div style=&quot;display: flex; width: 500px; margin:0px auto&quot;&gt;
+	&lt;img src=&quot;/post_images/Quicklime(CO1)5.jpg&quot; alt=&quot;Quicklime(CO1)5.jpg&quot;&gt;
+	&lt;img src=&quot;/post_images/Quicklime(CO1)6.jpg&quot; alt=&quot;Quicklime(CO1)6.jpg&quot;&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;h5&gt;[Figure 1-2. Electron microscopy image]&lt;/h5&gt;
+&lt;h4 style=&quot;margin-top:54px&quot;&gt;&amp;#8226; 크기(Size Distribution)&lt;/h4&gt;
+	&lt;img src=&quot;/post_images/Quicklime(CO1)2.jpg&quot; style=&quot;width:60%&quot; alt=&quot;Quicklime(CO1)2&quot;&gt;
+&lt;h5 style=&quot;margin-top:-10px; margin-bottom:30px;&quot;&gt;[Figure 43-3. Particle size analysis]&lt;/h5&gt;
+&lt;/div&gt;
+&lt;script&gt;
+	$(document).ready(
+	function(){
+$('#information').find('a').css(&quot;color&quot;,&quot;purple&quot;);
+})
+&lt;/script&gt; --&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="Material" /><summary type="html">&amp;#8226; 원리(Principle) -분말 형태의 재료 위에 액체 형태의 접착제와 잉크를 분사 하여 형상을 적층해 가는 방법</summary></entry><entry><title type="html">Quicklime(CO1)</title><link href="http://localhost:4000/material/2017/06/10/pp.html" rel="alternate" type="text/html" title="Quicklime(CO1)" /><published>2017-06-11T09:00:01+09:00</published><updated>2017-06-11T09:00:01+09:00</updated><id>http://localhost:4000/material/2017/06/10/pp</id><content type="html" xml:base="http://localhost:4000/material/2017/06/10/pp.html">&lt;style&gt;
+h4{
+	text-align: left;
+margin-left:0px;
+margin-bottom:5px;
+margin-top:18px;
+color:#333;
+}p{
+	line-height: 160%;
+	text-align: left;
+}&lt;/style&gt;
+
+&lt;div style=&quot;width:800px; margin:0px  auto&quot;&gt;&lt;!-- 
+&lt;div style=&quot;margin:0px auto; width:200px; height:150px;&quot; &gt;
+&lt;img src=&quot;/post_images/ocher.jpg&quot; alt=&quot;&quot; style=&quot;width:100%;&quot;&gt;
+&lt;/div&gt; --&gt;
+&lt;h4 style=&quot;margin-bottom:0px&quot;&gt;&amp;#8226; 원리(Principle)&lt;/h4&gt;&lt;br /&gt;
+&lt;p style=&quot;line-height: 180%&quot;&gt;-레이저, UV 광원의 빛을 플라 스틱 소재에 조사 중합반응을 유도하여 선택적으로 고형화 시키는 방식
+&lt;/p&gt;
+
+&lt;div style=&quot;margin:0px auto; width : 600px&quot;&gt;
+&lt;br /&gt;	
+&lt;img style=&quot;width:100%; display: inline-block;&quot; src=&quot;https://about3dprintcapston.files.wordpress.com/2017/04/6eab491eca491ed95a9ebb0a9ec8b9d.png?w=1000&quot; alt=&quot;Quicklime(CO1)3.jpg&quot; /&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;div style=&quot;margin:0px auto; width:560px&quot;&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/yYGycgnYlBM&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align:center; margin:0px auto; display: block; width:800px&quot;&gt;
+&lt;h4 style=&quot;margin-bottom:0px&quot;&gt;&amp;#8226; 세부 유형&lt;/h4&gt;&lt;br /&gt;
+&lt;p&gt;-SLA: Stereolithography Apparatus&lt;/p&gt;
+&lt;p&gt;-DLP: Digital Light Processing&lt;/p&gt;
+
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+
+
+&lt;!-- &lt;table&gt;
+&lt;tr&gt;
+	&lt;th&gt;No&lt;/th&gt;
+	&lt;th&gt;Component&lt;/th&gt;
+	&lt;th&gt;Result&lt;/th&gt;
+	&lt;th&gt;Unit&lt;/th&gt;
+	&lt;th&gt;Det.limit&lt;/th&gt;
+	&lt;th&gt;El.line&lt;/th&gt;
+	&lt;th&gt;Intensity&lt;/th&gt;
+	&lt;th&gt;w/o normal&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;1&lt;/td&gt;
+	&lt;td&gt;MgO&lt;/td&gt;
+	&lt;td&gt;0.812&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00753&lt;/td&gt;
+	&lt;td&gt;Mg-KA&lt;/td&gt;
+	&lt;td&gt;7.0404&lt;/td&gt;
+	&lt;td&gt;0.7662&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;2&lt;/td&gt;
+	&lt;td&gt;Al2O3&lt;/td&gt;
+	&lt;td&gt;0.0796&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00158&lt;/td&gt;
+	&lt;td&gt;Al-KA&lt;/td&gt;
+	&lt;td&gt;1.8350&lt;/td&gt;
+	&lt;td&gt;0.0751&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;3&lt;/td&gt;
+	&lt;td&gt;SiO2&lt;/td&gt;
+	&lt;td&gt;0.257&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00163&lt;/td&gt;
+	&lt;td&gt;Si-KA&lt;/td&gt;
+	&lt;td&gt;5.8009&lt;/td&gt;
+	&lt;td&gt;0.2428&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&quot;&quot; &gt;
+	&lt;td&gt;4&lt;/td&gt;
+	&lt;td&gt;P2O5&lt;/td&gt;
+	&lt;td&gt;0.0205&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00073&lt;/td&gt;
+	&lt;td&gt;P-KA&lt;/td&gt;
+	&lt;td&gt;1.2513&lt;/td&gt;
+	&lt;td&gt;0.0193&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;5&lt;/td&gt;
+	&lt;td&gt;SO3&lt;/td&gt;
+	&lt;td&gt;0.131&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00086&lt;/td&gt;
+	&lt;td&gt;S-KA&lt;/td&gt;
+	&lt;td&gt;7.0768&lt;/td&gt;
+	&lt;td&gt;0.1233&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;6&lt;/td&gt;
+	&lt;td&gt;CaO&lt;/td&gt;
+	&lt;td&gt;93.4&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.01062&lt;/td&gt;
+	&lt;td&gt;Ca-KA&lt;/td&gt;
+	&lt;td&gt;5782.3941&lt;/td&gt;
+	&lt;td&gt;92.8333&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;7&lt;/td&gt;
+	&lt;td&gt;Fe2O3&lt;/td&gt;
+	&lt;td&gt;0.311&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00456&lt;/td&gt;
+	&lt;td&gt;Fed-KA&lt;/td&gt;
+	&lt;td&gt;10.1570&lt;/td&gt;
+	&lt;td&gt;0.2930&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt; --&gt;
+&lt;!-- &lt;h5 style=&quot;margin-top:15px&quot;&gt;[Table 43-1. Chemical Composition of 생석회(백광소재, CO1)]&lt;/h5&gt;
+&lt;br&gt;
+&lt;h4 style=&quot;margin-bottom:40px; margin-top:20px&quot;&gt;&amp;#8226; 상분석(Phase Analysis)&lt;/h4&gt;
+&lt;img src=&quot;/post_images/Quicklime(CO1)7.jpg&quot; style=&quot;width:100%; margin-bottom:10px;&quot; alt=&quot;Quicklime(CO1)7&quot;&gt;
+&lt;h5&gt;[Figure 43-1. X-Ray Diffraction of 생석회(백광소재, CO1) Materials &amp; Phase Analysis]&lt;/h5&gt;
+&lt;h5 style=&quot;margin-top:40px; margin-bottom:10px&quot;&gt;[Table 43-2. Phase analysis based on X-ray Diffraction]&lt;/h5&gt;
+&lt;table style=&quot;margin:30px 30px 10px 20px; margin-top:0px&quot;&gt;
+	&lt;tr&gt;
+		&lt;th style=&quot;width:33.3%&quot;&gt;Material&lt;/th&gt;
+		&lt;th style=&quot;width:33.3%&quot;&gt;Data&lt;/th&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Lime&lt;/td&gt;
+		&lt;td&gt;74.6%&lt;/td&gt;
+	&lt;/tr&gt;
+		&lt;tr&gt;
+		&lt;td&gt;Portlandite&lt;/td&gt;
+		&lt;td&gt;21.8%&lt;/td&gt;
+	&lt;/tr&gt;
+		&lt;tr class=&quot;&quot;&gt;
+		&lt;td&gt;Calcite&lt;/td&gt;
+		&lt;td&gt;3.6%&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br&gt;
+&lt;h4 style=&quot;margin-top:28px&quot; &gt;&amp;#8226; 형상(Morphlogy)&lt;/h4&gt;
+&lt;br&gt;
+&lt;div class=&quot;morphlogy&quot;&gt;
+&lt;div style=&quot;display: flex; width: 500px; margin:0px auto&quot;  &gt;
+	&lt;img src=&quot;/post_images/Quicklime(CO1)3.jpg&quot; alt=&quot;Quicklime(CO1)3.jpg&quot;&gt;
+	&lt;img src=&quot;/post_images/Quicklime(CO1)4.jpg&quot; alt=&quot;Quicklime(CO1)4.jpg&quot;&gt;
+&lt;/div&gt;
+&lt;div style=&quot;display: flex; width: 500px; margin:0px auto&quot;&gt;
+	&lt;img src=&quot;/post_images/Quicklime(CO1)5.jpg&quot; alt=&quot;Quicklime(CO1)5.jpg&quot;&gt;
+	&lt;img src=&quot;/post_images/Quicklime(CO1)6.jpg&quot; alt=&quot;Quicklime(CO1)6.jpg&quot;&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;h5&gt;[Figure 1-2. Electron microscopy image]&lt;/h5&gt;
+&lt;h4 style=&quot;margin-top:54px&quot;&gt;&amp;#8226; 크기(Size Distribution)&lt;/h4&gt;
+	&lt;img src=&quot;/post_images/Quicklime(CO1)2.jpg&quot; style=&quot;width:60%&quot; alt=&quot;Quicklime(CO1)2&quot;&gt;
+&lt;h5 style=&quot;margin-top:-10px; margin-bottom:30px;&quot;&gt;[Figure 43-3. Particle size analysis]&lt;/h5&gt;
+&lt;/div&gt;
+&lt;script&gt;
+	$(document).ready(
+	function(){
+$('#information').find('a').css(&quot;color&quot;,&quot;purple&quot;);
+})
+&lt;/script&gt; --&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="Material" /><summary type="html">&amp;#8226; 원리(Principle) -레이저, UV 광원의 빛을 플라 스틱 소재에 조사 중합반응을 유도하여 선택적으로 고형화 시키는 방식</summary></entry><entry><title type="html">Quicklime(CO1)</title><link href="http://localhost:4000/material/2017/06/10/pe.html" rel="alternate" type="text/html" title="Quicklime(CO1)" /><published>2017-06-11T09:00:01+09:00</published><updated>2017-06-11T09:00:01+09:00</updated><id>http://localhost:4000/material/2017/06/10/pe</id><content type="html" xml:base="http://localhost:4000/material/2017/06/10/pe.html">&lt;style&gt;
+h4{
+	text-align: left;
+margin-left:0px;
+margin-bottom:5px;
+margin-top:18px;
+color:#333;
+}p{
+	line-height: 160%;
+	text-align: left;
+}&lt;/style&gt;
+
+&lt;div style=&quot;width:800px; margin:0px  auto&quot;&gt;&lt;!-- 
+&lt;div style=&quot;margin:0px auto; width:200px; height:150px;&quot; &gt;
+&lt;img src=&quot;/post_images/ocher.jpg&quot; alt=&quot;&quot; style=&quot;width:100%;&quot;&gt;
+&lt;/div&gt; --&gt;
+&lt;h4 style=&quot;margin-bottom:0px&quot;&gt;&amp;#8226; 원리(Principle)&lt;/h4&gt;&lt;br /&gt;
+&lt;p style=&quot;line-height: 180%&quot;&gt;-고온 가열한 재료를 노즐을 통 해 일정 압력으로 연속적으로 밀어 내며 형상을 만드는 방식
+&lt;/p&gt;
+
+&lt;div style=&quot;margin:0px auto; width : 400px&quot;&gt;
+&lt;br /&gt;	
+&lt;img style=&quot;width:100%; display: inline-block;&quot; src=&quot;https://mblogthumb-phinf.pstatic.net/20150210_95/airrex_1423563887039RAaxq_JPEG/FDM.jpg?type=w2&quot; alt=&quot;Quicklime(CO1)3.jpg&quot; /&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;div style=&quot;margin:0px auto; width:560px&quot;&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/U-8-lu4mq8o?autoplay=1&amp;amp;rel=0&quot; frameborder=&quot;0&quot; gesture=&quot;media&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align:center; margin:0px auto; display: block; width:800px&quot;&gt;
+&lt;h4 style=&quot;margin-bottom:0px&quot;&gt;&amp;#8226; 세부 유형&lt;/h4&gt;&lt;br /&gt;
+&lt;p&gt;-FDM: Fused Deposition Modeling&lt;/p&gt;
+&lt;p&gt;-FFF: Fused Filament Fabrication&lt;/p&gt;
+
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+
+
+&lt;!-- &lt;table&gt;
+&lt;tr&gt;
+	&lt;th&gt;No&lt;/th&gt;
+	&lt;th&gt;Component&lt;/th&gt;
+	&lt;th&gt;Result&lt;/th&gt;
+	&lt;th&gt;Unit&lt;/th&gt;
+	&lt;th&gt;Det.limit&lt;/th&gt;
+	&lt;th&gt;El.line&lt;/th&gt;
+	&lt;th&gt;Intensity&lt;/th&gt;
+	&lt;th&gt;w/o normal&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;1&lt;/td&gt;
+	&lt;td&gt;MgO&lt;/td&gt;
+	&lt;td&gt;0.812&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00753&lt;/td&gt;
+	&lt;td&gt;Mg-KA&lt;/td&gt;
+	&lt;td&gt;7.0404&lt;/td&gt;
+	&lt;td&gt;0.7662&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;2&lt;/td&gt;
+	&lt;td&gt;Al2O3&lt;/td&gt;
+	&lt;td&gt;0.0796&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00158&lt;/td&gt;
+	&lt;td&gt;Al-KA&lt;/td&gt;
+	&lt;td&gt;1.8350&lt;/td&gt;
+	&lt;td&gt;0.0751&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;3&lt;/td&gt;
+	&lt;td&gt;SiO2&lt;/td&gt;
+	&lt;td&gt;0.257&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00163&lt;/td&gt;
+	&lt;td&gt;Si-KA&lt;/td&gt;
+	&lt;td&gt;5.8009&lt;/td&gt;
+	&lt;td&gt;0.2428&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&quot;&quot; &gt;
+	&lt;td&gt;4&lt;/td&gt;
+	&lt;td&gt;P2O5&lt;/td&gt;
+	&lt;td&gt;0.0205&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00073&lt;/td&gt;
+	&lt;td&gt;P-KA&lt;/td&gt;
+	&lt;td&gt;1.2513&lt;/td&gt;
+	&lt;td&gt;0.0193&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;5&lt;/td&gt;
+	&lt;td&gt;SO3&lt;/td&gt;
+	&lt;td&gt;0.131&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00086&lt;/td&gt;
+	&lt;td&gt;S-KA&lt;/td&gt;
+	&lt;td&gt;7.0768&lt;/td&gt;
+	&lt;td&gt;0.1233&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;6&lt;/td&gt;
+	&lt;td&gt;CaO&lt;/td&gt;
+	&lt;td&gt;93.4&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.01062&lt;/td&gt;
+	&lt;td&gt;Ca-KA&lt;/td&gt;
+	&lt;td&gt;5782.3941&lt;/td&gt;
+	&lt;td&gt;92.8333&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;7&lt;/td&gt;
+	&lt;td&gt;Fe2O3&lt;/td&gt;
+	&lt;td&gt;0.311&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00456&lt;/td&gt;
+	&lt;td&gt;Fed-KA&lt;/td&gt;
+	&lt;td&gt;10.1570&lt;/td&gt;
+	&lt;td&gt;0.2930&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt; --&gt;
+&lt;!-- &lt;h5 style=&quot;margin-top:15px&quot;&gt;[Table 43-1. Chemical Composition of 생석회(백광소재, CO1)]&lt;/h5&gt;
+&lt;br&gt;
+&lt;h4 style=&quot;margin-bottom:40px; margin-top:20px&quot;&gt;&amp;#8226; 상분석(Phase Analysis)&lt;/h4&gt;
+&lt;img src=&quot;/post_images/Quicklime(CO1)7.jpg&quot; style=&quot;width:100%; margin-bottom:10px;&quot; alt=&quot;Quicklime(CO1)7&quot;&gt;
+&lt;h5&gt;[Figure 43-1. X-Ray Diffraction of 생석회(백광소재, CO1) Materials &amp; Phase Analysis]&lt;/h5&gt;
+&lt;h5 style=&quot;margin-top:40px; margin-bottom:10px&quot;&gt;[Table 43-2. Phase analysis based on X-ray Diffraction]&lt;/h5&gt;
+&lt;table style=&quot;margin:30px 30px 10px 20px; margin-top:0px&quot;&gt;
+	&lt;tr&gt;
+		&lt;th style=&quot;width:33.3%&quot;&gt;Material&lt;/th&gt;
+		&lt;th style=&quot;width:33.3%&quot;&gt;Data&lt;/th&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Lime&lt;/td&gt;
+		&lt;td&gt;74.6%&lt;/td&gt;
+	&lt;/tr&gt;
+		&lt;tr&gt;
+		&lt;td&gt;Portlandite&lt;/td&gt;
+		&lt;td&gt;21.8%&lt;/td&gt;
+	&lt;/tr&gt;
+		&lt;tr class=&quot;&quot;&gt;
+		&lt;td&gt;Calcite&lt;/td&gt;
+		&lt;td&gt;3.6%&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br&gt;
+&lt;h4 style=&quot;margin-top:28px&quot; &gt;&amp;#8226; 형상(Morphlogy)&lt;/h4&gt;
+&lt;br&gt;
+&lt;div class=&quot;morphlogy&quot;&gt;
+&lt;div style=&quot;display: flex; width: 500px; margin:0px auto&quot;  &gt;
+	&lt;img src=&quot;/post_images/Quicklime(CO1)3.jpg&quot; alt=&quot;Quicklime(CO1)3.jpg&quot;&gt;
+	&lt;img src=&quot;/post_images/Quicklime(CO1)4.jpg&quot; alt=&quot;Quicklime(CO1)4.jpg&quot;&gt;
+&lt;/div&gt;
+&lt;div style=&quot;display: flex; width: 500px; margin:0px auto&quot;&gt;
+	&lt;img src=&quot;/post_images/Quicklime(CO1)5.jpg&quot; alt=&quot;Quicklime(CO1)5.jpg&quot;&gt;
+	&lt;img src=&quot;/post_images/Quicklime(CO1)6.jpg&quot; alt=&quot;Quicklime(CO1)6.jpg&quot;&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;h5&gt;[Figure 1-2. Electron microscopy image]&lt;/h5&gt;
+&lt;h4 style=&quot;margin-top:54px&quot;&gt;&amp;#8226; 크기(Size Distribution)&lt;/h4&gt;
+	&lt;img src=&quot;/post_images/Quicklime(CO1)2.jpg&quot; style=&quot;width:60%&quot; alt=&quot;Quicklime(CO1)2&quot;&gt;
+&lt;h5 style=&quot;margin-top:-10px; margin-bottom:30px;&quot;&gt;[Figure 43-3. Particle size analysis]&lt;/h5&gt;
+&lt;/div&gt;
+&lt;script&gt;
+	$(document).ready(
+	function(){
+$('#information').find('a').css(&quot;color&quot;,&quot;purple&quot;);
+})
+&lt;/script&gt; --&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="Material" /><summary type="html">&amp;#8226; 원리(Principle) -고온 가열한 재료를 노즐을 통 해 일정 압력으로 연속적으로 밀어 내며 형상을 만드는 방식</summary></entry><entry><title type="html">white ocher</title><link href="http://localhost:4000/whiteocher/2017/06/10/whiteocher.html" rel="alternate" type="text/html" title="white ocher" /><published>2017-06-11T09:00:01+09:00</published><updated>2017-06-11T09:00:01+09:00</updated><id>http://localhost:4000/whiteocher/2017/06/10/whiteocher</id><content type="html" xml:base="http://localhost:4000/whiteocher/2017/06/10/whiteocher.html">&lt;style&gt;
+
+h4{
+	
+text-align: left;
+margin-left:0px;
+margin-bottom:5px;
+margin-top:18px;
+color:#333;
+}
+
+p{
+
+	line-height: 160%;
+	text-align: left;
+}
+
+&lt;/style&gt;
+
+&lt;div style=&quot;width:900px; margin:0px  auto&quot;&gt;
+
+
+&lt;h4 style=&quot;margin-bottom:8px&quot;&gt;- 정의(Definition)&lt;/h4&gt;&lt;br /&gt;
+
+
+&lt;p style=&quot;line-height: 180%&quot;&gt;황토는 대개 균질하고 층리가 발달되어 있지 않으며, 공극률이 크다. 퇴적층을 수직방향으로 갈라지게 하는 수직한 열극들이 발달해 있는 것이 특징.
+
+황토 입자의 크기는 0.02~0.05mm이며, 조립질과 중립질의 먼지를 포함한다. 이러한 크기의 비율은 무게비로 50% 정도이다. 
+
+전 세계적으로, 그 중에서도 중위도의 온대 지역이나 반건조 지역에 분포하여 지구 육지의 10%는 황토로 뒤덮여 있을 정도이다. 국가 중에서 가장 황토가 많이 있는 나라는 중국이며 63만 km^2km
+​2
+​​ 에 달하는 국토에 황토가 분포하고 있는데, 황하 문명 역시 황토 지역을 중심으로 발전하였다고 한다. 물론 대한민국도 전 국토의 35%가 황토로 덮여 있는데, 상당수가 몇 만 년 전부터 중국으로부터 황사로 들어온 것이라고 한다.
+
+단, 지역에 따라 황토의 구성 비율에 몇 가지 변이가 일어나는데, 진짜 황토뿐 아니라, 반건조 지역의 황토질 모래, 갯벌의 점토질 황토 등 다양한 계열이 있다. 이들을 구성하는 각각의 성분이 서로 구분하기 어렵기 때문에 황토를 구성하는 퇴적물의 유형은 지역마다 다르다.
+
+&lt;/p&gt;	
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div style=&quot;text-align:center; margin:20px 0px 30px 40px; display: block;&quot;&gt;
+
+&lt;h4 style=&quot;margin-bottom:10px&quot;&gt;- 조성(Composition)&lt;/h4&gt;&lt;br /&gt;
+&lt;table&gt;
+&lt;tr&gt;
+	&lt;th&gt;No&lt;/th&gt;
+	&lt;th&gt;Component&lt;/th&gt;
+	&lt;th&gt;Result&lt;/th&gt;
+	&lt;th&gt;Unit&lt;/th&gt;
+	&lt;th&gt;Det.limit&lt;/th&gt;
+	&lt;th&gt;El.line&lt;/th&gt;
+	&lt;th&gt;Intensity&lt;/th&gt;
+	&lt;th&gt;w/o normal&lt;/th&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+	&lt;td&gt;1&lt;/td&gt;
+	&lt;td&gt;Na20&lt;/td&gt;
+	&lt;td&gt;0.104&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.01409&lt;/td&gt;
+	&lt;td&gt;Na-KA&lt;/td&gt;
+	&lt;td&gt;0.3872&lt;/td&gt;
+	&lt;td&gt;0.0924&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+	&lt;td&gt;2&lt;/td&gt;
+	&lt;td&gt;MgO&lt;/td&gt;
+	&lt;td&gt;0.747&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.01516&lt;/td&gt;
+	&lt;td&gt;Mg-KA&lt;/td&gt;
+	&lt;td&gt;7.3186&lt;/td&gt;
+	&lt;td&gt;0.6651&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+	&lt;td&gt;3&lt;/td&gt;
+	&lt;td&gt;Al2O3&lt;/td&gt;
+	&lt;td&gt;31.7&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.01637&lt;/td&gt;
+	&lt;td&gt;Al-KA&lt;/td&gt;
+	&lt;td&gt;764.5741&lt;/td&gt;
+	&lt;td&gt;28.2188&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr class=&quot;table_highlight&quot;&gt;
+	&lt;td&gt;4&lt;/td&gt;
+	&lt;td&gt;SiO2&lt;/td&gt;
+	&lt;td&gt;54.0&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.01219&lt;/td&gt;
+	&lt;td&gt;Si-KA&lt;/td&gt;
+	&lt;td&gt;851.5258&lt;/td&gt;
+	&lt;td&gt;48.1139&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+	&lt;td&gt;5&lt;/td&gt;
+	&lt;td&gt;SO3&lt;/td&gt;
+	&lt;td&gt;0.114&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00251&lt;/td&gt;
+	&lt;td&gt;S-KA&lt;/td&gt;
+	&lt;td&gt;2.8283&lt;/td&gt;
+	&lt;td&gt;0.1013&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+	&lt;td&gt;6&lt;/td&gt;
+	&lt;td&gt;K2O&lt;/td&gt;
+	&lt;td&gt;2.06&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00234&lt;/td&gt;
+	&lt;td&gt;K-KA&lt;/td&gt;
+	&lt;td&gt;122.8162&lt;/td&gt;
+	&lt;td&gt;1.8368&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+	&lt;td&gt;7&lt;/td&gt;
+	&lt;td&gt;CaO&lt;/td&gt;
+	&lt;td&gt;0.196&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00210&lt;/td&gt;
+	&lt;td&gt;Ca-KA&lt;/td&gt;
+	&lt;td&gt;9.7897&lt;/td&gt;
+	&lt;td&gt;0.1744&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;8&lt;/td&gt;
+	&lt;td&gt;TiO2&lt;/td&gt;
+	&lt;td&gt;1.15&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00622&lt;/td&gt;
+	&lt;td&gt;Ti-KA&lt;/td&gt;
+	&lt;td&gt;14.7502&lt;/td&gt;
+	&lt;td&gt;1.0202&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+	&lt;td&gt;8&lt;/td&gt;
+	&lt;td&gt;Na20&lt;/td&gt;
+	&lt;td&gt;0.104&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.01409&lt;/td&gt;
+	&lt;td&gt;Na-KA&lt;/td&gt;
+	&lt;td&gt;0.3872&lt;/td&gt;
+	&lt;td&gt;0.0924&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr class=&quot;table_second&quot;&gt;
+	&lt;td&gt;9&lt;/td&gt;
+	&lt;td&gt;Cr2O3&lt;/td&gt;
+	&lt;td&gt;0.0266&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00388&lt;/td&gt;
+	&lt;td&gt;Cr-KA&lt;/td&gt;
+	&lt;td&gt;1.0869&lt;/td&gt;
+	&lt;td&gt;0.0237&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+	&lt;td&gt;10&lt;/td&gt;
+	&lt;td&gt;Fe203&lt;/td&gt;
+	&lt;td&gt;9.93&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00402&lt;/td&gt;
+	&lt;td&gt;Fe-KA&lt;/td&gt;
+	&lt;td&gt;912.9433&lt;/td&gt;
+	&lt;td&gt;8.8503&lt;/td&gt;
+&lt;/tr&gt; 
+
+&lt;/table&gt;
+
+&lt;br /&gt;
+
+&lt;h4 style=&quot;margin-bottom:15px; margin-top:20px&quot;&gt;- 상분석(Phase Analysis)&lt;/h4&gt;
+&lt;img src=&quot;/post_images/white7.jpg&quot; style=&quot;width:80%&quot; alt=&quot;white7&quot; /&gt;
+
+&lt;table style=&quot;width:841px; margin:30px 30px 20px 20px; margin-top:25px&quot;&gt;
+	&lt;tr&gt;
+		&lt;th style=&quot;width:70%px&quot;&gt;Mateiral&lt;/th&gt;
+		&lt;th style=&quot;width:30%&quot;&gt;Data&lt;/th&gt;
+	&lt;/tr&gt;
+
+	&lt;tr&gt;
+		&lt;td&gt;Quartz low&lt;/td&gt;
+		&lt;td&gt;59.9%&lt;/td&gt;
+	&lt;/tr&gt;
+
+		&lt;tr&gt;
+		&lt;td&gt;Pyrophylite(Subcell)&lt;/td&gt;
+		&lt;td&gt;36.4&lt;/td&gt;
+	&lt;/tr&gt;
+
+		&lt;tr class=&quot;table_highlight&quot;&gt;
+		&lt;td&gt;Chirstobalite&lt;/td&gt;
+		&lt;td&gt;0.5%&lt;/td&gt;
+	&lt;/tr&gt;
+
+		&lt;tr&gt;
+		&lt;td&gt;Aluminum Phosphate(v)&lt;/td&gt;
+		&lt;td&gt;Ht 3.2%&lt;/td&gt;
+	&lt;/tr&gt;
+
+&lt;/table&gt;
+
+
+&lt;br /&gt;
+
+&lt;h4 style=&quot;margin-top:28px&quot;&gt;- 형상(Morphlogy)&lt;/h4&gt;
+&lt;br /&gt;
+&lt;div class=&quot;morphlogy&quot;&gt;
+
+&lt;div style=&quot;display: flex; width: 500px; margin:0px auto&quot;&gt;
+	&lt;img src=&quot;/post_images/white3.jpg&quot; alt=&quot;white3.jpg&quot; /&gt;
+	&lt;img src=&quot;/post_images/white4.jpg&quot; alt=&quot;white4.jpg&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;display: flex; width: 500px; margin:0px auto&quot;&gt;
+	&lt;img src=&quot;/post_images/white5.jpg&quot; alt=&quot;white5.jpg&quot; /&gt;
+	&lt;img src=&quot;/post_images/white6.jpg&quot; alt=&quot;white6.jpg&quot; /&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h4 style=&quot;margin-top:54px&quot;&gt;- 크기(Size Distribution)&lt;/h4&gt;
+	
+&lt;img src=&quot;/post_images/white2.jpg&quot; style=&quot;width:80%&quot; alt=&quot;white2&quot; /&gt;
+
+&lt;table style=&quot;width:841px; margin:10px 30px 50px 20px;&quot;&gt;
+	&lt;tr&gt;
+		&lt;th style=&quot;width:70%px&quot;&gt;Volume&lt;/th&gt;
+		&lt;th style=&quot;width:30%&quot;&gt;Data&lt;/th&gt;
+	&lt;/tr&gt;
+
+	&lt;tr&gt;
+		&lt;td&gt;Maximum Volume&lt;/td&gt;
+		&lt;td&gt;59.9%&lt;/td&gt;
+	&lt;/tr&gt;
+
+		&lt;tr&gt;
+		&lt;td&gt;Minum Volume&lt;/td&gt;
+		&lt;td&gt;36.4&lt;/td&gt;
+	&lt;/tr&gt;
+
+		&lt;tr class=&quot;table_highlight&quot;&gt;
+		&lt;td&gt;Average Volume&lt;/td&gt;
+		&lt;td&gt;0.5%&lt;/td&gt;
+	&lt;/tr&gt;
+
+		&lt;tr&gt;
+		&lt;td&gt;Medium Volume&lt;/td&gt;
+		&lt;td&gt;Ht 3.2%&lt;/td&gt;
+	&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/div&gt;
+
+&lt;script&gt;
+	
+$(document).ready(
+	function(){
+$('#information').find('a').css(&quot;color&quot;,&quot;purple&quot;);
+})
+
+&lt;/script&gt;</content><author><name></name></author><category term="Material" /><summary type="html"></summary></entry></feed>

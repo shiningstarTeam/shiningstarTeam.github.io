@@ -1,0 +1,25 @@
+---
+layout: post
+title:  basic construction(1)
+ktitle: 지옥장부맞춤
+date:   2017-05-12 04:00:42 +0900
+categories: structure
+link: bc
+tag: 3Ddrawing
+---
+
+<div style="width:900px; margin:0px auto">
+
+<h3>
+	{{page.ktitle}}
+</h3>
+
+<p style="line-height: 160%">장부가 빠지지 않게 쐐기로 보강한 장부맞춤의 일종이다. 장부가 헐거워지는 것을 막기위해 장부
+홈에 통과시키고, 맞은편에서 1~2의 벌림쐐기를 박아 고정한다. 주로 창호의 울거미 간 맞춤에서
+많이 사용되며, 목가구 등의 짜임에서도 자주 보인다. 가구에서는 장부머리가 보이지 않게 짧은 장부
+머리에 미리 벌림쐐기를 반만 찔러 넣고 다른재의 홈에 박는 방식을 하기도 한다.</p>	
+</div>	
+
+<div style="text-align:center; margin:20px 0px 30px 0px; display: block;">
+<iframe width="640" height="360" src="https://www.youtube.com/embed/NEmSRAP3aqc?autoplay=1&rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+</div>

@@ -1,0 +1,23 @@
+---
+layout: post
+title:  basic construction(1)
+ktitle: 내외주먹장부이
+date:   2017-05-12 04:00:42 +0900
+categories: structure
+link: bc
+tag: 3Ddrawing
+---
+
+<div style="width:900px; margin:0px auto">
+
+<h3>
+	{{page.ktitle}}
+</h3>
+
+<p style="line-height: 160%">각 부재를 상·하 두 단으로 나누고 주먹장부와 주먹장부 홈을 모두 내어 서로 끼우는
+이음방식이다.</p>	
+</div>	
+
+<div style="text-align:center; margin:20px 0px 30px 0px; display: block;">
+<iframe width="640" height="360" src="https://www.youtube.com/embed/7NZkkaGwg5Q?autoplay=1" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+</div>

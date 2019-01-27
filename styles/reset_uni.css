@@ -1,0 +1,40 @@
+/* -------------------------------------------------------------- 
+  
+   reset.css
+   * Resets default browser CSS.
+   
+--------------------------------------a, ------------------------ */
+
+html, body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+abbr, acronym, address, code,
+del, dfn, em, img, q, dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td
+{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    /*vertical-align: baseline;
+    */
+}
+#home_banners a {
+    text-decoration: none;
+    color:#591A60;
+}
+#home_banners a:hover {
+    color:#5D666A;
+}
+body {
+    margin: 0px;
+}
+
+/* Remove possible quote marks (") from <q>, <blockquote>. */
+blockquote:before, blockquote:after, q:before, q:after { content: ""; }
+blockquote, q { quotes: "" ""; 
+margin-left:30px;
+line-height:10px;
+}
+
+a img { border: none; }
+

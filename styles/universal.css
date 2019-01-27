@@ -1,0 +1,156 @@
+@import url(https://cdn.rawgit.com/theeluwin/NotoSansKR-Hestia/master/stylesheets/NotoSansKR-Hestia.css);
+
+
+html, body {
+    margin: 0em;
+    padding: 0em;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    background-color:#ffffff;
+    height:100%;
+    font-family: 'Noto Sans Korean', sans-serif;
+
+}
+
+a{
+    font-color:#333333;
+}
+
+p, li, th, td {
+    /*font-size: 0.78em;*/
+    /*line-height: 1.0em;*/
+}
+.line_height ul li {
+    line-height:18px;
+}
+
+img {
+    border: none;
+    border:0;
+}
+h1 {
+    font-size: 1.4em;
+    font-weight: bold;
+    margin: 0.5em 0em;
+}
+h2 {
+    font-size: 1.9em;
+    font-weight: bold;
+    margin: 0.35em 0em;
+}
+h3 {
+    color: #591A60;
+    font-size: 1.3em;
+    font-weight: bold;
+    margin: 0.25em 0em;
+}
+ul {
+    list-style: disc inside none;
+    padding-left:20px;
+ /*   list-style-type:none; */
+}
+.error {
+    color: #FF0000;
+    font-weight: bold;
+}
+.message {
+    color: #006600;
+    font-weight: bold;
+}
+.invalid {
+    border: 1px solid #FF0000;
+    color: #FF0000;
+}
+img.pdf,
+img.word,
+img.text,
+img.sound,
+img.secure,
+img.image,
+img.error,
+img.ppt {
+    vertical-align: middle;
+    margin: 0em 0.75em;
+}
+.back_to_top,
+.back_to_top a,
+.back_to_top a:link,
+.back_to_top a:hover,
+.back_to_top a:active,
+.back_to_top a:visited {
+    font-size: 0.78em;
+    color: #7F7FB7;
+}
+#banner {
+    width: 100%;
+    background-color: #B2AED5;
+    margin: 0px;
+    padding: 0px;
+}
+#navigation {
+    float: left;
+    width: 180px;
+    padding: 20px;
+}
+#navigation h1 {
+    font-size: 0.875em;
+    font-weight: bold;
+    border-bottom: 1px solid #333399;
+    margin: 0em;
+}
+#navigation ul {
+    list-style-type: none;
+    /*margin: 1em 0em;*/
+    padding: 0em;
+}
+#content {
+    min-height: 25em;
+    background-color: #FFF;
+    margin-left: 240px;
+}
+* html body #content {
+    height: auto;
+    height: 25em;
+}
+#footer {
+    height: 9.25em;
+    clear: both;
+    width: 100%;
+    background-color: #DDDBED;
+}
+#footer #footer_container {
+    border: none;
+    border-collapse: collapse;
+}
+#footer #footer_container img {
+    margin: 20px 50px 20px 20px;
+    vertical-align: middle;
+}
+#footer #footer_container span.school_name {
+    font-size: 115%;
+}
+#footer #footer_container p {
+    font-size: 0.85em;
+    line-height: 1.85em;
+    color: #000;
+}
+#footer #footer_container a {
+    color: #000;
+}
+
+.circled{
+
+    top: 550px;
+    left : 1100px;
+    position:fixed;
+    overflow-y:scroll;
+    overflow-x:hidden;
+    z-index: :100;
+
+}
+
+.ui-widget{
+
+font-family: 'Spoqa Han Sans', 'Spoqa Han Sans JP', 'Sans-serif' !important ; 
+
+}

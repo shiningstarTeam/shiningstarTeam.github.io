@@ -1,0 +1,24 @@
+---
+layout: post
+title:  basic construction(1)
+ktitle: 어깨빗따기맞춤
+date:   2017-05-12 04:00:42 +0900
+categories: structure
+link: bc
+tag: 3Ddrawing
+---
+
+<div style="width:900px; margin:0px auto">
+
+<h3>
+	{{page.ktitle}}
+</h3>
+
+<p style="line-height: 160%">수평재 위에 경사재가 걸쳐질 때 수평재의 어깨를 비스듬히 깎아내어 경사부재를 거는
+결구방식이다.</p>	
+</div>	
+
+<div style="text-align:center; margin:20px 0px 30px 0px; display: block;">
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/Ysloq2Ir14U?autoplay=1&rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+</div>

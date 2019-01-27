@@ -1,0 +1,367 @@
+<head>
+<meta content="IE=edge" http-equiv="X-UA-Compatible" />
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+<title>PTCAT</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.css
+Copy
+">
+<meta content="Official web site of Northwestern Institute on Complex Systems" name="description" />
+<meta content="NICO, Complex systems, Northwestern University" name="keywords" />
+
+
+<meta content="Wed, 26 Apr 2017 000:25:05 -0500" name="date" />
+
+<meta content="NICO | Northwestern-Argonne" name="title" />
+<meta content="eng" name="language" />
+<meta content="Copyright 2012 Northwestern University" name="rights" />
+<meta content="INDEX, FOLLOW" name="robot" />
+<link href="/styles/mccnicoprint.css" media="print" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="/style_customed.css">
+
+<link href="/styles/reset_uni.css" rel="stylesheet" type="text/css" />
+<link href="/styles/universal.css" rel="stylesheet" type="text/css" />
+<link href="/styles/tmp.css" rel="stylesheet" type="text/css" />
+<link href="/styles/homepage.css" rel="stylesheet" type="text/css" />
+<link href="/styles/main-navigation.css" rel="stylesheet" type="text/css" />
+
+
+<script src="/scripts/jquery/jquery-1.8.0.min.js" type="text/javascript" ></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<script src="/scripts/jquery-ui/jquery-ui-tabs.js" type="text/javascript" ></script>
+<script src="/02/main.js"></script>
+<!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"> -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <!-- <link rel="stylesheet" href="/resources/demos/style.css"> -->
+  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<script>
+  $( function() {
+    $( ".menu" ).menu({
+      items: "> :not(.ui-widget-header)"
+    });
+  } );
+  </script>
+  
+<style>
+
+.menu{
+  text-align: center;
+  width:300px;
+
+}
+
+.menu li{
+
+  padding:5px;
+}
+
+.ui-widget-header{
+
+  font-size:15px;
+  padding:10px;
+}
+
+</style>
+
+<script type="text/javascript">
+    //For search form
+    function switchText()
+    {
+        if ($(this).val() == $(this).attr('title'))
+            $(this).val('').removeClass('ex');
+        else if ($.trim($(this).val()) == '')
+            $(this).addClass('ex').val($(this).attr('title'));
+    }
+    
+    $(document).ready(function() {
+        $('input[type=text][title!=""]').each(function() {
+            if ($.trim($(this).val()) == '') $(this).val($(this).attr('title'));
+            if ($(this).val() == $(this).attr('title')) $(this).addClass('ex');
+        }).focus(switchText).blur(switchText);
+        
+        $('form').submit(function() {
+            $(this).find('input[type=text][title!=""]').each(function() {
+                if ($(this).val() == $(this).attr('title')) $(this).val('');
+            });
+        });
+    });
+</script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-36406748-1']);
+  _gaq.push(['_setDomainName', 'northwestern.edu']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+
+<link rel="stylesheet" href="/post.css">
+
+<div id="mainFrame_container">
+        <div class="mainFrame">
+<div id="header">
+                <div class="header_logo_nico"><a href="/index.html"><img alt="Northwestern Institute on Complex Systems" height="110" src="/images/aplLOGO.png" width="196px" /></a></div>
+<div class="header_text">
+<div class="header_organization">Next-Generation 3D Printing Research Innovation Technology Based on Natural/Tradiational Materials & Processing</div>
+<div class="header_parent_organization"><a hre	f="http://www.northwestern.edu/" target="_blank">KIST / KAIST / Hongik-Unvieristy / ROKIT</a></div>
+</div>
+
+<div class="header_logo_search"><img alt="Search" style="margin-top:45px" height="23" src="/img/structure/nico-search.jpg" width="150" />
+
+<form action="http://googlesearch.northwestern.edu/search" id="search" method="get" name="search"><input class="searchInput" id="q" maxlength="127" name="q" title="Search PTCAT..." type="text" style="margin:46px 0px 0px 5px"/> <input name="sitesearch" type="hidden" value="http://www.nico.northwestern.edu" /> <input name="output" type="hidden" value="xml_no_dtd" /> <input name="client" type="hidden" value="default_oneboxes" /> <input name="proxystylesheet" type="hidden" value="default_oneboxes" /> <input name="site" type="hidden" value="default_collection" /></form>
+</div>
+<!-- <div class="header_logo_kellogg"><a href="http://www.kellogg.northwestern.edu/" target="_blank"><img alt="Kellogg School of Management" height="39" src="img/nico-kellogg.png" width="110" /></a></div> -->
+<!-- <div class="header_logo_mccormick"><a href="#" target="_blank"><img alt="#" height="20" src="/img/nico-mcc.png" width="308" /></a></div> -->
+            </div>
+            
+            <div id="navigation">
+               <div id="main-nav">
+	                <ul><li class="current"><a href="/index.html">Home</a></li>
+
+	                <li><a href="/about/index.html">About</a></li>
+	                <li><a href="/people/index.html">People</a></li>
+	                <li><a href="/research/index.html">Research</a><div>
+	                <!-- <ul><li><a href="#">Data Science Initiative</a></li>
+	                <li><a href="#">Science of Science</a></li></ul> -->
+	                </div></li>
+
+	                <li id="information" >
+
+	                <a href="/information/index.html">Information</a>
+
+	                <div>
+
+	                <ul>
+	                	
+
+	                	<li><a href="/information/index.html">Materials</a></li>
+	                	<li><a href="/gallery/index.html">Design / Images</a></li>
+	                	<li><a href="/3d_tech.html">3D Printing Tech</a>
+
+	                	</ul>
+
+	                </div>
+
+	                
+					
+		<li><a href="/education/index.html">Education</a></li>
+	                
+	                <li><a href="/seminar/index.html">Seminars</a><div>
+
+	                </div></li><!-- <li><a href="support/index.html">Support NICO</a></li> -->
+					
+
+	                <li><a href="/contact/index.html">Contact</a><div></div></li>
+                </ul>
+               </div>
+            </div>
+
+            <script>
+            	$(document).ready(function(){
+
+            	})
+            </script>
+
+<div class="circled">
+ <!--<a href="/gallery/wood.html"><img src="/circle1.png" alt="" style="width:35%; margin-right: 10px" / ></a> -->
+ <!--<a href="/information/index.html"><img src="/circle2.png" alt="" style="width:35%"/></a> -->
+</div>
+
+<div class="sub_menu_image">
+
+
+  <ul style="display:flex; background-color;  font-size:15px;">
+  <a href="/gallery/wood.html"><li style="color:#591A60; font-weight:bold">Wood Structure &nbsp </li></a>
+<a href="/gallery/index.html"><li style="color:grey; font-weight:bold">Structure / Building &nbsp</li></a>
+<strong><a href="/gallery/pattern.html"><li style="color:grey; font-weight:bold">Traditional Pattern / Design &nbsp</li></a></strong>
+
+</ul>
+
+<hr>
+<br>
+
+		<div style="margin-left:30px;">
+				<h3>Wood Structure</h3>
+                      <h5 style="font-size:15px; color:#591A60"  > - Korean Traditional Wood Structure</h5>
+		</div>
+
+<br>
+
+<div class="woodSt">
+
+<h2 style="font-size:20px; text-align: center;"> &#9642 결구법 - 쪽매</h2>
+<div  style="display:flex; margin:0px auto !important; width:800px; " >
+
+
+<ul class="menu">
+  <li class="ui-widget-header" style="margin:0px;"><div> 혀쪽매 &nbsp </div></li>
+  <a href="/structure/2017/05/12/bc1.html"><li><div>제혀쪽매</div></li></a>
+  <a href="/structure/2017/05/12/hyeo2.html"><li><div>딴혀쪽매</div></li></a>
+  <a href="/structure/2017/05/12/hyeo3.html"><li><div>양제혀쪽매</div></li></a>
+  <a href="/structure/2017/05/12/hyeo4.html"><li><div>턱제혀쪽매</div></li></a>
+  </ul>
+
+<ul class="menu">
+  <li class="ui-widget-header" style="margin:0px;"><div>은장쪽매 &nbsp</div></li>
+  <a href="/structure/2017/05/12/bc.html"><li><div>나비장쪽매</div></li></a>
+  <a href="/structure/2017/05/12/eunjang2.html"><li><div>거멀띠장쪽매</div></li></a>
+  <a href="/structure/2017/05/12/eunjang3.html"><li><div>틈막이대쪽매</div></li></a>
+  <a href="/structure/2017/05/12/eunjang4.html"><li><div>은살대꽂기</div></li></a>
+</ul>
+
+<ul class="menu">
+  <li class="ui-widget-header" style="margin:0px;"><div> 턱쪽매 &nbsp</div></li>
+  <a href="/structure/2017/05/12/bc2.html"><li><div>반턱쪽매</div></li></a>
+  <a href="/structure/2017/05/12/tukjjok2.html"><li><div>빗쪽매</div></li></a>
+  <a href="/structure/2017/05/12/tukjjok3.html"><li><div>오늬쪽매</div></li></a>
+</ul>
+
+
+</div>
+	
+	<h2 style="text-align: center; font-size:20px;"> &#9642 결구법 - 이음</h2>
+
+<div  style="display:flex; margin:0px auto !important; width:800px;"   >
+
+<ul class="menu">
+  <li class="ui-widget-header" style="margin:0px;"><div>  장부이음 &nbsp </div></li>
+  <a href="/structure/2017/05/12/bc10.html"><li><div>통장부이음</div></li></a>
+  <a href="/structure/2017/05/12/jangbu.html"><li><div>장부이음</div></li></a>
+  <a href="/structure/2017/05/12/matjangbu.html"><li><div>맞장부이음</div></li></a>
+  <a href="/structure/2017/05/12/tuksol.html"><li><div>턱솔이음</div></li></a>
+  <a href="/structure/2017/05/12/tenza.html"><li><div>십자쌍장부이음</div></li></a>
+  <a href="/structure/2017/05/12/jumok.html"><li><div>주먹장부이음</div></li></a>
+  <a href="/structure/2017/05/12/bantuck.html"><li><div>반턱주먹장부이음</div></li></a>
+  <a href="/structure/2017/05/12/tucker2.html"><li><div>턱걸이주먹장부이음</div></li></a>
+  <a href="/structure/2017/05/12/2gup.html"><li><div>두겹주먹장부이음</div></li></a>
+  <a href="/structure/2017/05/12/sumun.html"><li><div>숨은주먹장부이음</div></li></a>
+  <a href="/structure/2017/05/12/ssangju.html"><li><div>쌍주먹장부이음</div></li></a>
+<a href="/structure/2017/05/12/gupju.html"><li><div>겹주먹장부이음</div></li></a>
+  <a href="/structure/2017/05/12/naewae.html"><li><div>내외주먹장부이음</div></li></a>
+  <a href="/structure/2017/05/12/maetuk2.html"><li><div>메뚜기장부이음</div></li></a>
+
+</ul>
+<ul class="menu">
+  <li class="ui-widget-header" style="margin:0px;"><div> 턱이음 &nbsp </div></li>
+  <a href="/structure/2017/05/12/bc11.html"><li><div>반턱이음</div></li></a>
+  <a href="/structure/2017/05/12/galky.html"><li><div>갈퀴이음</div></li></a>
+  <li class="ui-widget-header" style="margin:0px;"><div> 엇갈이이음&nbsp </div></li>
+  <a href="/structure/2017/05/12/bc9.html"><li><div>엇걸이이음</div></li></a>
+  <a href="/structure/2017/05/12/etgal2.html"><li><div>엇걸이빗턱이음</div></li></a>
+  <a href="/structure/2017/05/12/etgal3.html"><li><div>엇걸이촉이음</div></li></a>
+  <a href="/structure/2017/05/12/etgal4.html"><li><div> 엇걸이홈이음</div></li></a>
+  <li class="ui-widget-header" style="margin:0px;"><div>  빗이음 &nbsp</div></li>
+  <a href="/structure/2017/05/12/bc7.html"><li><div>빗이음</div></li></a>
+    <a href="/structure/2017/05/12/bit2.html"><li><div>엇빗이음</div></li></a>
+    <a href="/structure/2017/05/12/bit3.html"><li><div>빗턱이음</div></li></a>
+    <a href="/structure/2017/05/12/bit4.html"><li><div>빗걸이이음</div></li></a>
+    <a href="/structure/2017/05/12/bit5.html"><li><div>엇턱이음</div></li></a>
+    <a href="/structure/2017/05/12/bit6.html"><li><div>반턱빗이음</div></li></a>
+</ul>
+
+<ul class="menu">
+  <li class="ui-widget-header" style="margin:0px;"><div>은장이음 &nbsp</div></li>
+  <!-- <li><div>나비장이음</div></li> -->
+   <a href="/structure/2017/05/12/jajok.html"><li><div>자촉이음</div></li></a>
+    <a href="/structure/2017/05/12/dotumari.html"><li><div> 도투마리은장이음</div></li></a>
+  <li class="ui-widget-header" style="margin:0px;"><div> 촉이음 &nbsp</div></li>
+  <a href="/structure/2017/05/12/bc6.html"><li><div> 촉이음</div></li></a>
+</ul>
+
+
+</div>
+
+<h2 style="text-align: center; font-size:20px;"> &#9642 결구법 - 맞춤</h2>
+<div  style="display:flex; margin:0px auto !important; width:800px;" >
+<ul class="menu">
+  <li class="ui-widget-header" style="margin:0px;"><div>  장부맞춤 &nbsp</div></li>
+  <a href="/structure/2017/05/12/bc5.html"><li><div> 통장부맞춤</div></li></a>
+    <a href="/structure/2017/05/12/jangbu2.html"><li><div>빗턱장부맞춤</div></li></a>
+    <a href="/structure/2017/05/12/jangbu3.html"><li><div>턱솔장부맞춤</div></li></a>
+    <a href="/structure/2017/05/12/jangbu5.html"><li><div>지옥장부맞춤</div></li></a>
+    <a href="/structure/2017/05/12/jangbu6.html"><li><div>주먹장부맞춤</div></li></a>
+    <a href="/structure/2017/05/12/jangbu7.html"><li><div>턱걸이주먹장부맞춤</div></li></a>
+   <a href="/structure/2017/05/12/jangbu8.html"><li><div>두겹주먹장부맞춤</div></li></a>
+    <a href="/structure/2017/05/12/jangbu9.html"><li><div> 쌍주먹장부맞춤</div></li></a>
+    <a href="/structure/2017/05/12/jangbu10.html"><li><div> 내림주먹장부맞춤</div></li></a>
+    <a href="/structure/2017/05/12/jangbu11.html"><li><div>메뚜기장부맞춤</div></li></a>
+    <a href="/structure/2017/05/12/jangbu12.html"><li><div>빗장부맞춤</div></li></a>
+    <a href="/structure/2017/05/12/jangbu13.html"><li><div>부채장부맞춤</div></li></a>
+    <a href="/structure/2017/05/12/jangbu14.html"><li><div>갈퀴맞춤</div></li></a>
+
+</ul>
+
+
+<ul class="menu">
+  <li class="ui-widget-header" style="margin:0px;"><div> 연귀맞춤 &nbsp </div></li>
+  <a href="/structure/2017/05/12/bc3.html"><li><div>연귀산지맞춤</div></li></a>
+  <a href="/structure/2017/05/12/yeongui2.html"><li><div>연귀장부맞춤</div></li></a>
+  <a href="/structure/2017/05/12/yeongui3.html"><li><div>연귀쌍장부맞춤</div></li></a>
+  <a href="/structure/2017/05/12/yeongui5.html"><li><div>반연귀맞춤</div></li></a>
+  <a href="/structure/2017/05/12/yeongui6.html"><li><div>바깥연귀맞춤</div></li></a>
+  <a href="/structure/2017/05/12/yeongui7.html"><li><div>안팎연귀맞춤</div></li></a>
+  <a href="/structure/2017/05/12/yeongui8.html"><li><div>제비촉맞춤</div></li></a>
+  <a href="/structure/2017/05/12/yeongui9.html"><li><div>연귀괴불쪽맞춤</div></li></a>
+  <a href="/structure/2017/05/12/yeongui10.html"><li><div>삼방연귀맞춤</div></li></a>
+  <a href="/structure/2017/05/12/yeongui11.html"><li><div> 사개연귀맞춤</div></li></a>
+<a href="/structure/2017/05/12/yeongui12.html"><li><div> 숨은사개연귀맞춤</div></li></a>
+<li class="ui-widget-header" style="margin:0px;"><div> 턱맞춤 &nbsp</div></li>
+  <a href="/structure/2017/05/12/bc12.html"><li><div>반턱맞춤</div></li></a>
+</ul>
+
+<ul class="menu">
+  
+  <a href="/structure/2017/05/12/bc8.html"><li><div>나비장맞춤</div></li></a>
+  <a href="/structure/2017/05/12/tuk2.html"><li><div>삼분턱맞춤</div></li></a>
+  <a href="/structure/2017/05/12/tuk3.html"><li><div>양걸침턱맞춤</div></li></a>
+  <a href="/structure/2017/05/12/tuk4.html"><li><div>외걸침턱맞춤</div></li></a>
+  <a href="/structure/2017/05/12/tuk5.html"><li><div>어깨빗따기맞춤</div></li></a>
+  <a href="/structure/2017/05/12/tuk6.html"><li><div>새부리따기맞춤</div></li></a>
+  <li class="ui-widget-header" style="margin:0px;"><div>  숭어턱맞춤 &nbsp </div></li>
+  <a href="/structure/2017/05/12/sungeo.html"><li><div> 숭어턱맞춤</div></li></a>
+  <li class="ui-widget-header" style="margin:0px;"><div>촉맞춤 &nbsp </div></li>
+  <a href="/structure/2017/05/12/bc4.html"><li><div> 촉맞춤</div></li></a>
+  </ul>
+
+</div>
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+
+		
+
+ <div id="footer" style="background-color: #f2f2f2;"">
+                <div class="footer_logo_northwestern"><a href="http://northwestern.edu" target="_blank"><img alt="Northwestern University" height="112" src="/images/Logo.png" width="180" /></a></div>
+<a href="www.northwestern.edu" ></a> 
+<div class="footer_text">
+<!-- <div class="footer_links">
+<p><a href="index.html">PTCAT Home</a> | <a href="about/contact-us/index.html">Contact Us</a> | <a href="#" target="_blank">University Policy Statements</a> | <a href="#" target="_blank">Plan-It Purple</a></p>
+</div> -->
+<div class="footer_info">
+<p>
+<br>PTCAT (PTCAT)<br />
+ K-416, 95 Wowsan_Ro, Mapo-Gu, Seoul 04066, Korea| Tel: 82.2.320.3069 | Email: jhwang@wow.hongik.ac.kr<br />
+ &#169; 2017 PTCAT - All rights reserved.</p>
+</div>
+</div>
+            </div>
+    </div>
+</div>

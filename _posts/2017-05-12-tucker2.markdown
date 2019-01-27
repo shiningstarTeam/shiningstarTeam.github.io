@@ -1,0 +1,24 @@
+---
+layout: post
+title:  basic construction(1)
+ktitle: 턱걸이주먹장부이음
+date:   2017-05-12 04:00:42 +0900
+categories: structure
+link: bc
+tag: 3Ddrawing
+---
+
+<div style="width:900px; margin:0px auto">
+
+<h3>
+	{{page.ktitle}}
+</h3>
+
+<p style="line-height: 160%">턱걸이주먹장부이음은 이음재의 수직방향으로 힘이 작용할 경우, 주먹장부에 작용하는 전단력에
+저항하는 단면적이 작아 응력이 집중되는 곳을 보완하기 위해 턱을 지어 걸친다. 턱을 낸 주먹장부를
+위에서 아래로 내려 끼워 결구한다..</p>	
+</div>	
+
+<div style="text-align:center; margin:20px 0px 30px 0px; display: block;">
+<iframe width="640" height="360" src="https://www.youtube.com/embed/c8vRF_0NmNA?autoplay=1&rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+</div>

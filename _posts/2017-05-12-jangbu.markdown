@@ -1,0 +1,38 @@
+---
+layout: post
+title:  basic construction(1)
+ktitle: 장부이음
+date:   2017-05-12 04:00:42 +0900
+categories: structure
+link: bc
+tag: 3Ddrawing
+---
+
+<div style="width:900px; margin:0px auto">
+
+<h3>
+	{{page.ktitle}}
+</h3>
+
+<p style="line-height: 160%">장부는 凸형태로 부재의 마구리를 깎아 길게 낸 부분을 말한다. 장부의 폭은 부재 폭의
+1/4~1/3 정도이며, 장부의 내민 길이는 장부의 폭보다 길게 한다. 장부이음은 이 장부를 凹형태의
+홈을 판 다른 부재에 밀어 넣어 조립하는 이음방식을 말한다. 이 이음방식은 부재 마구리에서 깎아낸
+장부를 이용하기 때문에 별도의 부재를 끼운 은장이음보다 부재 수축에 대해 결속력이 강하고,
+맞댄이음, 반턱이음보다 뒤틀림에 효과적이다.
+<br><br>	
+그러나 장부이음도 이음재의 축방향으로 인장력이 작용할 경우 결속력이 약해지므로 보강이
+필요하다. 장부 이음의 보강 방법은 이음재의 축방향에 따라 차이가 나는데 수직부재 간 장부이음은
+주로 수평방향으로 산지를 끼워 결속을 보강하고, 수평부재 간 장부이음은 주로 띠철 등으로 철물
+보강을 한다.
+<br><br>
+
+수직부재 간 장부이음은 보은 법주사 팔상전과 대웅전, 금산사 미륵전과 같이 중층건물의 고주
+에서 확인된다. 또한 상·하 2본의 부재를 凹凸형으로 연결하였는데 凸형의 장부가 아래로 향하게
+한 경우가 대부분이나 어떤 부재는 그 반대의 경우도 있다. 수평방향으로 2개의 산지를 꽂아 보강
+하였으며 산지의 모양은 원형이 대부분이나 금산사 미륵전은 방형의 산지를 사용하였다.</p>	
+</div>	
+
+<div style="text-align:center; margin:20px 0px 30px 0px; display: block;">
+
+<iframe width="70%" height="370" src="https://www.youtube.com/embed/9IOSHZiMT9c?autoplay=1&rel=0" frameborder="0" allowfullscreen></iframe>
+</div>

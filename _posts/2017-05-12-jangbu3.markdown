@@ -1,0 +1,25 @@
+---
+layout: post
+title:  basic construction(1)
+ktitle: 턱솔장부맞춤
+date:   2017-05-12 04:00:42 +0900
+categories: structure
+link: bc
+tag: 3Ddrawing
+---
+
+<div style="width:900px; margin:0px auto">
+
+<h3>
+	{{page.ktitle}}
+</h3>
+
+<p style="line-height: 160%">짧고 얄팍한 장부인 턱솔을 낸 한 재를 다른 재의 홈에 끼워 맞춘 결구방식이다.
+비교적 얄팍한 부재에 턱솔장부를 내어 맞춘다. 一, ㄱ, ㄷ, ㅁ, 十자형의 다양한 턱솔형태가
+있다. 주로 수장재의 맞춤에서 보이며, 인방과 벽선, 주선, 문선과 우물마루 등의 동귀틀에 끼이는
+마루널, 우물천장의 장다란과 동다란 간의 맞춤에서 볼 수 있다.</p>	
+</div>	
+
+<div style="text-align:center; margin:20px 0px 30px 0px; display: block;">
+<iframe width="640" height="360" src="https://www.youtube.com/embed/Z1OgWDe3f9o?autoplay=1&rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+</div>

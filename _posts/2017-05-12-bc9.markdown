@@ -1,0 +1,35 @@
+---
+layout: post
+title:  basic construction(1)
+ktitle: 엇걸이이음
+date:   2017-05-12 04:00:42 +0900
+categories: structure
+link: bc9
+tag: 3Ddrawing
+---
+
+<div style="width:900px; margin:0px auto">
+
+<h3>
+	{{page.ktitle}}
+</h3>
+
+
+
+<p style="line-height: 160%">각 부재를 턱을 내어 걷어낸 다음, 마구리 한쪽에 一자형 턱솔을 내어 서로 엇거는 이음
+방식이다.주로 수평재 간 이음에 사용된다. 부재 측면에 산지를 꽂아 결속을 보강하지만 이음 중앙에
+산지를 꽂아 보강하기도 한다. 김제 귀신사 대적광전에서 사용된 엇걸이이음은 이음 중앙에 산지를
+꽂아 보강한 경우이다. 대적광전의 장여, 뜬장여 등에서 확인된다..</p>	
+</div>	
+
+<div style="text-align:center; margin:20px 0px 30px 0px; display: block;">
+
+
+<iframe style="margin-bottom:20px" width="640" height="360" src="https://www.youtube.com/embed/xmJVaTYZaWM?autoplay=1&rel=0" frameborder="0" allowfullscreen></iframe>
+
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/XUCpxtiFgMk?autoplay=1&rel=0" frameborder="0" allowfullscreen></iframe>
+
+
+
+</div>

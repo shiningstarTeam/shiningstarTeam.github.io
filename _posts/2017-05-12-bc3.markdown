@@ -1,0 +1,29 @@
+---
+layout: post
+title:  basic construction(1)
+ktitle: 연귀산지맞춤
+date:   2017-05-12 04:00:42 +0900
+categories: structure
+link: bc3
+tag: 3Ddrawing
+---
+
+<div style="width:900px; margin:0px auto">
+
+<h3>
+	{{page.ktitle}}
+</h3>
+
+
+<p style="line-height: 160%">두 부재의 마구리를 45。또는 경사각으로 대고, 옆에서 산지로 내어 물리는 결구방식이다.</p>	
+</div>	
+
+<div style="text-align:center; margin:20px 0px 30px 0px; display: block;">
+
+<iframe  style="margin-bottom:20px" width="640" height="360" src="https://www.youtube.com/embed/-c1H9uEZOFA?autoplay=1&rel=0" frameborder="0" allowfullscreen></iframe>
+
+
+<iframe  style="margin-bottom:20px" width="640" height="360" src="https://www.youtube.com/embed/ddx9eRD03zk?autoplay=1&rel=0" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/RDBw9XSC-bU?autoplay=1&rel=0" frameborder="0" allowfullscreen></iframe>
+</div>

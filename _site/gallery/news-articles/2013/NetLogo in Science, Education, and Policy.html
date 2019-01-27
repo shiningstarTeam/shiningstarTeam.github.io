@@ -1,0 +1,143 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="IE=edge" http-equiv="X-UA-Compatible" />
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+<title>NetLogo in Science, Education, and Policy | Northwestern Institute on Complex Systems (NICO)</title>
+<meta content="Official web site of Northwestern Institute on Complex Systems" name="description" />
+<meta content="NICO, Complex systems, Northwestern University" name="keywords" />
+
+
+<meta content="Wed, 15 Mar 2017 14:44:54 -0500" name="date" />
+
+<meta content="NICO | Northwestern-Argonne" name="title" />
+<meta content="eng" name="language" />
+<meta content="Copyright 2012 Northwestern University" name="rights" />
+<meta content="INDEX, FOLLOW" name="robot" />
+<link href="../../../styles/mccnicoprint.css" media="print" rel="stylesheet" type="text/css" />
+
+<link href="../../../styles/reset_uni.css" rel="stylesheet" type="text/css" />
+<link href="../../../styles/universal.css" rel="stylesheet" type="text/css" />
+<link href="../../../styles/tmp.css" rel="stylesheet" type="text/css" />
+<link href="../../../styles/main-navigation.css" rel="stylesheet" type="text/css" />
+
+<script src="../../../scripts/jquery/jquery-1.8.0.min.js" type="text/javascript" ></script>
+
+<script type="text/javascript">
+    //For search form
+    function switchText()
+    {
+        if ($(this).val() == $(this).attr('title'))
+            $(this).val('').removeClass('ex');
+        else if ($.trim($(this).val()) == '')
+            $(this).addClass('ex').val($(this).attr('title'));
+    }
+    
+    $(document).ready(function() {
+        $('input[type=text][title!=""]').each(function() {
+            if ($.trim($(this).val()) == '') $(this).val($(this).attr('title'));
+            if ($(this).val() == $(this).attr('title')) $(this).addClass('ex');
+        }).focus(switchText).blur(switchText);
+        
+        $('form').submit(function() {
+            $(this).find('input[type=text][title!=""]').each(function() {
+                if ($(this).val() == $(this).attr('title')) $(this).val('');
+            });
+        });
+    });
+</script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-36406748-1']);
+  _gaq.push(['_setDomainName', 'northwestern.edu']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body>
+    <!-- Google Tag Manager -->
+ 
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KX6F23&gtm_auth=wMILQr1-arU9JWeIZPlVAQ&gtm_preview=env-1&gtm_cookies_win=x"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl+'&gtm_auth=wMILQr1-arU9JWeIZPlVAQ&gtm_preview=env-1&gtm_cookies_win=x';f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KX6F23');</script>
+
+<!-- End Google Tag Manager -->
+    <div id="mainFrame_container">
+        <div class="mainFrame">
+            <div id="header">
+                <div class="header_logo_nico"><a href="../../../index.html"><img alt="Northwestern Institute on Complex Systems" height="110" src="../../../img/logo-top.jpg" width="196" /></a></div>
+<div class="header_text">
+<h1 class="header_organization">Northwestern Institute on Complex Systems</h1>
+<div class="header_parent_organization"><a href="http://www.northwestern.edu/" target="_blank">Northwestern University</a></div>
+</div>
+<div class="header_logo_facebook"><a href="https://www.facebook.com/NICONorthwestern" target="_blank"><img alt="Facebook Link" height="23" src="../../../img/nico-fb.jpg" width="20" /></a></div>
+<div class="header_logo_search"><img alt="Search" height="23" src="../../../img/structure/nico-search.jpg" width="150" />
+<form action="http://googlesearch.northwestern.edu/search" id="search" method="get" name="search"><input class="searchInput" id="q" maxlength="127" name="q" title="Search NICO..." type="text" /> <input name="sitesearch" type="hidden" value="http://www.nico.northwestern.edu" /> <input name="output" type="hidden" value="xml_no_dtd" /> <input name="client" type="hidden" value="default_oneboxes" /> <input name="proxystylesheet" type="hidden" value="default_oneboxes" /> <input name="site" type="hidden" value="default_collection" /></form>
+</div>
+<div class="header_logo_kellogg"><a href="http://www.kellogg.northwestern.edu/" target="_blank"><img alt="Kellogg School of Management" height="39" src="../../../img/nico-kellogg.png" width="110" /></a></div>
+<div class="header_logo_mccormick"><a href="http://www.mccormick.northwestern.edu/" target="_blank"><img alt="Northwestern McCormick Engineering" height="39" src="../../../img/nico-mcc.jpg" width="308" /></a></div>
+            </div>
+            
+            <div id="navigation">
+                <div id="main-nav"><ul><li><a href="../../../index.html">Home</a></li><li><a href="../../../about/index.html">About</a></li><li><a href="../../../people/index.html">People</a></li><li><a href="../../../research/index.html">Research</a><div><ul><li><a href="../../../research/Data%20Science%20Initiative.html">Data Science Initiative</a></li><li><a href="../../../seminar-events/videos.html">Videos</a></li></ul></div></li><li><a href="../../../education/index.html">Education</a><div><ul><li><a href="../../../education/NICO101.html">NICO 101-0</a></li></ul></div></li><li class="current"><a href="../../index.html">News </a></li><li><a href="../../../seminar-events/index.html">Seminars &amp; Events</a><div><ul><li><a href="../../../seminar-events/videos.html">Videos</a></li><li><a href="../../../seminar-events/distinguished-speakers.html">NICO Distinguished Speakers Series</a></li></ul></div></li><li><a href="../../../support/index.html">Support NICO</a></li><li><a href="../../../contact/index.html">Contact Us</a><div><ul><li><a href="../../../contact/Jobs.html">Jobs</a></li></ul></div></li></ul></div>
+            </div>
+            
+            <div id="mainContainer_in">
+                <p class="breadcrumbs"><a href="../../../index.html">Home</a><span> &gt; </span><a href="../../index.html">News </a><span> &gt; </span><a href="Women%20in%20Science.html">2013</a><span> &gt; </span>NetLogo in Science, Education, and Policy</p>
+                <div id="main_content"><div class="pagetitle_container"><h2>NetLogo in Science, Education, and Policy</h2></div><div id="side_content"><p><img alt="Uri Wilensky" height="140" src="../../../images/people/main-faculty/Wilensky.jpg" width="130" /></p>
+<p>NetLogo developer Uri Wilensky</p></div><p>by Erin Kim</p>
+<p>On the screen, computer-generated ants scramble to find food to take back to the next. When they succeed, they leave a pheromone trail, helping other ants find their way to the food. To the left of the display are buttons to manipulate the behavior of the system, including the number of ants and the rate of diffusion of the pheromones. At first glance, it all looks very similar to a video game.</p>
+<p><img alt="NetLogo ants" height="555" src="../../../images/news-images/netlogo-ants.jpg" width="599" /></p>
+<p>The program, NetLogo, was created by Uri Wilensky, a Northwestern University professor and a member of the Northwestern Institute on Complex Systems. NetLogo is a computer program that allows the rapid development of simulations of emergent behavior in systems of many agents, such as ant food-collecting behavior and predator-prey relationships in an ecosystem. Designed for simplicity, NetLogo intends to appeal to a wide audience, whether young middle school students dipping their toes into science or advanced researchers trying to demonstrate their theories.</p>
+<p>Wilensky, a Professor of Learning Sciences and Computer Science, started NetLogo in the '90s, though the concept had been developing before then.</p>
+<p>As a graduate student, Wilensky taught undergraduate mathematics courses at Harvard. Though he received feedback that he was doing a great job, Wilensky said he "had a terrible feeling that the students weren't truly understanding the material."</p>
+<p>In graduate school, he met Benoit Mandelbrot, the originator of fractals, who was using computers to draw beautiful fractal patterns. Wilensky learned to program fractals and, in doing so, realized the power of computers to enable quick and deep exploration of mathematics. Wilensky realized that computers could become a learning tool for virtually anyone, so he started studying computer science and went back to school at MIT for another degree in 1988.</p>
+<p>At MIT, he studied with Seymour Papert who was using the computer language Logo to enable children to learn mathematics by programming computers.</p>
+<p>During his time at MIT, Wilensky and a colleague developed an educational environment, StarLogo, to create models and run math and science simulations on a supercomputer. "We were sort of laughed at," he said. "This was a multi-million dollar supercomputer; the idea that it would be used for education seemed ludicrous."</p>
+<p>StarLogo was one of the first "agent-based modeling" (ABM) environments that enabled modelers to give depictions, properties and behaviors to computer "agents," entities that are created in computer code and depicted on a computer screen.</p>
+<p>Wilensky started giving lectures about the use of agent-based modeling in education in front of physicists, chemists and biologists, expecting them to be skeptical of the non-traditional approach to practicing and learning science. However, on the whole, the approach was well received, as the scientists saw the potential of ABM for both education and research. "Scientists saw the potential of being able to take an 'emergent' perspective, that is to see how micro-level interactions can generate large-scale patterns. Those conversations convinced me that ABM could both be transformative in education, and that all of science could be restructured to be thought of in an emergent massively parallel agent-based way," Wilensky said. "So I resolved to design NetLogo, a more complete ABM environment, to be a general purpose system that could be used for education, research, science and policy."</p>
+<p>Wilensky was most concerned with making a low threshold, high ceiling product -- meaning he wanted it to be easily used and understood by anyone with any level of computer knowledge yet still apply to science with high-level concepts.</p>
+<p>"Most scientists aren&#8217;t great programmers, so it&#8217;s helpful for them to have a way of experimenting on the computer without needing highly technical knowledge," the professor said. "And kids marveled at the fact that they could make things happen right away and yet do real science."</p>
+<p>He officially released NetLogo in 1999, while he was teaching at Tufts University. A year later, Wilensky relocated to Northwestern University, bringing NetLogo and the Center for Connected Learning and Computer Based Modeling, where NetLogo was developed.</p>
+<p>Since the move, NetLogo has greatly expanded. For example, the HubNet feature was added to allow many users to participate and collaborate in simulations. The audience has greatly broadened, expanding into more areas, especially in social science. NetLogo is used in thousands of classrooms at a wide range of educational levels. It is offered in several languages, including Chinese, Czech, Spanish and Japanese, and there are tens of thousands of users on every continent, in countries as diverse as Australia, Indonesia, Bulgaria, Norway, Venezuela, Rwanda and Namibia.</p>
+<p>It was commonly thought that one tool could not be simultaneously useful for both scientists and younger students. Yet, even though middle school classrooms and scientific laboratories alike use NetLogo, it receives enthusiastic responses from both groups. Researchers use NetLogo for their publications, while many teachers find that young learners are more interested in science after using the program.</p>
+<p>"We've seen this over and over again from thousands of communities and kids," Wilensky said. "You can gain a deeper understanding when you can grow a model in a computer.<br />
+ The teachers we've worked with have seen large gains of understanding, plus increases in students' motivation and changes in their attitudes toward science."</p>
+<p>Now the CCL director has about 20 students, colleagues and employees helping him with the project. In addition, NetLogo has started partnering with museums, allowing children to get a better understanding of an exhibit (such as an exhibit on evolution) by playing and working in the computerized modes. Over the next few years, Wilensky hopes to expand into more museums, but also develop NetLogo to run more smoothly in a Web browser that should make it even easier to use in schools.</p>
+<p>"When I first started working on ABM, I thought I was designing a product primarily for educational purposes," the NetLogo founder said. "There were more specialized competitor products that were only in the science market. I didn't know that we would end up as leaders in both markets. But retrospectively, it makes sense that both markets needed a low-threshold way of doing science through the computer."</p>
+<p>He hopes that because the program is easy to use, people will use it to effect change in the world -- not only in terms of education, but also in policy and civic discourse.</p>
+<p>"This is a new way of understanding the world and it can radically transform lots of domains of knowledge from inaccessible to accessible," Wilensky said. "At a time when we see so many policy decisions requiring understanding of science and big data, our hope is that these types of tools will be used in public discourse, as methods of making informed arguments, and by citizens as evidence for their claims."</p>
+<p><img alt="NetLogo wolf-sheep predation" height="533" src="../../../images/news-images/netlogo-wolves.jpg" width="640" /></p>
+<p>NetLogo wolf-sheep predation</p></div>
+            </div>
+            
+            <div id="footer">
+                <div class="footer_logo_northwestern"><a href="http://northwestern.edu" target="_blank"><img alt="Northwestern University" height="112" src="../../../img/nu-logo.jpg" width="150" /></a></div>
+<a href="www.northwestern.edu" ></a> 
+<div class="footer_text">
+<div class="footer_links">
+<p><a href="../../../index.html">NICO Home</a> | <a href="../../../about/contact-us/index.html">Contact Us</a> | <a href="http://policies.northwestern.edu" target="_blank">University Policy Statements</a> | <a href="http://planitpurple.northwestern.edu" target="_blank">Plan-It Purple</a></p>
+</div>
+<div class="footer_info">
+<p>The Northwestern Institute on Complex Systems (NICO)<br />
+ Chambers Hall 600 Foster Street, Evanston, IL 60208-4057 | Phone: 847-491-2527 | Email: <a href="mailto:nico@northwestern.edu" target="_blank">nico@northwestern.edu</a><br />
+ &#169; 2013 Northwestern University - All rights reserved.</p>
+</div>
+</div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+<!-- Localized -->

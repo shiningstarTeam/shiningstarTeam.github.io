@@ -1,0 +1,27 @@
+---
+layout: post
+title:  basic construction(1)
+ktitle: 나비장쪽매
+date:   2017-05-12 04:00:42 +0900
+categories: structure
+link: bc
+tag: 3Ddrawing
+---
+
+<div style="width:900px; margin:0px auto">
+
+<h3>
+	{{page.ktitle}}
+</h3>
+
+
+
+<p style="line-height: 160%">널의 상면에 반쪽 나비장 홈을 파서 두 널을 맞대고, 별도의 나비장으로 연결하는 쪽매
+방식이다.</p>	
+</div>	
+
+<div style="text-align:center; margin:20px 0px 30px 0px; display: block;">
+
+<iframe width="70%" height="370px" src="https://www.youtube.com/embed/KXNcBLyVAeo?autoplay=1&rel=0" frameborder="0" allowfullscreen></iframe>
+
+</div>

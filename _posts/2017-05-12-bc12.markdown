@@ -1,0 +1,33 @@
+---
+layout: post
+title:  반턱맞춤
+ktitle: 반턱맞춤
+date:   2017-05-12 04:00:42 +0900
+categories: structure
+link: bc12
+tag: 3Ddrawing
+---
+
+<div style="width:900px; margin:0px auto">
+
+<h3>
+	{{page.ktitle}}
+</h3>
+
+
+
+<p style="line-height: 160%">.창방 간 반턱맞춤은 사갈 튼 우주에서 결구된다. 우주 머리에서 창방 간 반턱맞춤 하는 방식은
+창방의 너비를 줄이지 않고 온통으로 반턱맞춤하는 경우와 창방의 너비를 좁혀 반턱맞춤하는
+경우가 있다. 창방 크기 그대로 반턱맞춤하는 경우는 안동 봉정사 극락전, 강릉 임영관 삼문,
+영암 도갑사 해탈문 등 고려말 조선전기 주심포계 목조건물에서 확인된다. 이때 창방의 크기는
+기둥 머리를 따낸 홈의 크기가 되어 기둥이 구조적 기능을 할 수 있는 단면적과 반비례하는 관계가
+된다. 따라서 기둥이 구조적 역할을 할 수 있는 단면적을 확보하기 위해 창방의 크기, 특히 창방의
+너비를 고려해야 한다. 주심포계 목조건물의 창방 너비는 대부분 장여 폭으로 비교적 크지 않아서
+우주 머리에서 창방 크기 그대로 반턱맞춤이 가능하다.</p>	
+</div>	
+
+<div style="text-align:center; margin:20px 0px 30px 0px; display: block;">
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/GZkTN3ijRKo?autoplay=1&rel=0" frameborder="0" allowfullscreen></iframe>
+
+</div>

@@ -1,0 +1,106 @@
+<head>
+<meta content="IE=edge" http-equiv="X-UA-Compatible" />
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+<title>PTCAT</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.css
+Copy
+">
+<meta content="Official web site of Northwestern Institute on Complex Systems" name="description" />
+<meta content="NICO, Complex systems, Northwestern University" name="keywords" />
+
+
+<meta content="Wed, 26 Apr 2017 000:25:05 -0500" name="date" />
+
+<meta content="NICO | Northwestern-Argonne" name="title" />
+<meta content="eng" name="language" />
+<meta content="Copyright 2012 Northwestern University" name="rights" />
+<meta content="INDEX, FOLLOW" name="robot" />
+<link href="{{site.baseurl}}/styles/mccnicoprint.css" media="print" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="{{site.baseurl}}/style_customed.css">
+
+<link href="{{site.baseurl}}/styles/reset_uni.css" rel="stylesheet" type="text/css" />
+<link href="{{site.baseurl}}/styles/universal.css" rel="stylesheet" type="text/css" />
+<link href="{{site.baseurl}}/styles/tmp.css" rel="stylesheet" type="text/css" />
+<link href="{{site.baseurl}}/styles/homepage.css" rel="stylesheet" type="text/css" />
+<link href="{{site.baseurl}}/styles/main-navigation.css" rel="stylesheet" type="text/css" />
+
+
+<script src="{{site.baseurl}}/scripts/jquery/jquery-1.8.0.min.js" type="text/javascript" ></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<script src="{{site.baseurl}}/scripts/jquery-ui/jquery-ui-tabs.js" type="text/javascript" ></script>
+<script src="{{site.baseurl}}/02/main.js"></script>
+<!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"> -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <!-- <link rel="stylesheet" href="/resources/demos/style.css"> -->
+  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<script>
+  $( function() {
+    $( ".menu" ).menu({
+      items: "> :not(.ui-widget-header)"
+    });
+  } );
+  </script>
+  
+<style>
+
+.menu{
+  text-align: center;
+  width:300px;
+
+}
+
+.menu li{
+
+  padding:5px;
+}
+
+.ui-widget-header{
+
+  font-size:15px;
+  padding:10px;
+}
+
+</style>
+
+<script type="text/javascript">
+    //For search form
+    function switchText()
+    {
+        if ($(this).val() == $(this).attr('title'))
+            $(this).val('').removeClass('ex');
+        else if ($.trim($(this).val()) == '')
+            $(this).addClass('ex').val($(this).attr('title'));
+    }
+    
+    $(document).ready(function() {
+        $('input[type=text][title!=""]').each(function() {
+            if ($.trim($(this).val()) == '') $(this).val($(this).attr('title'));
+            if ($(this).val() == $(this).attr('title')) $(this).addClass('ex');
+        }).focus(switchText).blur(switchText);
+        
+        $('form').submit(function() {
+            $(this).find('input[type=text][title!=""]').each(function() {
+                if ($(this).val() == $(this).attr('title')) $(this).val('');
+            });
+        });
+    });
+</script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-36406748-1']);
+  _gaq.push(['_setDomainName', 'northwestern.edu']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>

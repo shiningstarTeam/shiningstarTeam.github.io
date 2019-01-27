@@ -1,0 +1,28 @@
+---
+layout: post
+title:  basic construction(1)
+ktitle: 내림주먹장부맞춤
+date:   2017-05-12 04:00:42 +0900
+categories: structure
+link: bc
+tag: 3Ddrawing
+---
+
+<div style="width:900px; margin:0px auto">
+
+<h3>
+	{{page.ktitle}}
+</h3>
+
+<p style="line-height: 160%">수평부재 단면 춤의 1/3~1/2 정도를 주먹장부로 만들고 수평부재 높이보다 주먹장부만큼
+더 높게 판 장부 홈에 끼운 후 위에서 아래로 내려 맞춘 결구방식이다.
+주로 수평부재가 수직부재 몸통에 결구될 때 사용하는 방식이다. 주먹장부는 장부끝이 장부시작너비
+보다 넓기 때문에 수평부재에 주먹장부를 낼 경우, 위에서 아래로 내려 맞추어 진다. 그리고 수직부재의
+몸통에 끼일 경우, 주먹장부 홈의 높이에 여유를 두어 맞추어야 한다. 그러므로 내림주먹장부맞춤을 한
+수직부재 몸통에는 결구된 주먹장부 높이만큼 공백이 생기는데 이를 쐐기로 박아 보강한다. 주로 고주에
+퇴보나 연결보가 연결되거나, 우주에 추녀를 고정하는 경우에 사용된다. 특히 우주에 추녀 뒤뿌리를 고정
+하기 위해 사용할 경우, 추녀가 들뜨는 것을 방지하기 위해 산지나 띠쇠로 보강하기도 한다.</p>	
+</div>	
+
+<div style="text-align:center; margin:20px 0px 30px 0px; display: block;">
+<iframe width="640" height="360" src="https://www.youtube.com/embed/8gLndmUKGbE?autoplay=1&rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></div>

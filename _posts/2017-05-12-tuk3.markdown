@@ -1,0 +1,35 @@
+---
+layout: post
+title:  basic construction(1)
+ktitle: 양걸침턱맞춤
+date:   2017-05-12 04:00:42 +0900
+categories: structure
+link: bc
+tag: 3Ddrawing
+---
+
+<div style="width:900px; margin:0px auto">
+
+<h3>
+	{{page.ktitle}}
+</h3>
+
+<p style="line-height: 160%">양걸침턱맞춤은 높이가 다른 곳에서 사용된 두 재가 수평으로 직교할 때, 낮은 곳에 위치한
+부재을 쌍턱으로 따고 조금 높은 곳에 위치한 부재를 내려 끼이게 결구한다. 큰 보에 작을 보가
+건너지를 때나 멍에 위에 장선을 걸칠 때 주로 사용된다.
+양걸침턱맞춤을 하면 두 부재 간 높이가 차이나는데 이를 이용한 대표적인 예가 보 방향 부재에
+숭어턱을 두어 도리와 결구되는 것이다. 맞배지붕 우주 위에 보 방향 부재에 숭어턱을 두고 도리와
+결구하면 도리 하단에는 장부 홈을 두어 맞추게 된다. 강릉 임영관 삼문의 해체 수리시 보 뿐
+아니라 초공, 우미량에 숭어턱을 두어 보수하였는데 우주에서 자연스럽게 양걸침턱맞춤을 하였다.
+강릉 임영관지 삼문은 맞배지붕으로, 2000~04년 수리시 부재를 교체하면서 초공, 우미량, 운공에
+숭어턱을 보강하였다. 이로 인해 우주 위 도리와 보 방향 부재의 양걸침턱맞춤을 볼 수 있다.
+도리는 숭어턱과 결구하기 위해 홈을 두었는데 1치(30mm)의 깊이로 가공하였다.
+일본에서는 나라시대‘井’자 모양으로 통나무를 쌓아 올려 지은 창고의 목재 결구에서 확인
+되거나 불전의 보와 도리가 결구될 때 주로 사용하였다.</p>	
+</div>	
+
+<div style="text-align:center; margin:20px 0px 30px 0px; display: block;">
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/xOMZd4xqg1M?autoplay=1&rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+</div>

@@ -1,0 +1,29 @@
+---
+layout: post
+title:  basic construction(1)
+ktitle: 자촉이음
+date:   2017-05-12 04:00:42 +0900
+categories: structure
+link: bc
+tag: 3Ddrawing
+---
+
+<div style="width:900px; margin:0px auto">
+
+<h3>
+	{{page.ktitle}}
+</h3>
+
+<p style="line-height: 160%">부재 중앙부에 너비의 1/3 정도의 홈을 낸 후, 마구리를 맞대고
+홈에 별도 부재인 자촉을 끼워 넣는 이음방식이다.
+잇는 두 부재의 접합부분을 모두 오목하게 홈을 파고, 별도 부재인
+자촉을 만들어 끼운다. 수직 부재 간 이음의 경우, 자촉과 두 부재 간
+비녀장, 산지 등을 꽂아 결속력을 보강한다. 보은 법주사 팔상전의
+사천주는 상·하기둥에 凹홈을 파고 맞댄이음을 한 다음, 자촉을 끼웠
+으며, 상·하기둥에 각각 두 개씩 산지를 끼워 연결하였다. 자촉이음은
+부재에 장부를 따로 내지 않기 때문에 장부이음보다 부재의 길이를
+줄일 수 있는 장점이 있다..</p>	
+</div>	
+
+<div style="text-align:center; margin:20px 0px 30px 0px; display: block;">
+<iframe width="640" height="360" src="https://www.youtube.com/embed/rxdGlvvrmHg?autoplay=1&rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></div>

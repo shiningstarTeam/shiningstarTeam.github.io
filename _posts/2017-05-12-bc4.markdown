@@ -1,0 +1,29 @@
+---
+layout: post
+title:  basic construction(1)
+ktitle: 촉맞춤
+date:   2017-05-12 04:00:42 +0900
+categories: structure
+link: bc4
+tag: 3Ddrawing
+---
+
+<div style="width:900px; margin:0px auto">
+
+<h3>
+	{{page.ktitle}}
+</h3>
+
+
+
+<p style="line-height: 160%">촉의 형태는 방형, 원형이 대부분으로 창방 혹은 평방과 주두, 동자주와 보, 첨차와 소로 등에서
+보이며 중층 건물의 경우 상층기둥과 하부 받침 부재와의 맞춤에서도 볼 수 있다.</p>	
+</div>	
+
+<div style="text-align:center; margin:20px 0px 30px 0px; display: block;">
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/wq4oWaTu1wM?autoplay=1&rel=0" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/DdLMrKe0bzc?autoplay=1&rel=0" frameborder="0" allowfullscreen></iframe>
+
+</div>

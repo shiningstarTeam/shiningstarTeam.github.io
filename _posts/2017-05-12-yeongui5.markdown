@@ -1,0 +1,25 @@
+---
+layout: post
+title:  basic construction(1)
+ktitle: 반연귀맞춤
+date:   2017-05-12 04:00:42 +0900
+categories: structure
+link: bc
+tag: 3Ddrawing
+---
+
+<div style="width:900px; margin:0px auto">
+
+<h3>
+	{{page.ktitle}}
+</h3>
+
+<p style="line-height: 160%">부재의 춤을 반턱으로 하여 상단만 연귀맞춤하는 결구방식이다.
+인방재, 문선에서 사용된다. 표면의 한 면에만 맞춤이 보인다.</p>	
+</div>	
+
+<div style="text-align:center; margin:20px 0px 30px 0px; display: block;">
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/7zfD85NBsD4?autoplay=1&rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+</div>
