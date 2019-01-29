@@ -34,7 +34,7 @@ body {
 #header {
     border-top: solid 6px #591A60;
     /*background: url(../img/structure/background-top-logo.jpg) repeat-x;*/
-    height: 100px;
+    height: 111px;
     background-color: #F1F0FF
 }
 
@@ -61,7 +61,7 @@ body {
 
 #header .header_text .header_organization {
     margin: 0;
-    font-size: 18px;
+    font-size: 21px;
     line-height: 1.2em;
 }
 
