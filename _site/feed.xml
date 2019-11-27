@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-11-27T11:23:44+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Cybernetics Research Group</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</subtitle><entry><title type="html">Clay</title><link href="http://localhost:4000/2019/11/27/Clay.html" rel="alternate" type="text/html" title="Clay" /><published>2019-11-27T00:00:00+09:00</published><updated>2019-11-27T00:00:00+09:00</updated><id>http://localhost:4000/2019/11/27/Clay</id><content type="html" xml:base="http://localhost:4000/2019/11/27/Clay.html"></content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Green(pg G1)</title><link href="http://localhost:4000/2019/11/27/green(PG-G1).html" rel="alternate" type="text/html" title="Green(pg G1)" /><published>2019-11-27T00:00:00+09:00</published><updated>2019-11-27T00:00:00+09:00</updated><id>http://localhost:4000/2019/11/27/green(PG-G1)</id><content type="html" xml:base="http://localhost:4000/2019/11/27/green(PG-G1).html"></content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Concrete copy</title><link href="http://localhost:4000/2017/06/13/concrete-copy.html" rel="alternate" type="text/html" title="Concrete copy" /><published>2017-06-13T00:00:00+09:00</published><updated>2017-06-13T00:00:00+09:00</updated><id>http://localhost:4000/2017/06/13/concrete%20copy</id><content type="html" xml:base="http://localhost:4000/2017/06/13/concrete-copy.html">&lt;p&gt;매—
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-11-27T11:32:44+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Cybernetics Research Group</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</subtitle><entry><title type="html">Clay</title><link href="http://localhost:4000/2019/11/27/Clay.html" rel="alternate" type="text/html" title="Clay" /><published>2019-11-27T00:00:00+09:00</published><updated>2019-11-27T00:00:00+09:00</updated><id>http://localhost:4000/2019/11/27/Clay</id><content type="html" xml:base="http://localhost:4000/2019/11/27/Clay.html"></content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Concrete copy</title><link href="http://localhost:4000/2017/06/13/concrete-copy.html" rel="alternate" type="text/html" title="Concrete copy" /><published>2017-06-13T00:00:00+09:00</published><updated>2017-06-13T00:00:00+09:00</updated><id>http://localhost:4000/2017/06/13/concrete%20copy</id><content type="html" xml:base="http://localhost:4000/2017/06/13/concrete-copy.html">&lt;p&gt;매—
 layout: post
 title:  structure
 date:   2017-06-10 18:00:01 -0600
@@ -684,6 +684,125 @@ color:#333;
 &lt;/div&gt;
 &lt;h4 style=&quot;margin-top:54px&quot;&gt;&amp;#8226; 크기(Size Distribution)&lt;/h4&gt;
 	&lt;img src=&quot;/post_images/Quicklime(CO1)Red14.jpg&quot; style=&quot;width:60%&quot; alt=&quot;Quicklime(CO1)2&quot; /&gt;
+&lt;h5 style=&quot;margin-top:-10px; margin-bottom:30px;&quot;&gt;&lt;/h5&gt;
+&lt;/div&gt;
+&lt;script&gt;
+	$(document).ready(
+	function(){
+$('#information').find('a').css(&quot;color&quot;,&quot;purple&quot;);
+})
+&lt;/script&gt;</content><author><name></name></author><category term="Material" /><summary type="html">&amp;#8226; 정의(Definition)</summary></entry><entry><title type="html">Quicklime(CO1)</title><link href="http://localhost:4000/material/2017/06/10/green(PG-G1).html" rel="alternate" type="text/html" title="Quicklime(CO1)" /><published>2017-06-11T09:00:01+09:00</published><updated>2017-06-11T09:00:01+09:00</updated><id>http://localhost:4000/material/2017/06/10/green(PG-G1)</id><content type="html" xml:base="http://localhost:4000/material/2017/06/10/green(PG-G1).html">&lt;style&gt;
+h4{
+	text-align: left;
+margin-left:0px;
+margin-bottom:5px;
+margin-top:18px;
+color:#333;
+}p{
+	line-height: 160%;
+	text-align: left;
+}&lt;/style&gt;
+
+&lt;div style=&quot;width:800px; margin:0px  auto&quot;&gt;
+&lt;div style=&quot;margin:0px auto; width:200px; height:150px;&quot;&gt;
+&lt;/div&gt;
+&lt;h4 style=&quot;margin-bottom:8px&quot;&gt;&amp;#8226; 정의(Definition)&lt;/h4&gt;&lt;br /&gt;
+
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align:center; margin:0px auto; display: block; width:800px&quot;&gt;
+&lt;h4 style=&quot;margin-bottom:10px&quot;&gt;&amp;#8226; 조성(Composition)&lt;/h4&gt;&lt;br /&gt;
+&lt;table&gt;
+&lt;tr&gt;
+        &lt;th&gt;No&lt;/th&gt;
+        &lt;th&gt;Component&lt;/th&gt;
+        &lt;th&gt;Result&lt;/th&gt;
+        &lt;th&gt;Unit&lt;/th&gt;
+        &lt;th&gt;Det.limit&lt;/th&gt;
+        &lt;th&gt;El.line&lt;/th&gt;
+        &lt;th&gt;Intensity&lt;/th&gt;
+        &lt;th&gt;w/o normal&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td&gt;Na2O&lt;/td&gt;
+        &lt;td&gt;0.137&lt;/td&gt;
+        &lt;td&gt;mass%&lt;/td&gt;
+        &lt;td&gt;0.01892&lt;/td&gt;
+        &lt;td&gt;Na-KA&lt;/td&gt;
+        &lt;td&gt;0.3275&lt;/td&gt;
+        &lt;td&gt;0.1332&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;2&lt;/td&gt;
+        &lt;td&gt;SO3&lt;/td&gt;
+        &lt;td&gt;0.113&lt;/td&gt;
+        &lt;td&gt;mass%&lt;/td&gt;
+        &lt;td&gt;0.00134&lt;/td&gt;
+        &lt;td&gt;S-KA&lt;/td&gt;
+        &lt;td&gt;4.5203&lt;/td&gt;
+        &lt;td&gt;0.1094 &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;3&lt;/td&gt;
+        &lt;td&gt;Cr2O3&lt;/td&gt;
+        &lt;td&gt;99.7&lt;/td&gt;
+        &lt;td&gt;mass%&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;Cr-KA&lt;/td&gt;
+        &lt;td&gt;3546.8547&lt;/td&gt;
+        &lt;td&gt;96.7271&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;h5 style=&quot;margin-top:15px&quot;&gt;[Table 2-1. Chemical Composition of 안료 Green(PG_G1)]&lt;/h5&gt;
+&lt;br /&gt;
+&lt;h4 style=&quot;margin-bottom:40px; margin-top:20px&quot;&gt;&amp;#8226; 상분석(Phase Analysis)&lt;/h4&gt;
+&lt;img src=&quot;/post_images/Quicklime(CO1)green1.jpg&quot; style=&quot;width:100%; margin-bottom:10px;&quot; /&gt;
+&lt;h5&gt;[Figure 2-1. X-Ray Diffraction of 안료 Red(PG_B1) Materials &amp;amp;  Phase Analysis]&lt;/h5&gt;
+&lt;h5 style=&quot;margin-top:40px; margin-bottom:10px&quot;&gt;&lt;/h5&gt;
+&lt;table style=&quot;margin:30px 30px 10px 20px; margin-top:0px&quot;&gt;
+	&lt;tr&gt;
+		&lt;th style=&quot;width:33.3%&quot;&gt;Material&lt;/th&gt;
+		&lt;th style=&quot;width:33.3%&quot;&gt;Data&lt;/th&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Eskolaite&lt;/td&gt;
+		&lt;td&gt;100.0%&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+&lt;br /&gt;
+&lt;h4 style=&quot;margin-top:28px&quot;&gt;&amp;#8226; 형상(Morphlogy)&lt;/h4&gt;
+&lt;br /&gt;
+&lt;div class=&quot;morphlogy&quot;&gt;
+&lt;div style=&quot;display: flex; width: 500px; margin:0px auto&quot;&gt;
+	&lt;img src=&quot;/post_images/Quicklime(CO1)green2.jpg&quot; /&gt;
+	&lt;img src=&quot;/post_images/Quicklime(CO1)green3.jpg&quot; /&gt;
+       
+&lt;/div&gt;
+&lt;div style=&quot;display: flex; width: 500px; margin:0px auto&quot;&gt;
+	&lt;img src=&quot;/post_images/Quicklime(CO1)green4.jpg&quot; /&gt;
+    &lt;img src=&quot;/post_images/Quicklime(CO1)green5.jpg&quot; /&gt;
+&lt;/div&gt;
+&lt;div style=&quot;display: flex; width: 500px; margin:0px auto&quot;&gt;
+    &lt;img src=&quot;/post_images/Quicklime(CO1)green6.jpg&quot; /&gt;
+    &lt;img src=&quot;/post_images/Quicklime(CO1)green7.jpg&quot; /&gt;
+    
+&lt;/div&gt;
+&lt;div style=&quot;display: flex; width: 500px; margin:0px auto&quot;&gt;
+    &lt;img src=&quot;/post_images/Quicklime(CO1)green8.jpg&quot; /&gt;
+    &lt;img src=&quot;/post_images/Quicklime(CO1)green9.jpg&quot; /&gt;
+&lt;/div&gt;
+&lt;div style=&quot;display: flex; width: 500px; margin:0px auto&quot;&gt;
+    &lt;img src=&quot;/post_images/Quicklime(CO1)green10.jpg&quot; /&gt;
+    &lt;img src=&quot;/post_images/Quicklime(CO1)green11.jpg&quot; /&gt;
+&lt;/div&gt;
+&lt;div style=&quot;display: flex; width: 500px; margin:0px auto&quot;&gt;
+    &lt;img src=&quot;/post_images/Quicklime(CO1)green12.jpg&quot; /&gt;
+    &lt;img src=&quot;/post_images/Quicklime(CO1)green14.jpg&quot; /&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h4 style=&quot;margin-top:54px&quot;&gt;&amp;#8226; 크기(Size Distribution)&lt;/h4&gt;
+	&lt;img src=&quot;/post_images/Quicklime(CO1)Green15.jpg&quot; style=&quot;width:60%&quot; alt=&quot;Quicklime(CO1)2&quot; /&gt;
 &lt;h5 style=&quot;margin-top:-10px; margin-bottom:30px;&quot;&gt;&lt;/h5&gt;
 &lt;/div&gt;
 &lt;script&gt;
