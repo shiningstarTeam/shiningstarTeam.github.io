@@ -223,10 +223,27 @@ color:#333;
 }p{
 	line-height: 160%;
 	text-align: left;
-}</style>
+}
+
+.container {
+  position: relative;
+  display: none;
+}
+
+.closebtn {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  color: white;
+  font-size: 35px;
+  cursor: pointer;
+}
+
+
+</style>
 
 <div style="width:800px; margin:0px  auto">
-<div style="margin:0px auto; width:200px; height:150px;">
+<div style="margin:0px auto; width:200px; height:0px;">
 </div>
 <h4 style="margin-bottom:8px">&#8226; 정의(Definition)</h4><br />
 
@@ -323,8 +340,8 @@ color:#333;
 <br />
 <div class="morphlogy">
 <div style="display: flex; width: 500px; margin:0px auto">
-	<img src="/post_images/Quicklime(CO1)Red2.jpg" />
-	<img src="/post_images/Quicklime(CO1)Red3.jpg" />
+	<img src="/post_images/Quicklime(CO1)Red2.jpg" onclick="myFunction(this);" />
+	<img src="/post_images/Quicklime(CO1)Red3.jpg" onclick="myFunction(this);" />
        
 </div>
 <div style="display: flex; width: 500px; margin:0px auto">
@@ -353,11 +370,27 @@ color:#333;
 	<img src="/post_images/Quicklime(CO1)Red14.jpg" style="width:60%" alt="Quicklime(CO1)2" />
 <h5 style="margin-top:-10px; margin-bottom:30px;"></h5>
 </div>
+
+<div class="container">
+  <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+  <img id="expandedImg" style="width:100%" />
+</div>
+
 <script>
 	$(document).ready(
 	function(){
 $('#information').find('a').css("color","purple");
 })
+
+
+function myFunction(imgs) {
+  var expandImg = document.getElementById("expandedImg");
+  var imgText = document.getElementById("imgtext");
+  expandImg.src = imgs.src;
+  imgText.innerHTML = imgs.alt;
+  expandImg.parentElement.style.display = "block";
+}
+
 </script>
 
 
